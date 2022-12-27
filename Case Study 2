@@ -1,0 +1,134 @@
+# necessary libs
+library(tidyverse)
+library(gridExtra)
+library(corrr)
+library(corrplot)library(ggpubr)
+
+# Load csv dataset into working environment
+daily_activity <- read_csv("dailyActivity_merged.csv") 
+daily_calories <- read_csv("dailyCalories_merged.csv")
+daily_Intensities <- read_csv("dailyIntensities_merged.csv")
+daily_Steps <- read_csv("dailySteps_merged.csv")
+heart_ratesec <- read_csv("heartrate_seconds_merged.csv") 
+minute_MET <- read_csv("minuteMETsNarrow_merged.csv")
+daily_sleep <- read_csv("sleepDay_merged.csv")
+weight_log <- read_csv("weightLogInfo_merged.csv")
+
+# glimpse through imported datasets
+glimpse(daily_activity)
+glimpse(heart_ratesec)
+glimpse(daily_sleep)
+glimpse(weight_log)
+
+# check distinct Id
+n_distinct(daily_activity$Id)
+## [1] 33
+n_distinct(heart_ratesec$Id)
+## [1] 14
+n_distinct(daily_sleep$Id)
+## [1] 24
+n_distinct(weight_log$Id)
+## [1] 8
+
+# plot individual participation
+ppart_a <- daily_activity %>% 
+  mutate(Subject = as.character(Id),
+         Date = as.Date(ActivityDate, format = "%m/%d/%y")) %>%
+  ggplot(aes(x = Date, y = Subject)) +
+    geom_point(color = "blue") +
+    scale_x_date(date_breaks = "7 days", date_labels = "%m%d") +
+    labs(title = "Daily Activity Data", x = "Activity Date", y = "Participant") +
+    theme(plot.title = element_text(hjust = 0.5))
+
+ppart_h <- heart_ratesec %>% 
+  mutate(Subject = as.character(Id),
+         Date = as.Date(Time, format =  "%m/%d/%Y %H:%M:%S")) %>%
+  group_by(Subject, Date) %>% slice(1) %>%
+  ggplot(aes(x = Date, y = Subject)) +
+    geom_point(color = "red") +
+    scale_x_date(date_breaks = "7 days", date_labels = "%m%d") +
+    labs(title = "Heart Rates Data", x = "Record Date", y = "Participant") +
+    theme(plot.title = element_text(hjust = 0.5))
+
+ppart_s <- daily_sleep %>% 
+  mutate(Subject = as.character(Id),
+         Date = as.Date(SleepDay, format =  "%m/%d/%Y %H:%M:%S")) %>%
+  group_by(Subject, Date) %>% slice(1) %>%
+  ggplot(aes(x = Date, y = Subject)) +
+  geom_point(color = "black") +
+  scale_x_date(date_breaks = "7 days", date_labels = "%m%d") +
+  labs(title = "Daily Sleep Data", x = "Record Date", y = "Participant") +
+  theme(plot.title = element_text(hjust = 0.5))
+
+ppart_w <- weight_log %>% 
+  mutate(Subject = as.character(Id),
+         DateDay = as.Date(Date, format =  "%m/%d/%Y %H:%M:%S")) %>%
+  group_by(Subject, DateDay) %>% slice(1) %>%
+  ggplot(aes(x = DateDay, y = Subject)) +
+  geom_point(color = "green") +
+  scale_x_date(date_breaks = "7 days", date_labels = "%m%d") +
+  labs(title = "Weight Log Data", x = "Record Date", y = "Participant") +
+  theme(plot.title = element_text(hjust = 0.5))
+
+part_figure <- grid.arrange(ppart_a, ppart_h, ppart_s, ppart_w)
+
+# Start with daily activity itself
+summary(daily_activity)
+
+# Normality test
+histsedenp <- ggplot(daily_activity, aes(SedentaryMinutes)) +
+  geom_density(colour = "blue") +
+  theme(legend.position = "none")
+
+histlightp <- ggplot(daily_activity, aes(LightlyActiveMinutes)) +
+  geom_density(colour = "green") +
+  theme(legend.position = "none")
+
+histfairp <- ggplot(daily_activity, aes(FairlyActiveMinutes)) +
+  geom_density(colour = "orange") +
+  theme(legend.position = "none")
+
+histveryp <- ggplot(daily_activity, aes(VeryActiveMinutes)) +
+  geom_density(colour = "red") +
+  theme(legend.position = "none")
+
+histfigure1 <- grid.arrange(histsedenp, histlightp, histfairp, histveryp)
+
+# calculate averages
+daily_ave <- daily_activity %>% 
+  group_by(Id) %>%
+  summarise(aveSteps = mean(TotalSteps), aveVeryMin = mean(VeryActiveMinutes),
+            aveFairMin = mean(FairlyActiveMinutes), 
+            aveLightMin = mean(LightlyActiveMinutes),
+            aveSedMin = mean(SedentaryMinutes), aveCal = mean(Calories))
+# plot 
+# plot cal(y)&steps(x) and activities(color, sedentary=blue, light=green, fair=orange, 
+# veryactive=red)
+sedenp <- ggplot(daily_ave, aes(x = aveSteps, y = aveCal, alpha = factor(aveSedMin))) +
+  geom_jitter(colour = "blue") +
+  theme(legend.position = "none") +
+  labs(title = "SedentaryMinutes", x = "Average Steps", y = "Average Calories Expend(kCal)")
+
+lightp <- ggplot(daily_ave, aes(x = aveSteps, y = aveCal, alpha = factor(aveLightMin))) +
+  geom_jitter(colour = "green") +
+  theme(legend.position = "none") +
+  labs(title = "LightlyActiveMinutes", x = "Average Steps", y = "Average Calories Expend(kCal)")
+
+fairp <- ggplot(daily_ave, aes(x = aveSteps, y = aveCal, alpha = factor(aveFairMin))) +
+  geom_jitter(colour = "orange") +
+  theme(legend.position = "none") +
+  labs(title = "FairlyActiveMinutes", x = "Average Steps", y = "Average Calories Expend(kCal)")
+
+veryp <- ggplot(daily_ave, aes(x = aveSteps, y = aveCal, alpha = factor(aveVeryMin))) +
+  geom_jitter(colour = "red") +
+  theme(legend.position = "none") +
+  labs(title = "VeryActiveMinutes", x = "Average Steps", y = "Average Calories Expend(kCal)")
+
+figure1 <- grid.arrange(sedenp, lightp, fairp, veryp)
+
+# then correlation plot
+cor_daily <- daily_activity %>% 
+  select(TotalSteps, VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes, 
+         SedentaryMinutes, Calories) %>%
+  cor() %>%
+  corrplot(method = "number")
