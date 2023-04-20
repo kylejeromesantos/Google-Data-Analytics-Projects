@@ -1,0 +1,516 @@
+﻿,Variable,Year,province,value,adm_level,region,unit
+25,Subsistence Incidence among Population (%),1991,1st District,,District,NCR,%
+26,Subsistence Incidence among Population (%),2006,1st District,1.4,District,NCR,%
+27,Subsistence Incidence among Population (%),2009,1st District,0,District,NCR,%
+28,Subsistence Incidence among Population (%),2012,1st District,0.5,District,NCR,%
+29,Subsistence Incidence among Population (%),2015,1st District,1.6,District,NCR,%
+60,Subsistence Incidence among Population (%),1991,2nd District,,District,NCR,%
+61,Subsistence Incidence among Population (%),2006,2nd District,0.3,District,NCR,%
+62,Subsistence Incidence among Population (%),2009,2nd District,0.5,District,NCR,%
+63,Subsistence Incidence among Population (%),2012,2nd District,0.4,District,NCR,%
+64,Subsistence Incidence among Population (%),2015,2nd District,0.3,District,NCR,%
+95,Subsistence Incidence among Population (%),1991,3rd District,,District,NCR,%
+96,Subsistence Incidence among Population (%),2006,3rd District,0.9,District,NCR,%
+97,Subsistence Incidence among Population (%),2009,3rd District,1.2,District,NCR,%
+98,Subsistence Incidence among Population (%),2012,3rd District,0.4,District,NCR,%
+99,Subsistence Incidence among Population (%),2015,3rd District,0.7,District,NCR,%
+130,Subsistence Incidence among Population (%),1991,4th District,,District,NCR,%
+131,Subsistence Incidence among Population (%),2006,4th District,1.2,District,NCR,%
+132,Subsistence Incidence among Population (%),2009,4th District,0.2,District,NCR,%
+133,Subsistence Incidence among Population (%),2012,4th District,0.7,District,NCR,%
+134,Subsistence Incidence among Population (%),2015,4th District,0.6,District,NCR,%
+165,Subsistence Incidence among Population (%),1991,ARMM,11.3,Region,ARMM,%
+166,Subsistence Incidence among Population (%),2006,ARMM,17.2,Region,ARMM,%
+167,Subsistence Incidence among Population (%),2009,ARMM,14.2,Region,ARMM,%
+168,Subsistence Incidence among Population (%),2012,ARMM,25.1,Region,ARMM,%
+169,Subsistence Incidence among Population (%),2015,ARMM,21.1,Region,ARMM,%
+200,Subsistence Incidence among Population (%),1991,Abra,,Province,CAR,%
+201,Subsistence Incidence among Population (%),2006,Abra,25.8,Province,CAR,%
+202,Subsistence Incidence among Population (%),2009,Abra,29.9,Province,CAR,%
+203,Subsistence Incidence among Population (%),2012,Abra,13.5,Province,CAR,%
+204,Subsistence Incidence among Population (%),2015,Abra,8.4,Province,CAR,%
+235,Subsistence Incidence among Population (%),1991,Agusan del Norte,,Province,CARAGA,%
+236,Subsistence Incidence among Population (%),2006,Agusan del Norte,23.6,Province,CARAGA,%
+237,Subsistence Incidence among Population (%),2009,Agusan del Norte,24.9,Province,CARAGA,%
+238,Subsistence Incidence among Population (%),2012,Agusan del Norte,15.9,Province,CARAGA,%
+239,Subsistence Incidence among Population (%),2015,Agusan del Norte,15.7,Province,CARAGA,%
+270,Subsistence Incidence among Population (%),1991,Agusan del Sur,,Province,CARAGA,%
+271,Subsistence Incidence among Population (%),2006,Agusan del Sur,31.8,Province,CARAGA,%
+272,Subsistence Incidence among Population (%),2009,Agusan del Sur,38.4,Province,CARAGA,%
+273,Subsistence Incidence among Population (%),2012,Agusan del Sur,26.1,Province,CARAGA,%
+274,Subsistence Incidence among Population (%),2015,Agusan del Sur,23.3,Province,CARAGA,%
+305,Subsistence Incidence among Population (%),1991,Aklan,,Province,Region VI,%
+306,Subsistence Incidence among Population (%),2006,Aklan,18.9,Province,Region VI,%
+307,Subsistence Incidence among Population (%),2009,Aklan,24.2,Province,Region VI,%
+308,Subsistence Incidence among Population (%),2012,Aklan,5.3,Province,Region VI,%
+309,Subsistence Incidence among Population (%),2015,Aklan,0.9,Province,Region VI,%
+340,Subsistence Incidence among Population (%),1991,Albay,,Province,Region V,%
+341,Subsistence Incidence among Population (%),2006,Albay,14,Province,Region V,%
+342,Subsistence Incidence among Population (%),2009,Albay,15.7,Province,Region V,%
+343,Subsistence Incidence among Population (%),2012,Albay,19.6,Province,Region V,%
+344,Subsistence Incidence among Population (%),2015,Albay,10.7,Province,Region V,%
+375,Subsistence Incidence among Population (%),1991,Antique,,Province,Region VI,%
+376,Subsistence Incidence among Population (%),2006,Antique,24.2,Province,Region VI,%
+377,Subsistence Incidence among Population (%),2009,Antique,20,Province,Region VI,%
+378,Subsistence Incidence among Population (%),2012,Antique,13,Province,Region VI,%
+379,Subsistence Incidence among Population (%),2015,Antique,7.3,Province,Region VI,%
+410,Subsistence Incidence among Population (%),1991,Apayao,,Province,CAR,%
+411,Subsistence Incidence among Population (%),2006,Apayao,27.6,Province,CAR,%
+412,Subsistence Incidence among Population (%),2009,Apayao,29.3,Province,CAR,%
+413,Subsistence Incidence among Population (%),2012,Apayao,33.8,Province,CAR,%
+414,Subsistence Incidence among Population (%),2015,Apayao,8.4,Province,CAR,%
+445,Subsistence Incidence among Population (%),1991,Aurora,,,,%
+446,Subsistence Incidence among Population (%),2006,Aurora,15.8,,,%
+447,Subsistence Incidence among Population (%),2009,Aurora,1.7,,,%
+448,Subsistence Incidence among Population (%),2012,Aurora,11.7,,,%
+449,Subsistence Incidence among Population (%),2015,Aurora,14.5,,,%
+480,Subsistence Incidence among Population (%),1991,Basilan,,Province,ARMM,%
+481,Subsistence Incidence among Population (%),2006,Basilan,5.9,Province,ARMM,%
+482,Subsistence Incidence among Population (%),2009,Basilan,3,Province,ARMM,%
+483,Subsistence Incidence among Population (%),2012,Basilan,3.6,Province,ARMM,%
+484,Subsistence Incidence among Population (%),2015,Basilan,7.2,Province,ARMM,%
+515,Subsistence Incidence among Population (%),1991,Bataan,,Province,Region III,%
+516,Subsistence Incidence among Population (%),2006,Bataan,1.2,Province,Region III,%
+517,Subsistence Incidence among Population (%),2009,Bataan,0,Province,Region III,%
+518,Subsistence Incidence among Population (%),2012,Bataan,2.8,Province,Region III,%
+519,Subsistence Incidence among Population (%),2015,Bataan,0,Province,Region III,%
+550,Subsistence Incidence among Population (%),1991,Batanes,,,,%
+551,Subsistence Incidence among Population (%),2006,Batanes,0,,,%
+552,Subsistence Incidence among Population (%),2009,Batanes,0,,,%
+553,Subsistence Incidence among Population (%),2012,Batanes,27.5,,,%
+554,Subsistence Incidence among Population (%),2015,Batanes,0,,,%
+585,Subsistence Incidence among Population (%),1991,Batangas,,Province,Region VI-A,%
+586,Subsistence Incidence among Population (%),2006,Batangas,5.4,Province,Region VI-A,%
+587,Subsistence Incidence among Population (%),2009,Batangas,5.8,Province,Region VI-A,%
+588,Subsistence Incidence among Population (%),2012,Batangas,7.4,Province,Region VI-A,%
+589,Subsistence Incidence among Population (%),2015,Batangas,2.4,Province,Region VI-A,%
+620,Subsistence Incidence among Population (%),1991,Benguet,,Province,CAR,%
+621,Subsistence Incidence among Population (%),2006,Benguet,1.4,Province,CAR,%
+622,Subsistence Incidence among Population (%),2009,Benguet,1.9,Province,CAR,%
+623,Subsistence Incidence among Population (%),2012,Benguet,0.6,Province,CAR,%
+624,Subsistence Incidence among Population (%),2015,Benguet,0.4,Province,CAR,%
+655,Subsistence Incidence among Population (%),1991,Biliran,,Province,Region VIII,%
+656,Subsistence Incidence among Population (%),2006,Biliran,12.1,Province,Region VIII,%
+657,Subsistence Incidence among Population (%),2009,Biliran,13.5,Province,Region VIII,%
+658,Subsistence Incidence among Population (%),2012,Biliran,8.3,Province,Region VIII,%
+659,Subsistence Incidence among Population (%),2015,Biliran,8.1,Province,Region VIII,%
+690,Subsistence Incidence among Population (%),1991,Bohol,,Province,Region VII,%
+691,Subsistence Incidence among Population (%),2006,Bohol,28.6,Province,Region VII,%
+692,Subsistence Incidence among Population (%),2009,Bohol,21.6,Province,Region VII,%
+693,Subsistence Incidence among Population (%),2012,Bohol,16,Province,Region VII,%
+694,Subsistence Incidence among Population (%),2015,Bohol,9.6,Province,Region VII,%
+725,Subsistence Incidence among Population (%),1991,Bukidnon,,Province,Region X,%
+726,Subsistence Incidence among Population (%),2006,Bukidnon,23.2,Province,Region X,%
+727,Subsistence Incidence among Population (%),2009,Bukidnon,24.2,Province,Region X,%
+728,Subsistence Incidence among Population (%),2012,Bukidnon,25.5,Province,Region X,%
+729,Subsistence Incidence among Population (%),2015,Bukidnon,31.5,Province,Region X,%
+760,Subsistence Incidence among Population (%),1991,Bulacan,,Province,Region III,%
+761,Subsistence Incidence among Population (%),2006,Bulacan,1.2,Province,Region III,%
+762,Subsistence Incidence among Population (%),2009,Bulacan,0.8,Province,Region III,%
+763,Subsistence Incidence among Population (%),2012,Bulacan,1.8,Province,Region III,%
+764,Subsistence Incidence among Population (%),2015,Bulacan,1.1,Province,Region III,%
+795,Subsistence Incidence among Population (%),1991,CAR,25.5,Region,CAR,%
+796,Subsistence Incidence among Population (%),2006,CAR,13.6,Region,CAR,%
+797,Subsistence Incidence among Population (%),2009,CAR,12.8,Region,CAR,%
+798,Subsistence Incidence among Population (%),2012,CAR,10,Region,CAR,%
+799,Subsistence Incidence among Population (%),2015,CAR,7,Region,CAR,%
+830,Subsistence Incidence among Population (%),1991,Cagayan,,Province,Region II,%
+831,Subsistence Incidence among Population (%),2006,Cagayan,11.3,Province,Region II,%
+832,Subsistence Incidence among Population (%),2009,Cagayan,10,Province,Region II,%
+833,Subsistence Incidence among Population (%),2012,Cagayan,5.4,Province,Region II,%
+834,Subsistence Incidence among Population (%),2015,Cagayan,3.3,Province,Region II,%
+865,Subsistence Incidence among Population (%),1991,Camarines Norte,,Province,Region V,%
+866,Subsistence Incidence among Population (%),2006,Camarines Norte,19.3,Province,Region V,%
+867,Subsistence Incidence among Population (%),2009,Camarines Norte,11.8,Province,Region V,%
+868,Subsistence Incidence among Population (%),2012,Camarines Norte,9.9,Province,Region V,%
+869,Subsistence Incidence among Population (%),2015,Camarines Norte,13.6,Province,Region V,%
+900,Subsistence Incidence among Population (%),1991,Camarines Sur,,Province,Region V,%
+901,Subsistence Incidence among Population (%),2006,Camarines Sur,24.6,Province,Region V,%
+902,Subsistence Incidence among Population (%),2009,Camarines Sur,20.5,Province,Region V,%
+903,Subsistence Incidence among Population (%),2012,Camarines Sur,15.1,Province,Region V,%
+904,Subsistence Incidence among Population (%),2015,Camarines Sur,8.9,Province,Region V,%
+935,Subsistence Incidence among Population (%),1991,Camiguin,,,,%
+936,Subsistence Incidence among Population (%),2006,Camiguin,14.4,,,%
+937,Subsistence Incidence among Population (%),2009,Camiguin,5.2,,,%
+938,Subsistence Incidence among Population (%),2012,Camiguin,28.8,,,%
+939,Subsistence Incidence among Population (%),2015,Camiguin,10.9,,,%
+970,Subsistence Incidence among Population (%),1991,Capiz,,Province,Region VI,%
+971,Subsistence Incidence among Population (%),2006,Capiz,8.7,Province,Region VI,%
+972,Subsistence Incidence among Population (%),2009,Capiz,13.1,Province,Region VI,%
+973,Subsistence Incidence among Population (%),2012,Capiz,12.3,Province,Region VI,%
+974,Subsistence Incidence among Population (%),2015,Capiz,2.6,Province,Region VI,%
+1005,Subsistence Incidence among Population (%),1991,Caraga,33.1,Region,CARAGA,%
+1006,Subsistence Incidence among Population (%),2006,Caraga,27.4,Region,CARAGA,%
+1007,Subsistence Incidence among Population (%),2009,Caraga,30.8,Region,CARAGA,%
+1008,Subsistence Incidence among Population (%),2012,Caraga,18.3,Region,CARAGA,%
+1009,Subsistence Incidence among Population (%),2015,Caraga,16.8,Region,CARAGA,%
+1040,Subsistence Incidence among Population (%),1991,Catanduanes,,Province,Region V,%
+1041,Subsistence Incidence among Population (%),2006,Catanduanes,19.3,Province,Region V,%
+1042,Subsistence Incidence among Population (%),2009,Catanduanes,14.4,Province,Region V,%
+1043,Subsistence Incidence among Population (%),2012,Catanduanes,24.3,Province,Region V,%
+1044,Subsistence Incidence among Population (%),2015,Catanduanes,16.9,Province,Region V,%
+1075,Subsistence Incidence among Population (%),1991,Cavite,,Province,Region VI-A,%
+1076,Subsistence Incidence among Population (%),2006,Cavite,0.3,Province,Region VI-A,%
+1077,Subsistence Incidence among Population (%),2009,Cavite,0,Province,Region VI-A,%
+1078,Subsistence Incidence among Population (%),2012,Cavite,0.5,Province,Region VI-A,%
+1079,Subsistence Incidence among Population (%),2015,Cavite,1.7,Province,Region VI-A,%
+1110,Subsistence Incidence among Population (%),1991,Cebu,,Province,Region VII,%
+1111,Subsistence Incidence among Population (%),2006,Cebu,14.9,Province,Region VII,%
+1112,Subsistence Incidence among Population (%),2009,Cebu,12.7,Province,Region VII,%
+1113,Subsistence Incidence among Population (%),2012,Cebu,8.4,Province,Region VII,%
+1114,Subsistence Incidence among Population (%),2015,Cebu,8,Province,Region VII,%
+1145,Subsistence Incidence among Population (%),1991,Compostela Valley,,Province,Region XI,%
+1146,Subsistence Incidence among Population (%),2006,Compostela Valley,17.8,Province,Region XI,%
+1147,Subsistence Incidence among Population (%),2009,Compostela Valley,14,Province,Region XI,%
+1148,Subsistence Incidence among Population (%),2012,Compostela Valley,16.5,Province,Region XI,%
+1149,Subsistence Incidence among Population (%),2015,Compostela Valley,7.3,Province,Region XI,%
+1180,Subsistence Incidence among Population (%),1991,"Cotabato City,",,,,%
+1181,Subsistence Incidence among Population (%),2006,"Cotabato City,",18.2,,,%
+1182,Subsistence Incidence among Population (%),2009,"Cotabato City,",10.4,,,%
+1183,Subsistence Incidence among Population (%),2012,"Cotabato City,",10.2,,,%
+1184,Subsistence Incidence among Population (%),2015,"Cotabato City,",10.1,,,%
+1215,Subsistence Incidence among Population (%),1991,Davao Oriental,,Province,Region XI,%
+1216,Subsistence Incidence among Population (%),2006,Davao Oriental,24.4,Province,Region XI,%
+1217,Subsistence Incidence among Population (%),2009,Davao Oriental,25.8,Province,Region XI,%
+1218,Subsistence Incidence among Population (%),2012,Davao Oriental,22.9,Province,Region XI,%
+1219,Subsistence Incidence among Population (%),2015,Davao Oriental,6.6,Province,Region XI,%
+1250,Subsistence Incidence among Population (%),1991,Davao del Norte,,Province,Region XI,%
+1251,Subsistence Incidence among Population (%),2006,Davao del Norte,16.6,Province,Region XI,%
+1252,Subsistence Incidence among Population (%),2009,Davao del Norte,15.7,Province,Region XI,%
+1253,Subsistence Incidence among Population (%),2012,Davao del Norte,12.6,Province,Region XI,%
+1254,Subsistence Incidence among Population (%),2015,Davao del Norte,12.6,Province,Region XI,%
+1285,Subsistence Incidence among Population (%),1991,Davao del Sur,,Province,Region XI,%
+1286,Subsistence Incidence among Population (%),2006,Davao del Sur,12.6,Province,Region XI,%
+1287,Subsistence Incidence among Population (%),2009,Davao del Sur,12.5,Province,Region XI,%
+1288,Subsistence Incidence among Population (%),2012,Davao del Sur,10.1,Province,Region XI,%
+1289,Subsistence Incidence among Population (%),2015,Davao del Sur,6.2,Province,Region XI,%
+1320,Subsistence Incidence among Population (%),1991,Eastern Samar,,Province,Region VIII,%
+1321,Subsistence Incidence among Population (%),2006,Eastern Samar,31,Province,Region VIII,%
+1322,Subsistence Incidence among Population (%),2009,Eastern Samar,34.5,Province,Region VIII,%
+1323,Subsistence Incidence among Population (%),2012,Eastern Samar,38.1,Province,Region VIII,%
+1324,Subsistence Incidence among Population (%),2015,Eastern Samar,24.6,Province,Region VIII,%
+1355,Subsistence Incidence among Population (%),1991,"Guimaras,",,,,%
+1356,Subsistence Incidence among Population (%),2006,"Guimaras,",2.9,,,%
+1357,Subsistence Incidence among Population (%),2009,"Guimaras,",8.5,,,%
+1358,Subsistence Incidence among Population (%),2012,"Guimaras,",10.9,,,%
+1359,Subsistence Incidence among Population (%),2015,"Guimaras,",0,,,%
+1390,Subsistence Incidence among Population (%),1991,Ifugao,,Province,CAR,%
+1391,Subsistence Incidence among Population (%),2006,Ifugao,10.5,Province,CAR,%
+1392,Subsistence Incidence among Population (%),2009,Ifugao,10.7,Province,CAR,%
+1393,Subsistence Incidence among Population (%),2012,Ifugao,22.3,Province,CAR,%
+1394,Subsistence Incidence among Population (%),2015,Ifugao,16.8,Province,CAR,%
+1425,Subsistence Incidence among Population (%),1991,Ilocos Norte,,Province,Region I,%
+1426,Subsistence Incidence among Population (%),2006,Ilocos Norte,7.9,Province,Region I,%
+1427,Subsistence Incidence among Population (%),2009,Ilocos Norte,4.2,Province,Region I,%
+1428,Subsistence Incidence among Population (%),2012,Ilocos Norte,1.5,Province,Region I,%
+1429,Subsistence Incidence among Population (%),2015,Ilocos Norte,0,Province,Region I,%
+1460,Subsistence Incidence among Population (%),1991,Ilocos Sur,,Province,Region I,%
+1461,Subsistence Incidence among Population (%),2006,Ilocos Sur,6.5,Province,Region I,%
+1462,Subsistence Incidence among Population (%),2009,Ilocos Sur,4.3,Province,Region I,%
+1463,Subsistence Incidence among Population (%),2012,Ilocos Sur,7.6,Province,Region I,%
+1464,Subsistence Incidence among Population (%),2015,Ilocos Sur,2,Province,Region I,%
+1495,Subsistence Incidence among Population (%),1991,Iloilo,,Province,Region VI,%
+1496,Subsistence Incidence among Population (%),2006,Iloilo,9.4,Province,Region VI,%
+1497,Subsistence Incidence among Population (%),2009,Iloilo,8.7,Province,Region VI,%
+1498,Subsistence Incidence among Population (%),2012,Iloilo,10,Province,Region VI,%
+1499,Subsistence Incidence among Population (%),2015,Iloilo,7.9,Province,Region VI,%
+1530,Subsistence Incidence among Population (%),1991,Isabela,,Province,Region II,%
+1531,Subsistence Incidence among Population (%),2006,Isabela,10.4,Province,Region II,%
+1532,Subsistence Incidence among Population (%),2009,Isabela,9.8,Province,Region II,%
+1533,Subsistence Incidence among Population (%),2012,Isabela,5.5,Province,Region II,%
+1534,Subsistence Incidence among Population (%),2015,Isabela,1.6,Province,Region II,%
+1565,Subsistence Incidence among Population (%),1991,"Isabela City,",,,,%
+1566,Subsistence Incidence among Population (%),2006,"Isabela City,",28.7,,,%
+1567,Subsistence Incidence among Population (%),2009,"Isabela City,",2.3,,,%
+1568,Subsistence Incidence among Population (%),2012,"Isabela City,",4.7,,,%
+1569,Subsistence Incidence among Population (%),2015,"Isabela City,",4,,,%
+1600,Subsistence Incidence among Population (%),1991,Kalinga,,Province,CAR,%
+1601,Subsistence Incidence among Population (%),2006,Kalinga,29.4,Province,CAR,%
+1602,Subsistence Incidence among Population (%),2009,Kalinga,16.8,Province,CAR,%
+1603,Subsistence Incidence among Population (%),2012,Kalinga,13.1,Province,CAR,%
+1604,Subsistence Incidence among Population (%),2015,Kalinga,14.2,Province,CAR,%
+1635,Subsistence Incidence among Population (%),1991,La Union,,Province,Region I,%
+1636,Subsistence Incidence among Population (%),2006,La Union,9.9,Province,Region I,%
+1637,Subsistence Incidence among Population (%),2009,La Union,13.2,Province,Region I,%
+1638,Subsistence Incidence among Population (%),2012,La Union,7.6,Province,Region I,%
+1639,Subsistence Incidence among Population (%),2015,La Union,5.2,Province,Region I,%
+1670,Subsistence Incidence among Population (%),1991,Laguna,,Province,Region VI-A,%
+1671,Subsistence Incidence among Population (%),2006,Laguna,1.8,Province,Region VI-A,%
+1672,Subsistence Incidence among Population (%),2009,Laguna,1.1,Province,Region VI-A,%
+1673,Subsistence Incidence among Population (%),2012,Laguna,1.7,Province,Region VI-A,%
+1674,Subsistence Incidence among Population (%),2015,Laguna,1,Province,Region VI-A,%
+1705,Subsistence Incidence among Population (%),1991,Lanao del Norte,,Province,Region X,%
+1706,Subsistence Incidence among Population (%),2006,Lanao del Norte,23,Province,Region X,%
+1707,Subsistence Incidence among Population (%),2009,Lanao del Norte,24.8,Province,Region X,%
+1708,Subsistence Incidence among Population (%),2012,Lanao del Norte,29.9,Province,Region X,%
+1709,Subsistence Incidence among Population (%),2015,Lanao del Norte,24.1,Province,Region X,%
+1740,Subsistence Incidence among Population (%),1991,Lanao del Sur,,Province,ARMM,%
+1741,Subsistence Incidence among Population (%),2006,Lanao del Sur,17.8,Province,ARMM,%
+1742,Subsistence Incidence among Population (%),2009,Lanao del Sur,25.9,Province,ARMM,%
+1743,Subsistence Incidence among Population (%),2012,Lanao del Sur,49.6,Province,ARMM,%
+1744,Subsistence Incidence among Population (%),2015,Lanao del Sur,41,Province,ARMM,%
+1775,Subsistence Incidence among Population (%),1991,Leyte,,Province,Region VIII,%
+1776,Subsistence Incidence among Population (%),2006,Leyte,17.9,Province,Region VIII,%
+1777,Subsistence Incidence among Population (%),2009,Leyte,13.8,Province,Region VIII,%
+1778,Subsistence Incidence among Population (%),2012,Leyte,14.3,Province,Region VIII,%
+1779,Subsistence Incidence among Population (%),2015,Leyte,9.7,Province,Region VIII,%
+1810,Subsistence Incidence among Population (%),1991,Maguindanao,,Province,ARMM,%
+1811,Subsistence Incidence among Population (%),2006,Maguindanao,23.8,Province,ARMM,%
+1812,Subsistence Incidence among Population (%),2009,Maguindanao,17.7,Province,ARMM,%
+1813,Subsistence Incidence among Population (%),2012,Maguindanao,25.8,Province,ARMM,%
+1814,Subsistence Incidence among Population (%),2015,Maguindanao,28.8,Province,ARMM,%
+1845,Subsistence Incidence among Population (%),1991,Marinduque,,Province,Region IV-B,%
+1846,Subsistence Incidence among Population (%),2006,Marinduque,12.7,Province,Region IV-B,%
+1847,Subsistence Incidence among Population (%),2009,Marinduque,14.5,Province,Region IV-B,%
+1848,Subsistence Incidence among Population (%),2012,Marinduque,8.7,Province,Region IV-B,%
+1849,Subsistence Incidence among Population (%),2015,Marinduque,2.8,Province,Region IV-B,%
+1880,Subsistence Incidence among Population (%),1991,Masbate,,Province,Region V,%
+1881,Subsistence Incidence among Population (%),2006,Masbate,28.6,Province,Region V,%
+1882,Subsistence Incidence among Population (%),2009,Masbate,24.8,Province,Region V,%
+1883,Subsistence Incidence among Population (%),2012,Masbate,20.3,Province,Region V,%
+1884,Subsistence Incidence among Population (%),2015,Masbate,14.8,Province,Region V,%
+1915,Subsistence Incidence among Population (%),1991,Misamis Occidental,,Province,Region X,%
+1916,Subsistence Incidence among Population (%),2006,Misamis Occidental,23,Province,Region X,%
+1917,Subsistence Incidence among Population (%),2009,Misamis Occidental,25,Province,Region X,%
+1918,Subsistence Incidence among Population (%),2012,Misamis Occidental,19.2,Province,Region X,%
+1919,Subsistence Incidence among Population (%),2015,Misamis Occidental,11.5,Province,Region X,%
+1950,Subsistence Incidence among Population (%),1991,Misamis Oriental,,Province,Region X,%
+1951,Subsistence Incidence among Population (%),2006,Misamis Oriental,19.3,Province,Region X,%
+1952,Subsistence Incidence among Population (%),2009,Misamis Oriental,15.3,Province,Region X,%
+1953,Subsistence Incidence among Population (%),2012,Misamis Oriental,10.9,Province,Region X,%
+1954,Subsistence Incidence among Population (%),2015,Misamis Oriental,6.9,Province,Region X,%
+1985,Subsistence Incidence among Population (%),1991,Mt. Province,,Province,CAR,%
+1986,Subsistence Incidence among Population (%),2006,Mt. Province,27.9,Province,CAR,%
+1987,Subsistence Incidence among Population (%),2009,Mt. Province,25.5,Province,CAR,%
+1988,Subsistence Incidence among Population (%),2012,Mt. Province,13.7,Province,CAR,%
+1989,Subsistence Incidence among Population (%),2015,Mt. Province,14.1,Province,CAR,%
+2020,Subsistence Incidence among Population (%),1991,NCR,1.5,Region,NCR,%
+2021,Subsistence Incidence among Population (%),2006,NCR,0.9,Region,NCR,%
+2022,Subsistence Incidence among Population (%),2009,NCR,0.5,Region,NCR,%
+2023,Subsistence Incidence among Population (%),2012,NCR,0.5,Region,NCR,%
+2024,Subsistence Incidence among Population (%),2015,NCR,0.7,Region,NCR,%
+2055,Subsistence Incidence among Population (%),1991,Negros Occidental,,Province,Region VI,%
+2056,Subsistence Incidence among Population (%),2006,Negros Occidental,10.5,Province,Region VI,%
+2057,Subsistence Incidence among Population (%),2009,Negros Occidental,9,Province,Region VI,%
+2058,Subsistence Incidence among Population (%),2012,Negros Occidental,12.3,Province,Region VI,%
+2059,Subsistence Incidence among Population (%),2015,Negros Occidental,9.4,Province,Region VI,%
+2090,Subsistence Incidence among Population (%),1991,Negros Oriental,,Province,Region VII,%
+2091,Subsistence Incidence among Population (%),2006,Negros Oriental,22.4,Province,Region VII,%
+2092,Subsistence Incidence among Population (%),2009,Negros Oriental,14.6,Province,Region VII,%
+2093,Subsistence Incidence among Population (%),2012,Negros Oriental,29.4,Province,Region VII,%
+2094,Subsistence Incidence among Population (%),2015,Negros Oriental,24.2,Province,Region VII,%
+2125,Subsistence Incidence among Population (%),1991,North Cotabato,,Province,Region XII,%
+2126,Subsistence Incidence among Population (%),2006,North Cotabato,14,Province,Region XII,%
+2127,Subsistence Incidence among Population (%),2009,North Cotabato,13.2,Province,Region XII,%
+2128,Subsistence Incidence among Population (%),2012,North Cotabato,32.6,Province,Region XII,%
+2129,Subsistence Incidence among Population (%),2015,North Cotabato,22.7,Province,Region XII,%
+2160,Subsistence Incidence among Population (%),1991,Northern Samar,,Province,Region VIII,%
+2161,Subsistence Incidence among Population (%),2006,Northern Samar,35,Province,Region VIII,%
+2162,Subsistence Incidence among Population (%),2009,Northern Samar,27.9,Province,Region VIII,%
+2163,Subsistence Incidence among Population (%),2012,Northern Samar,23.7,Province,Region VIII,%
+2164,Subsistence Incidence among Population (%),2015,Northern Samar,29.3,Province,Region VIII,%
+2195,Subsistence Incidence among Population (%),1991,Nueva Ecija,,Province,Region III,%
+2196,Subsistence Incidence among Population (%),2006,Nueva Ecija,9.1,Province,Region III,%
+2197,Subsistence Incidence among Population (%),2009,Nueva Ecija,12.6,Province,Region III,%
+2198,Subsistence Incidence among Population (%),2012,Nueva Ecija,7.8,Province,Region III,%
+2199,Subsistence Incidence among Population (%),2015,Nueva Ecija,5.9,Province,Region III,%
+2230,Subsistence Incidence among Population (%),1991,Nueva Vizcaya,,Province,Region II,%
+2231,Subsistence Incidence among Population (%),2006,Nueva Vizcaya,5.1,Province,Region II,%
+2232,Subsistence Incidence among Population (%),2009,Nueva Vizcaya,3.9,Province,Region II,%
+2233,Subsistence Incidence among Population (%),2012,Nueva Vizcaya,9.9,Province,Region II,%
+2234,Subsistence Incidence among Population (%),2015,Nueva Vizcaya,2.5,Province,Region II,%
+2265,Subsistence Incidence among Population (%),1991,Occidental Mindoro,,Province,Region IV-B,%
+2266,Subsistence Incidence among Population (%),2006,Occidental Mindoro,22.7,Province,Region IV-B,%
+2267,Subsistence Incidence among Population (%),2009,Occidental Mindoro,13.9,Province,Region IV-B,%
+2268,Subsistence Incidence among Population (%),2012,Occidental Mindoro,20.1,Province,Region IV-B,%
+2269,Subsistence Incidence among Population (%),2015,Occidental Mindoro,23,Province,Region IV-B,%
+2300,Subsistence Incidence among Population (%),1991,Oriental Mindoro,,Province,Region IV-B,%
+2301,Subsistence Incidence among Population (%),2006,Oriental Mindoro,22,Province,Region IV-B,%
+2302,Subsistence Incidence among Population (%),2009,Oriental Mindoro,14.1,Province,Region IV-B,%
+2303,Subsistence Incidence among Population (%),2012,Oriental Mindoro,11.6,Province,Region IV-B,%
+2304,Subsistence Incidence among Population (%),2015,Oriental Mindoro,9.8,Province,Region IV-B,%
+2335,Subsistence Incidence among Population (%),1991,PHILIPPINES,17.6,Country,Philippines,%
+2336,Subsistence Incidence among Population (%),2006,PHILIPPINES,12,Country,Philippines,%
+2337,Subsistence Incidence among Population (%),2009,PHILIPPINES,10.9,Country,Philippines,%
+2338,Subsistence Incidence among Population (%),2012,PHILIPPINES,10.4,Country,Philippines,%
+2339,Subsistence Incidence among Population (%),2015,PHILIPPINES,8.1,Country,Philippines,%
+2370,Subsistence Incidence among Population (%),1991,Palawan,,Province,Region IV-B,%
+2371,Subsistence Incidence among Population (%),2006,Palawan,14.8,Province,Region IV-B,%
+2372,Subsistence Incidence among Population (%),2009,Palawan,13.6,Province,Region IV-B,%
+2373,Subsistence Incidence among Population (%),2012,Palawan,9.9,Province,Region IV-B,%
+2374,Subsistence Incidence among Population (%),2015,Palawan,3.5,Province,Region IV-B,%
+2405,Subsistence Incidence among Population (%),1991,Pampanga,,Province,Region III,%
+2406,Subsistence Incidence among Population (%),2006,Pampanga,0.4,Province,Region III,%
+2407,Subsistence Incidence among Population (%),2009,Pampanga,1.4,Province,Region III,%
+2408,Subsistence Incidence among Population (%),2012,Pampanga,1.2,Province,Region III,%
+2409,Subsistence Incidence among Population (%),2015,Pampanga,0.6,Province,Region III,%
+2440,Subsistence Incidence among Population (%),1991,Pangasinan,,Province,Region I,%
+2441,Subsistence Incidence among Population (%),2006,Pangasinan,10.9,Province,Region I,%
+2442,Subsistence Incidence among Population (%),2009,Pangasinan,7.8,Province,Region I,%
+2443,Subsistence Incidence among Population (%),2012,Pangasinan,5.6,Province,Region I,%
+2444,Subsistence Incidence among Population (%),2015,Pangasinan,3.8,Province,Region I,%
+2475,Subsistence Incidence among Population (%),1991,Quezon,,Province,Region VI-A,%
+2476,Subsistence Incidence among Population (%),2006,Quezon,9.7,Province,Region VI-A,%
+2477,Subsistence Incidence among Population (%),2009,Quezon,7.8,Province,Region VI-A,%
+2478,Subsistence Incidence among Population (%),2012,Quezon,7,Province,Region VI-A,%
+2479,Subsistence Incidence among Population (%),2015,Quezon,7,Province,Region VI-A,%
+2510,Subsistence Incidence among Population (%),1991,Quirino,,Province,Region II,%
+2511,Subsistence Incidence among Population (%),2006,Quirino,4.1,Province,Region II,%
+2512,Subsistence Incidence among Population (%),2009,Quirino,6.8,Province,Region II,%
+2513,Subsistence Incidence among Population (%),2012,Quirino,1.2,Province,Region II,%
+2514,Subsistence Incidence among Population (%),2015,Quirino,7.4,Province,Region II,%
+2545,Subsistence Incidence among Population (%),1991,Region I,17.7,Region,Region I,%
+2546,Subsistence Incidence among Population (%),2006,Region I,9.8,Region,Region I,%
+2547,Subsistence Incidence among Population (%),2009,Region I,7.8,Region,Region I,%
+2548,Subsistence Incidence among Population (%),2012,Region I,5.7,Region,Region I,%
+2549,Subsistence Incidence among Population (%),2015,Region I,3.4,Region,Region I,%
+2580,Subsistence Incidence among Population (%),1991,Region II,21.2,Province,Region II,%
+2581,Subsistence Incidence among Population (%),2006,Region II,9.6,Province,Region II,%
+2582,Subsistence Incidence among Population (%),2009,Region II,8.9,Province,Region II,%
+2583,Subsistence Incidence among Population (%),2012,Region II,5.9,Province,Region II,%
+2584,Subsistence Incidence among Population (%),2015,Region II,2.6,Province,Region II,%
+2615,Subsistence Incidence among Population (%),1991,Region III,8,Region,Region III,%
+2616,Subsistence Incidence among Population (%),2006,Region III,3.8,Region,Region III,%
+2617,Subsistence Incidence among Population (%),2009,Region III,4.3,Region,Region III,%
+2618,Subsistence Incidence among Population (%),2012,Region III,3.8,Region,Region III,%
+2619,Subsistence Incidence among Population (%),2015,Region III,3,Region,Region III,%
+2650,Subsistence Incidence among Population (%),1991,Region IV-A,7.2,Region,Region VI-A,%
+2651,Subsistence Incidence among Population (%),2006,Region IV-A,3.3,Region,Region VI-A,%
+2652,Subsistence Incidence among Population (%),2009,Region IV-A,2.9,Region,Region VI-A,%
+2653,Subsistence Incidence among Population (%),2012,Region IV-A,3.2,Region,Region VI-A,%
+2654,Subsistence Incidence among Population (%),2015,Region IV-A,2.3,Region,Region VI-A,%
+2685,Subsistence Incidence among Population (%),1991,Region IV-B,24.1,Region,Region IV-B,%
+2686,Subsistence Incidence among Population (%),2006,Region IV-B,18.6,Region,Region IV-B,%
+2687,Subsistence Incidence among Population (%),2009,Region IV-B,14,Region,Region IV-B,%
+2688,Subsistence Incidence among Population (%),2012,Region IV-B,12.4,Region,Region IV-B,%
+2689,Subsistence Incidence among Population (%),2015,Region IV-B,8.9,Region,Region IV-B,%
+2720,Subsistence Incidence among Population (%),1991,Region IX,21.8,Region,Region IX,%
+2721,Subsistence Incidence among Population (%),2006,Region IX,26.2,Region,Region IX,%
+2722,Subsistence Incidence among Population (%),2009,Region IX,26.4,Region,Region IX,%
+2723,Subsistence Incidence among Population (%),2012,Region IX,19.1,Region,Region IX,%
+2724,Subsistence Incidence among Population (%),2015,Region IX,13.3,Region,Region IX,%
+2755,Subsistence Incidence among Population (%),1991,Region V,31.1,Region,Region V,%
+2756,Subsistence Incidence among Population (%),2006,Region V,20.4,Region,Region V,%
+2757,Subsistence Incidence among Population (%),2009,Region V,17.9,Region,Region V,%
+2758,Subsistence Incidence among Population (%),2012,Region V,16.8,Region,Region V,%
+2759,Subsistence Incidence among Population (%),2015,Region V,11.8,Region,Region V,%
+2790,Subsistence Incidence among Population (%),1991,Region VI,19.4,Region,Region VI,%
+2791,Subsistence Incidence among Population (%),2006,Region VI,11.5,Region,Region VI,%
+2792,Subsistence Incidence among Population (%),2009,Region VI,11.1,Region,Region VI,%
+2793,Subsistence Incidence among Population (%),2012,Region VI,11.1,Region,Region VI,%
+2794,Subsistence Incidence among Population (%),2015,Region VI,7.3,Region,Region VI,%
+2825,Subsistence Incidence among Population (%),1991,Region VII,25.5,Region,Region VII,%
+2826,Subsistence Incidence among Population (%),2006,Region VII,18.8,Region,Region VII,%
+2827,Subsistence Incidence among Population (%),2009,Region VII,14.6,Region,Region VII,%
+2828,Subsistence Incidence among Population (%),2012,Region VII,13.6,Region,Region VII,%
+2829,Subsistence Incidence among Population (%),2015,Region VII,11.9,Region,Region VII,%
+2860,Subsistence Incidence among Population (%),1991,Region VIII,29.5,Region,Region VIII,%
+2861,Subsistence Incidence among Population (%),2006,Region VIII,20.8,Region,Region VIII,%
+2862,Subsistence Incidence among Population (%),2009,Region VIII,19.4,Region,Region VIII,%
+2863,Subsistence Incidence among Population (%),2012,Region VIII,20.2,Region,Region VIII,%
+2864,Subsistence Incidence among Population (%),2015,Region VIII,16.5,Region,Region VIII,%
+2895,Subsistence Incidence among Population (%),1991,Region X,27.6,Region,Region X,%
+2896,Subsistence Incidence among Population (%),2006,Region X,21.7,Region,Region X,%
+2897,Subsistence Incidence among Population (%),2009,Region X,21.2,Region,Region X,%
+2898,Subsistence Incidence among Population (%),2012,Region X,20.6,Region,Region X,%
+2899,Subsistence Incidence among Population (%),2015,Region X,18.1,Region,Region X,%
+2930,Subsistence Incidence among Population (%),1991,Region XI,20,Region,Region XI,%
+2931,Subsistence Incidence among Population (%),2006,Region XI,15.6,Region,Region XI,%
+2932,Subsistence Incidence among Population (%),2009,Region XI,14.9,Region,Region XI,%
+2933,Subsistence Incidence among Population (%),2012,Region XI,13.1,Region,Region XI,%
+2934,Subsistence Incidence among Population (%),2015,Region XI,7.5,Region,Region XI,%
+2965,Subsistence Incidence among Population (%),1991,Region XII,31.6,Region,Region XII,%
+2966,Subsistence Incidence among Population (%),2006,Region XII,18.4,Region,Region XII,%
+2967,Subsistence Incidence among Population (%),2009,Region XII,16.7,Region,Region XII,%
+2968,Subsistence Incidence among Population (%),2012,Region XII,23.2,Region,Region XII,%
+2969,Subsistence Incidence among Population (%),2015,Region XII,20.4,Region,Region XII,%
+3000,Subsistence Incidence among Population (%),1991,Rizal,,Province,Region VI-A,%
+3001,Subsistence Incidence among Population (%),2006,Rizal,1.3,Province,Region VI-A,%
+3002,Subsistence Incidence among Population (%),2009,Rizal,2.1,Province,Region VI-A,%
+3003,Subsistence Incidence among Population (%),2012,Rizal,1.6,Province,Region VI-A,%
+3004,Subsistence Incidence among Population (%),2015,Rizal,0.9,Province,Region VI-A,%
+3035,Subsistence Incidence among Population (%),1991,Romblon,,Province,Region IV-B,%
+3036,Subsistence Incidence among Population (%),2006,Romblon,19.7,Province,Region IV-B,%
+3037,Subsistence Incidence among Population (%),2009,Romblon,14.5,Province,Region IV-B,%
+3038,Subsistence Incidence among Population (%),2012,Romblon,13.9,Province,Region IV-B,%
+3039,Subsistence Incidence among Population (%),2015,Romblon,8.5,Province,Region IV-B,%
+3070,Subsistence Incidence among Population (%),1991,Saranggani,,Province,Region XII,%
+3071,Subsistence Incidence among Population (%),2006,Saranggani,26.1,Province,Region XII,%
+3072,Subsistence Incidence among Population (%),2009,Saranggani,27.3,Province,Region XII,%
+3073,Subsistence Incidence among Population (%),2012,Saranggani,28.3,Province,Region XII,%
+3074,Subsistence Incidence among Population (%),2015,Saranggani,33.4,Province,Region XII,%
+3105,Subsistence Incidence among Population (%),1991,"Siquijor,",,,,%
+3106,Subsistence Incidence among Population (%),2006,"Siquijor,",17.8,,,%
+3107,Subsistence Incidence among Population (%),2009,"Siquijor,",6.2,,,%
+3108,Subsistence Incidence among Population (%),2012,"Siquijor,",13.2,,,%
+3109,Subsistence Incidence among Population (%),2015,"Siquijor,",20.5,,,%
+3140,Subsistence Incidence among Population (%),1991,Sorsogon,,Province,Region V,%
+3141,Subsistence Incidence among Population (%),2006,Sorsogon,12.8,Province,Region V,%
+3142,Subsistence Incidence among Population (%),2009,Sorsogon,12.4,Province,Region V,%
+3143,Subsistence Incidence among Population (%),2012,Sorsogon,14.5,Province,Region V,%
+3144,Subsistence Incidence among Population (%),2015,Sorsogon,13.6,Province,Region V,%
+3175,Subsistence Incidence among Population (%),1991,South Cotabato,,Province,Region XII,%
+3176,Subsistence Incidence among Population (%),2006,South Cotabato,14.5,Province,Region XII,%
+3177,Subsistence Incidence among Population (%),2009,South Cotabato,16,Province,Region XII,%
+3178,Subsistence Incidence among Population (%),2012,South Cotabato,15.2,Province,Region XII,%
+3179,Subsistence Incidence among Population (%),2015,South Cotabato,10.4,Province,Region XII,%
+3210,Subsistence Incidence among Population (%),1991,Southern Leyte,,Province,Region VIII,%
+3211,Subsistence Incidence among Population (%),2006,Southern Leyte,10.6,Province,Region VIII,%
+3212,Subsistence Incidence among Population (%),2009,Southern Leyte,15.2,Province,Region VIII,%
+3213,Subsistence Incidence among Population (%),2012,Southern Leyte,22.5,Province,Region VIII,%
+3214,Subsistence Incidence among Population (%),2015,Southern Leyte,19.5,Province,Region VIII,%
+3245,Subsistence Incidence among Population (%),1991,Sultan Kudarat,,Province,Region XII,%
+3246,Subsistence Incidence among Population (%),2006,Sultan Kudarat,26.6,Province,Region XII,%
+3247,Subsistence Incidence among Population (%),2009,Sultan Kudarat,19,Province,Region XII,%
+3248,Subsistence Incidence among Population (%),2012,Sultan Kudarat,22.2,Province,Region XII,%
+3249,Subsistence Incidence among Population (%),2015,Sultan Kudarat,32.6,Province,Region XII,%
+3280,Subsistence Incidence among Population (%),1991,Sulu,,Province,ARMM,%
+3281,Subsistence Incidence among Population (%),2006,Sulu,9.3,Province,ARMM,%
+3282,Subsistence Incidence among Population (%),2009,Sulu,4.7,Province,ARMM,%
+3283,Subsistence Incidence among Population (%),2012,Sulu,12.3,Province,ARMM,%
+3284,Subsistence Incidence among Population (%),2015,Sulu,7.4,Province,ARMM,%
+3315,Subsistence Incidence among Population (%),1991,Surigao Del Norte,,Province,CARAGA,%
+3316,Subsistence Incidence among Population (%),2006,Surigao Del Norte,28,Province,CARAGA,%
+3317,Subsistence Incidence among Population (%),2009,Surigao Del Norte,32.3,Province,CARAGA,%
+3318,Subsistence Incidence among Population (%),2012,Surigao Del Norte,17.1,Province,CARAGA,%
+3319,Subsistence Incidence among Population (%),2015,Surigao Del Norte,11.8,Province,CARAGA,%
+3350,Subsistence Incidence among Population (%),1991,Surigao Del Sur,,Province,CARAGA,%
+3351,Subsistence Incidence among Population (%),2006,Surigao Del Sur,26,Province,CARAGA,%
+3352,Subsistence Incidence among Population (%),2009,Surigao Del Sur,26.8,Province,CARAGA,%
+3353,Subsistence Incidence among Population (%),2012,Surigao Del Sur,13.1,Province,CARAGA,%
+3354,Subsistence Incidence among Population (%),2015,Surigao Del Sur,16.4,Province,CARAGA,%
+3385,Subsistence Incidence among Population (%),1991,Tarlac,,Province,Region III,%
+3386,Subsistence Incidence among Population (%),2006,Tarlac,5.9,Province,Region III,%
+3387,Subsistence Incidence among Population (%),2009,Tarlac,5.2,Province,Region III,%
+3388,Subsistence Incidence among Population (%),2012,Tarlac,5.2,Province,Region III,%
+3389,Subsistence Incidence among Population (%),2015,Tarlac,5.5,Province,Region III,%
+3420,Subsistence Incidence among Population (%),1991,Tawi-tawi,,Province,ARMM,%
+3421,Subsistence Incidence among Population (%),2006,Tawi-tawi,22.8,Province,ARMM,%
+3422,Subsistence Incidence among Population (%),2009,Tawi-tawi,5.7,Province,ARMM,%
+3423,Subsistence Incidence among Population (%),2012,Tawi-tawi,7.4,Province,ARMM,%
+3424,Subsistence Incidence among Population (%),2015,Tawi-tawi,0,Province,ARMM,%
+3455,Subsistence Incidence among Population (%),1991,Western Samar,,Province,Region VIII,%
+3456,Subsistence Incidence among Population (%),2006,Western Samar,17.6,Province,Region VIII,%
+3457,Subsistence Incidence among Population (%),2009,Western Samar,21,Province,Region VIII,%
+3458,Subsistence Incidence among Population (%),2012,Western Samar,22.5,Province,Region VIII,%
+3459,Subsistence Incidence among Population (%),2015,Western Samar,21.1,Province,Region VIII,%
+3490,Subsistence Incidence among Population (%),1991,Zambales,,Province,Region III,%
+3491,Subsistence Incidence among Population (%),2006,Zambales,6.5,Province,Region III,%
+3492,Subsistence Incidence among Population (%),2009,Zambales,8.6,Province,Region III,%
+3493,Subsistence Incidence among Population (%),2012,Zambales,6.4,Province,Region III,%
+3494,Subsistence Incidence among Population (%),2015,Zambales,5.7,Province,Region III,%
+3525,Subsistence Incidence among Population (%),1991,Zamboanga Sibugay,,Province,Region IX,%
+3526,Subsistence Incidence among Population (%),2006,Zamboanga Sibugay,19.1,Province,Region IX,%
+3527,Subsistence Incidence among Population (%),2009,Zamboanga Sibugay,29.3,Province,Region IX,%
+3528,Subsistence Incidence among Population (%),2012,Zamboanga Sibugay,20.3,Province,Region IX,%
+3529,Subsistence Incidence among Population (%),2015,Zamboanga Sibugay,5.8,Province,Region IX,%
+3560,Subsistence Incidence among Population (%),1991,Zamboanga del Norte,,Province,Region IX,%
+3561,Subsistence Incidence among Population (%),2006,Zamboanga del Norte,47.5,Province,Region IX,%
+3562,Subsistence Incidence among Population (%),2009,Zamboanga del Norte,46.4,Province,Region IX,%
+3563,Subsistence Incidence among Population (%),2012,Zamboanga del Norte,34.4,Province,Region IX,%
+3564,Subsistence Incidence among Population (%),2015,Zamboanga del Norte,27.9,Province,Region IX,%
+3595,Subsistence Incidence among Population (%),1991,Zamboanga del Sur,,Province,Region IX,%
+3596,Subsistence Incidence among Population (%),2006,Zamboanga del Sur,16.5,Province,Region IX,%
+3597,Subsistence Incidence among Population (%),2009,Zamboanga del Sur,15.6,Province,Region IX,%
+3598,Subsistence Incidence among Population (%),2012,Zamboanga del Sur,11.4,Province,Region IX,%
+3599,Subsistence Incidence among Population (%),2015,Zamboanga del Sur,7.5,Province,Region IX,%

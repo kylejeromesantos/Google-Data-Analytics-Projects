@@ -1,0 +1,403 @@
+,Variable,Year,province,value,adm_level,region,unit
+1,Magnitude of Poor Families,2006,1st District,"9,906",District,NCR,families
+2,Magnitude of Poor Families,2009,1st District,"12,405",District,NCR,families
+3,Magnitude of Poor Families,2012,1st District,"14,343",District,NCR,families
+4,Magnitude of Poor Families,2015,1st District,"12,710",District,NCR,families
+6,Magnitude of Poor Families,2006,2nd District,"28,247",District,NCR,families
+7,Magnitude of Poor Families,2009,2nd District,"21,168",District,NCR,families
+8,Magnitude of Poor Families,2012,2nd District,"19,782",District,NCR,families
+9,Magnitude of Poor Families,2015,2nd District,"21,727",District,NCR,families
+11,Magnitude of Poor Families,2006,3rd District,"18,631",District,NCR,families
+12,Magnitude of Poor Families,2009,3rd District,"19,306",District,NCR,families
+13,Magnitude of Poor Families,2012,3rd District,"18,266",District,NCR,families
+14,Magnitude of Poor Families,2015,3rd District,"22,352",District,NCR,families
+16,Magnitude of Poor Families,2006,4th District,"16,570",District,NCR,families
+17,Magnitude of Poor Families,2009,4th District,"11,095",District,NCR,families
+18,Magnitude of Poor Families,2012,4th District,"24,138",District,NCR,families
+19,Magnitude of Poor Families,2015,4th District,"23,457",District,NCR,families
+20,Magnitude of Poor Families,1991,ARMM,"104,747",Region,ARMM,families
+21,Magnitude of Poor Families,2006,ARMM,"205,834",Region,ARMM,families
+22,Magnitude of Poor Families,2009,ARMM,"212,494",Region,ARMM,families
+23,Magnitude of Poor Families,2012,ARMM,"271,355",Region,ARMM,families
+24,Magnitude of Poor Families,2015,ARMM,"296,999",Region,ARMM,families
+26,Magnitude of Poor Families,2006,Abra,"18,054",Province,CAR,families
+27,Magnitude of Poor Families,2009,Abra,"18,852",Province,CAR,families
+28,Magnitude of Poor Families,2012,Abra,"13,914",Province,CAR,families
+29,Magnitude of Poor Families,2015,Abra,"12,400",Province,CAR,families
+31,Magnitude of Poor Families,2006,Agusan del Norte,"46,898",Province,CARAGA,families
+32,Magnitude of Poor Families,2009,Agusan del Norte,"48,842",Province,CARAGA,families
+33,Magnitude of Poor Families,2012,Agusan del Norte,"39,125",Province,CARAGA,families
+34,Magnitude of Poor Families,2015,Agusan del Norte,"45,678",Province,CARAGA,families
+36,Magnitude of Poor Families,2006,Agusan del Sur,"56,058",Province,CARAGA,families
+37,Magnitude of Poor Families,2009,Agusan del Sur,"70,560",Province,CARAGA,families
+38,Magnitude of Poor Families,2012,Agusan del Sur,"52,809",Province,CARAGA,families
+39,Magnitude of Poor Families,2015,Agusan del Sur,"50,990",Province,CARAGA,families
+41,Magnitude of Poor Families,2006,Aklan,"33,647",Province,Region VI,families
+42,Magnitude of Poor Families,2009,Aklan,"41,583",Province,Region VI,families
+43,Magnitude of Poor Families,2012,Aklan,"25,204",Province,Region VI,families
+44,Magnitude of Poor Families,2015,Aklan,"11,600",Province,Region VI,families
+46,Magnitude of Poor Families,2006,Albay,"67,788",Province,Region V,families
+47,Magnitude of Poor Families,2009,Albay,"75,910",Province,Region V,families
+48,Magnitude of Poor Families,2012,Albay,"90,551",Province,Region V,families
+49,Magnitude of Poor Families,2015,Albay,"50,815",Province,Region V,families
+51,Magnitude of Poor Families,2006,Antique,"45,308",Province,Region VI,families
+52,Magnitude of Poor Families,2009,Antique,"39,314",Province,Region VI,families
+53,Magnitude of Poor Families,2012,Antique,"28,598",Province,Region VI,families
+54,Magnitude of Poor Families,2015,Antique,"20,532",Province,Region VI,families
+56,Magnitude of Poor Families,2006,Apayao,"8,944",Province,CAR,families
+57,Magnitude of Poor Families,2009,Apayao,"9,132",Province,CAR,families
+58,Magnitude of Poor Families,2012,Apayao,"13,462",Province,CAR,families
+59,Magnitude of Poor Families,2015,Apayao,"6,945",Province,CAR,families
+66,Magnitude of Poor Families,2006,Basilan,"14,137",Province,ARMM,families
+67,Magnitude of Poor Families,2009,Basilan,"14,781",Province,ARMM,families
+68,Magnitude of Poor Families,2012,Basilan,"16,832",Province,ARMM,families
+69,Magnitude of Poor Families,2015,Basilan,"11,125",Province,ARMM,families
+71,Magnitude of Poor Families,2006,Bataan,"8,359",Province,Region III,families
+72,Magnitude of Poor Families,2009,Bataan,"8,688",Province,Region III,families
+73,Magnitude of Poor Families,2012,Bataan,"7,116",Province,Region III,families
+74,Magnitude of Poor Families,2015,Bataan,"2,751",Province,Region III,families
+81,Magnitude of Poor Families,2006,Batangas,"49,739",Province,Region VI-A,families
+82,Magnitude of Poor Families,2009,Batangas,"62,889",Province,Region VI-A,families
+83,Magnitude of Poor Families,2012,Batangas,"80,551",Province,Region VI-A,families
+84,Magnitude of Poor Families,2015,Batangas,"40,163",Province,Region VI-A,families
+86,Magnitude of Poor Families,2006,Benguet,"5,773",Province,CAR,families
+87,Magnitude of Poor Families,2009,Benguet,"6,937",Province,CAR,families
+88,Magnitude of Poor Families,2012,Benguet,"5,121",Province,CAR,families
+89,Magnitude of Poor Families,2015,Benguet,"4,783",Province,CAR,families
+91,Magnitude of Poor Families,2006,Biliran,"7,143",Province,Region VIII,families
+92,Magnitude of Poor Families,2009,Biliran,"10,701",Province,Region VIII,families
+93,Magnitude of Poor Families,2012,Biliran,"7,468",Province,Region VIII,families
+94,Magnitude of Poor Families,2015,Biliran,"8,173",Province,Region VIII,families
+96,Magnitude of Poor Families,2006,Bohol,"97,368",Province,Region VII,families
+97,Magnitude of Poor Families,2009,Bohol,"93,942",Province,Region VII,families
+98,Magnitude of Poor Families,2012,Bohol,"83,455",Province,Region VII,families
+99,Magnitude of Poor Families,2015,Bohol,"60,279",Province,Region VII,families
+101,Magnitude of Poor Families,2006,Bukidnon,"86,133",Province,Region X,families
+102,Magnitude of Poor Families,2009,Bukidnon,"98,340",Province,Region X,families
+103,Magnitude of Poor Families,2012,Bukidnon,"120,760",Province,Region X,families
+104,Magnitude of Poor Families,2015,Bukidnon,"135,909",Province,Region X,families
+106,Magnitude of Poor Families,2006,Bulacan,"27,997",Province,Region III,families
+107,Magnitude of Poor Families,2009,Bulacan,"29,371",Province,Region III,families
+108,Magnitude of Poor Families,2012,Bulacan,"38,103",Province,Region III,families
+109,Magnitude of Poor Families,2015,Bulacan,"24,359",Province,Region III,families
+110,Magnitude of Poor Families,1991,CAR,"83,557",Region,CAR,families
+111,Magnitude of Poor Families,2006,CAR,"66,607",Region,CAR,families
+112,Magnitude of Poor Families,2009,CAR,"66,111",Region,CAR,families
+113,Magnitude of Poor Families,2012,CAR,"65,516",Region,CAR,families
+114,Magnitude of Poor Families,2015,CAR,"59,759",Region,CAR,families
+116,Magnitude of Poor Families,2006,Cagayan,"56,765",Province,Region II,families
+117,Magnitude of Poor Families,2009,Cagayan,"55,061",Province,Region II,families
+118,Magnitude of Poor Families,2012,Cagayan,"40,237",Province,Region II,families
+119,Magnitude of Poor Families,2015,Cagayan,"35,986",Province,Region II,families
+121,Magnitude of Poor Families,2006,Camarines Norte,"32,037",Province,Region V,families
+122,Magnitude of Poor Families,2009,Camarines Norte,"36,527",Province,Region V,families
+123,Magnitude of Poor Families,2012,Camarines Norte,"26,663",Province,Region V,families
+124,Magnitude of Poor Families,2015,Camarines Norte,"39,647",Province,Region V,families
+126,Magnitude of Poor Families,2006,Camarines Sur,"131,601",Province,Region V,families
+127,Magnitude of Poor Families,2009,Camarines Sur,"142,173",Province,Region V,families
+128,Magnitude of Poor Families,2012,Camarines Sur,"121,614",Province,Region V,families
+129,Magnitude of Poor Families,2015,Camarines Sur,"104,902",Province,Region V,families
+136,Magnitude of Poor Families,2006,Capiz,"34,419",Province,Region VI,families
+137,Magnitude of Poor Families,2009,Capiz,"35,726",Province,Region VI,families
+138,Magnitude of Poor Families,2012,Capiz,"37,143",Province,Region VI,families
+139,Magnitude of Poor Families,2015,Capiz,"15,654",Province,Region VI,families
+140,Magnitude of Poor Families,1991,Caraga,"163,244",Region,CARAGA,families
+141,Magnitude of Poor Families,2006,Caraga,"191,315",Region,CARAGA,families
+142,Magnitude of Poor Families,2009,Caraga,"227,453",Region,CARAGA,families
+143,Magnitude of Poor Families,2012,Caraga,"169,522",Region,CARAGA,families
+144,Magnitude of Poor Families,2015,Caraga,"178,160",Region,CARAGA,families
+146,Magnitude of Poor Families,2006,Catanduanes,"15,193",Province,Region V,families
+147,Magnitude of Poor Families,2009,Catanduanes,"11,002",Province,Region V,families
+148,Magnitude of Poor Families,2012,Catanduanes,"13,919",Province,Region V,families
+149,Magnitude of Poor Families,2015,Catanduanes,"20,022",Province,Region V,families
+151,Magnitude of Poor Families,2006,Cavite,"7,093",Province,Region VI-A,families
+152,Magnitude of Poor Families,2009,Cavite,"15,157",Province,Region VI-A,families
+153,Magnitude of Poor Families,2012,Cavite,"19,983",Province,Region VI-A,families
+154,Magnitude of Poor Families,2015,Cavite,"35,873",Province,Region VI-A,families
+156,Magnitude of Poor Families,2006,Cebu,"209,301",Province,Region VII,families
+157,Magnitude of Poor Families,2009,Cebu,"200,481",Province,Region VII,families
+158,Magnitude of Poor Families,2012,Cebu,"185,603",Province,Region VII,families
+159,Magnitude of Poor Families,2015,Cebu,"179,162",Province,Region VII,families
+161,Magnitude of Poor Families,2006,Compostela Valley,"43,546",Province,Region XI,families
+162,Magnitude of Poor Families,2009,Compostela Valley,"46,267",Province,Region XI,families
+163,Magnitude of Poor Families,2012,Compostela Valley,"48,928",Province,Region XI,families
+164,Magnitude of Poor Families,2015,Compostela Valley,"31,608",Province,Region XI,families
+171,Magnitude of Poor Families,2006,Davao Oriental,"43,761",Province,Region XI,families
+172,Magnitude of Poor Families,2009,Davao Oriental,"49,155",Province,Region XI,families
+173,Magnitude of Poor Families,2012,Davao Oriental,"45,429",Province,Region XI,families
+174,Magnitude of Poor Families,2015,Davao Oriental,"25,622",Province,Region XI,families
+176,Magnitude of Poor Families,2006,Davao del Norte,"48,669",Province,Region XI,families
+177,Magnitude of Poor Families,2009,Davao del Norte,"55,869",Province,Region XI,families
+178,Magnitude of Poor Families,2012,Davao del Norte,"60,652",Province,Region XI,families
+179,Magnitude of Poor Families,2015,Davao del Norte,"52,665",Province,Region XI,families
+181,Magnitude of Poor Families,2006,Davao del Sur,"93,824",Province,Region XI,families
+182,Magnitude of Poor Families,2009,Davao del Sur,"100,860",Province,Region XI,families
+183,Magnitude of Poor Families,2012,Davao del Sur,"113,948",Province,Region XI,families
+184,Magnitude of Poor Families,2015,Davao del Sur,"82,554",Province,Region XI,families
+186,Magnitude of Poor Families,2006,Eastern Samar,"34,344",Province,Region VIII,families
+187,Magnitude of Poor Families,2009,Eastern Samar,"43,489",Province,Region VIII,families
+188,Magnitude of Poor Families,2012,Eastern Samar,"52,189",Province,Region VIII,families
+189,Magnitude of Poor Families,2015,Eastern Samar,"37,919",Province,Region VIII,families
+196,Magnitude of Poor Families,2006,Ifugao,"7,575",Province,CAR,families
+197,Magnitude of Poor Families,2009,Ifugao,"9,263",Province,CAR,families
+198,Magnitude of Poor Families,2012,Ifugao,"14,950",Province,CAR,families
+199,Magnitude of Poor Families,2015,Ifugao,"11,133",Province,CAR,families
+201,Magnitude of Poor Families,2006,Ilocos Norte,"16,393",Province,Region I,families
+202,Magnitude of Poor Families,2009,Ilocos Norte,"14,045",Province,Region I,families
+203,Magnitude of Poor Families,2012,Ilocos Norte,"11,211",Province,Region I,families
+204,Magnitude of Poor Families,2015,Ilocos Norte,"4,848",Province,Region I,families
+206,Magnitude of Poor Families,2006,Ilocos Sur,"22,174",Province,Region I,families
+207,Magnitude of Poor Families,2009,Ilocos Sur,"19,256",Province,Region I,families
+208,Magnitude of Poor Families,2012,Ilocos Sur,"20,886",Province,Region I,families
+209,Magnitude of Poor Families,2015,Ilocos Sur,"15,269",Province,Region I,families
+211,Magnitude of Poor Families,2006,Iloilo,"71,708",Province,Region VI,families
+212,Magnitude of Poor Families,2009,Iloilo,"90,558",Province,Region VI,families
+213,Magnitude of Poor Families,2012,Iloilo,"102,924",Province,Region VI,families
+214,Magnitude of Poor Families,2015,Iloilo,"87,264",Province,Region VI,families
+216,Magnitude of Poor Families,2006,Isabela,"72,134",Province,Region II,families
+217,Magnitude of Poor Families,2009,Isabela,"74,412",Province,Region II,families
+218,Magnitude of Poor Families,2012,Isabela,"68,106",Province,Region II,families
+219,Magnitude of Poor Families,2015,Isabela,"42,685",Province,Region II,families
+226,Magnitude of Poor Families,2006,Kalinga,"14,340",Province,CAR,families
+227,Magnitude of Poor Families,2009,Kalinga,"9,124",Province,CAR,families
+228,Magnitude of Poor Families,2012,Kalinga,"8,482",Province,CAR,families
+229,Magnitude of Poor Families,2015,Kalinga,"12,884",Province,CAR,families
+231,Magnitude of Poor Families,2006,La Union,"31,041",Province,Region I,families
+232,Magnitude of Poor Families,2009,La Union,"35,938",Province,Region I,families
+233,Magnitude of Poor Families,2012,La Union,"26,506",Province,Region I,families
+234,Magnitude of Poor Families,2015,La Union,"20,554",Province,Region I,families
+236,Magnitude of Poor Families,2006,Laguna,"22,772",Province,Region VI-A,families
+237,Magnitude of Poor Families,2009,Laguna,"37,277",Province,Region VI-A,families
+238,Magnitude of Poor Families,2012,Laguna,"31,409",Province,Region VI-A,families
+239,Magnitude of Poor Families,2015,Laguna,"32,973",Province,Region VI-A,families
+241,Magnitude of Poor Families,2006,Lanao del Norte,"57,196",Province,Region X,families
+242,Magnitude of Poor Families,2009,Lanao del Norte,"74,184",Province,Region X,families
+243,Magnitude of Poor Families,2012,Lanao del Norte,"83,640",Province,Region X,families
+244,Magnitude of Poor Families,2015,Lanao del Norte,"73,536",Province,Region X,families
+246,Magnitude of Poor Families,2006,Lanao del Sur,"51,408",Province,ARMM,families
+247,Magnitude of Poor Families,2009,Lanao del Sur,"68,770",Province,ARMM,families
+248,Magnitude of Poor Families,2012,Lanao del Sur,"100,946",Province,ARMM,families
+249,Magnitude of Poor Families,2015,Lanao del Sur,"109,258",Province,ARMM,families
+251,Magnitude of Poor Families,2006,Leyte,"117,271",Province,Region VIII,families
+252,Magnitude of Poor Families,2009,Leyte,"114,843",Province,Region VIII,families
+253,Magnitude of Poor Families,2012,Leyte,"128,273",Province,Region VIII,families
+254,Magnitude of Poor Families,2015,Leyte,"111,394",Province,Region VIII,families
+256,Magnitude of Poor Families,2006,Maguindanao,"70,665",Province,ARMM,families
+257,Magnitude of Poor Families,2009,Maguindanao,"67,899",Province,ARMM,families
+258,Magnitude of Poor Families,2012,Maguindanao,"87,800",Province,ARMM,families
+259,Magnitude of Poor Families,2015,Maguindanao,"86,100",Province,ARMM,families
+261,Magnitude of Poor Families,2006,Marinduque,"15,481",Province,Region IV-B,families
+262,Magnitude of Poor Families,2009,Marinduque,"13,971",Province,Region IV-B,families
+263,Magnitude of Poor Families,2012,Marinduque,"12,743",Province,Region IV-B,families
+264,Magnitude of Poor Families,2015,Marinduque,"9,157",Province,Region IV-B,families
+266,Magnitude of Poor Families,2006,Masbate,"70,711",Province,Region V,families
+267,Magnitude of Poor Families,2009,Masbate,"74,864",Province,Region V,families
+268,Magnitude of Poor Families,2012,Masbate,"72,903",Province,Region V,families
+269,Magnitude of Poor Families,2015,Masbate,"69,674",Province,Region V,families
+271,Magnitude of Poor Families,2006,Misamis Occidental,"42,596",Province,Region X,families
+272,Magnitude of Poor Families,2009,Misamis Occidental,"46,555",Province,Region X,families
+273,Magnitude of Poor Families,2012,Misamis Occidental,"44,405",Province,Region X,families
+274,Magnitude of Poor Families,2015,Misamis Occidental,"36,747",Province,Region X,families
+276,Magnitude of Poor Families,2006,Misamis Oriental,"72,773",Province,Region X,families
+277,Magnitude of Poor Families,2009,Misamis Oriental,"75,752",Province,Region X,families
+278,Magnitude of Poor Families,2012,Misamis Oriental,"63,513",Province,Region X,families
+279,Magnitude of Poor Families,2015,Misamis Oriental,"58,319",Province,Region X,families
+281,Magnitude of Poor Families,2006,Mt. Province,"11,920",Province,CAR,families
+282,Magnitude of Poor Families,2009,Mt. Province,"12,803",Province,CAR,families
+283,Magnitude of Poor Families,2012,Mt. Province,"9,586",Province,CAR,families
+284,Magnitude of Poor Families,2015,Mt. Province,"11,615",Province,CAR,families
+285,Magnitude of Poor Families,1991,NCR,"86,388",Region,NCR,families
+286,Magnitude of Poor Families,2006,NCR,"73,353",Region,NCR,families
+287,Magnitude of Poor Families,2009,NCR,"63,974",Region,NCR,families
+288,Magnitude of Poor Families,2012,NCR,"76,530",Region,NCR,families
+289,Magnitude of Poor Families,2015,NCR,"80,246",Region,NCR,families
+291,Magnitude of Poor Families,2006,Negros Occidental,"125,256",Province,Region VI,families
+292,Magnitude of Poor Families,2009,Negros Occidental,"141,585",Province,Region VI,families
+293,Magnitude of Poor Families,2012,Negros Occidental,"164,827",Province,Region VI,families
+294,Magnitude of Poor Families,2015,Negros Occidental,"145,182",Province,Region VI,families
+296,Magnitude of Poor Families,2006,Negros Oriental,"99,734",Province,Region VII,families
+297,Magnitude of Poor Families,2009,Negros Oriental,"78,122",Province,Region VII,families
+298,Magnitude of Poor Families,2012,Negros Oriental,"131,317",Province,Region VII,families
+299,Magnitude of Poor Families,2015,Negros Oriental,"138,029",Province,Region VII,families
+301,Magnitude of Poor Families,2006,North Cotabato,"60,532",Province,Region XII,families
+302,Magnitude of Poor Families,2009,North Cotabato,"61,568",Province,Region XII,families
+303,Magnitude of Poor Families,2012,North Cotabato,"131,744",Province,Region XII,families
+304,Magnitude of Poor Families,2015,North Cotabato,"109,146",Province,Region XII,families
+306,Magnitude of Poor Families,2006,Northern Samar,"47,317",Province,Region VIII,families
+307,Magnitude of Poor Families,2009,Northern Samar,"48,079",Province,Region VIII,families
+308,Magnitude of Poor Families,2012,Northern Samar,"51,663",Province,Region VIII,families
+309,Magnitude of Poor Families,2015,Northern Samar,"57,003",Province,Region VIII,families
+311,Magnitude of Poor Families,2006,Nueva Ecija,"85,958",Province,Region III,families
+312,Magnitude of Poor Families,2009,Nueva Ecija,"107,224",Province,Region III,families
+313,Magnitude of Poor Families,2012,Nueva Ecija,"91,168",Province,Region III,families
+314,Magnitude of Poor Families,2015,Nueva Ecija,"105,793",Province,Region III,families
+316,Magnitude of Poor Families,2006,Nueva Vizcaya,"9,576",Province,Region II,families
+317,Magnitude of Poor Families,2009,Nueva Vizcaya,"9,365",Province,Region II,families
+318,Magnitude of Poor Families,2012,Nueva Vizcaya,"15,297",Province,Region II,families
+319,Magnitude of Poor Families,2015,Nueva Vizcaya,"8,504",Province,Region II,families
+321,Magnitude of Poor Families,2006,Occidental Mindoro,"30,084",Province,Region IV-B,families
+322,Magnitude of Poor Families,2009,Occidental Mindoro,"24,203",Province,Region IV-B,families
+323,Magnitude of Poor Families,2012,Occidental Mindoro,"31,070",Province,Region IV-B,families
+324,Magnitude of Poor Families,2015,Occidental Mindoro,"31,354",Province,Region IV-B,families
+326,Magnitude of Poor Families,2006,Oriental Mindoro,"56,043",Province,Region IV-B,families
+327,Magnitude of Poor Families,2009,Oriental Mindoro,"48,741",Province,Region IV-B,families
+328,Magnitude of Poor Families,2012,Oriental Mindoro,"39,272",Province,Region IV-B,families
+329,Magnitude of Poor Families,2015,Oriental Mindoro,"29,061",Province,Region IV-B,families
+330,Magnitude of Poor Families,1991,PHILIPPINES,"3,554,878",Country,Philippines,families
+331,Magnitude of Poor Families,2006,PHILIPPINES,"3,809,283",Country,Philippines,families
+332,Magnitude of Poor Families,2009,PHILIPPINES,"4,036,915",Country,Philippines,families
+333,Magnitude of Poor Families,2012,PHILIPPINES,"4,214,921",Country,Philippines,families
+334,Magnitude of Poor Families,2015,PHILIPPINES,"3,746,513",Country,Philippines,families
+336,Magnitude of Poor Families,2006,Palawan,"53,193",Province,Region IV-B,families
+337,Magnitude of Poor Families,2009,Palawan,"53,131",Province,Region IV-B,families
+338,Magnitude of Poor Families,2012,Palawan,"47,730",Province,Region IV-B,families
+339,Magnitude of Poor Families,2015,Palawan,"28,254",Province,Region IV-B,families
+341,Magnitude of Poor Families,2006,Pampanga,"8,823",Province,Region III,families
+342,Magnitude of Poor Families,2009,Pampanga,"23,297",Province,Region III,families
+343,Magnitude of Poor Families,2012,Pampanga,"28,483",Province,Region III,families
+344,Magnitude of Poor Families,2015,Pampanga,"15,434",Province,Region III,families
+346,Magnitude of Poor Families,2006,Pangasinan,"121,718",Province,Region I,families
+347,Magnitude of Poor Families,2009,Pangasinan,"103,487",Province,Region I,families
+348,Magnitude of Poor Families,2012,Pangasinan,"96,109",Province,Region I,families
+349,Magnitude of Poor Families,2015,Pangasinan,"71,562",Province,Region I,families
+351,Magnitude of Poor Families,2006,Quezon,"98,511",Province,Region VI-A,families
+352,Magnitude of Poor Families,2009,Quezon,"94,988",Province,Region VI-A,families
+353,Magnitude of Poor Families,2012,Quezon,"94,123",Province,Region VI-A,families
+354,Magnitude of Poor Families,2015,Quezon,"87,983",Province,Region VI-A,families
+356,Magnitude of Poor Families,2006,Quirino,"3,479",Province,Region II,families
+357,Magnitude of Poor Families,2009,Quirino,"4,310",Province,Region II,families
+358,Magnitude of Poor Families,2012,Quirino,"6,514",Province,Region II,families
+359,Magnitude of Poor Families,2015,Quirino,"8,192",Province,Region II,families
+360,Magnitude of Poor Families,1991,Region I,"205,171",Region,Region I,families
+361,Magnitude of Poor Families,2006,Region I,"191,326",Region,Region I,families
+362,Magnitude of Poor Families,2009,Region I,"172,726",Region,Region I,families
+363,Magnitude of Poor Families,2012,Region I,"154,712",Region,Region I,families
+364,Magnitude of Poor Families,2015,Region I,"112,233",Region,Region I,families
+365,Magnitude of Poor Families,1991,Region II,"182,360",Province,Region II,families
+366,Magnitude of Poor Families,2006,Region II,"142,518",Province,Region II,families
+367,Magnitude of Poor Families,2009,Region II,"143,847",Province,Region II,families
+368,Magnitude of Poor Families,2012,Region II,"130,965",Province,Region II,families
+369,Magnitude of Poor Families,2015,Region II,"95,367",Province,Region II,families
+370,Magnitude of Poor Families,1991,Region III,"221,205",Region,Region III,families
+371,Magnitude of Poor Families,2006,Region III,"206,568",Region,Region III,families
+372,Magnitude of Poor Families,2009,Region III,"232,928",Region,Region III,families
+373,Magnitude of Poor Families,2012,Region III,"240,079",Region,Region III,families
+374,Magnitude of Poor Families,2015,Region III,"223,684",Region,Region III,families
+375,Magnitude of Poor Families,1991,Region IV-A,"234,129",Region,Region VI-A,families
+376,Magnitude of Poor Families,2006,Region IV-A,"189,690",Region,Region VI-A,families
+377,Magnitude of Poor Families,2009,Region IV-A,"241,158",Region,Region VI-A,families
+378,Magnitude of Poor Families,2012,Region IV-A,"256,839",Region,Region VI-A,families
+379,Magnitude of Poor Families,2015,Region IV-A,"216,461",Region,Region VI-A,families
+380,Magnitude of Poor Families,1991,Region IV-B,"132,082",Region,Region IV-B,families
+381,Magnitude of Poor Families,2006,Region IV-B,"176,282",Region,Region IV-B,families
+382,Magnitude of Poor Families,2009,Region IV-B,"160,226",Region,Region IV-B,families
+383,Magnitude of Poor Families,2012,Region IV-B,"150,486",Region,Region IV-B,families
+384,Magnitude of Poor Families,2015,Region IV-B,"121,283",Region,Region IV-B,families
+385,Magnitude of Poor Families,1991,Region IX,"156,354",Region,Region IX,families
+386,Magnitude of Poor Families,2006,Region IX,"260,619",Region,Region IX,families
+387,Magnitude of Poor Families,2009,Region IX,"280,271",Region,Region IX,families
+388,Magnitude of Poor Families,2012,Region IX,"259,749",Region,Region IX,families
+389,Magnitude of Poor Families,2015,Region IX,"214,011",Region,Region IX,families
+390,Magnitude of Poor Families,1991,Region V,"395,592",Region,Region V,families
+391,Magnitude of Poor Families,2006,Region V,"361,802",Region,Region V,families
+392,Magnitude of Poor Families,2009,Region V,"385,523",Region,Region V,families
+393,Magnitude of Poor Families,2012,Region V,"375,974",Region,Region V,families
+394,Magnitude of Poor Families,2015,Region V,"346,965",Region,Region V,families
+395,Magnitude of Poor Families,1991,Region VI,"345,102",Region,Region VI,families
+396,Magnitude of Poor Families,2006,Region VI,"316,669",Region,Region VI,families
+397,Magnitude of Poor Families,2009,Region VI,"353,431",Region,Region VI,families
+398,Magnitude of Poor Families,2012,Region VI,"365,040",Region,Region VI,families
+399,Magnitude of Poor Families,2015,Region VI,"281,826",Region,Region VI,families
+400,Magnitude of Poor Families,1991,Region VII,"345,870",Region,Region VII,families
+401,Magnitude of Poor Families,2006,Region VII,"411,431",Region,Region VII,families
+402,Magnitude of Poor Families,2009,Region VII,"378,221",Region,Region VII,families
+403,Magnitude of Poor Families,2012,Region VII,"405,694",Region,Region VII,families
+404,Magnitude of Poor Families,2015,Region VII,"394,336",Region,Region VII,families
+405,Magnitude of Poor Families,1991,Region VIII,"279,555",Region,Region VIII,families
+406,Magnitude of Poor Families,2006,Region VIII,"271,319",Region,Region VIII,families
+407,Magnitude of Poor Families,2009,Region VIII,"293,886",Region,Region VIII,families
+408,Magnitude of Poor Families,2012,Region VIII,"337,221",Region,Region VIII,families
+409,Magnitude of Poor Families,2015,Region VIII,"299,897",Region,Region VIII,families
+410,Magnitude of Poor Families,1991,Region X,"236,172",Region,Region X,families
+411,Magnitude of Poor Families,2006,Region X,"263,982",Region,Region X,families
+412,Magnitude of Poor Families,2009,Region X,"298,472",Region,Region X,families
+413,Magnitude of Poor Families,2012,Region X,"320,113",Region,Region X,families
+414,Magnitude of Poor Families,2015,Region X,"311,552",Region,Region X,families
+415,Magnitude of Poor Families,1991,Region XI,"187,065",Region,Region XI,families
+416,Magnitude of Poor Families,2006,Region XI,"229,801",Region,Region XI,families
+417,Magnitude of Poor Families,2009,Region XI,"252,152",Region,Region XI,families
+418,Magnitude of Poor Families,2012,Region XI,"268,957",Region,Region XI,families
+419,Magnitude of Poor Families,2015,Region XI,"192,449",Region,Region XI,families
+420,Magnitude of Poor Families,1991,Region XII,"196,284",Region,Region XII,families
+421,Magnitude of Poor Families,2006,Region XII,"250,168",Region,Region XII,families
+422,Magnitude of Poor Families,2009,Region XII,"274,043",Region,Region XII,families
+423,Magnitude of Poor Families,2012,Region XII,"366,169",Region,Region XII,families
+424,Magnitude of Poor Families,2015,Region XII,"321,286",Region,Region XII,families
+426,Magnitude of Poor Families,2006,Rizal,"11,576",Province,Region VI-A,families
+427,Magnitude of Poor Families,2009,Rizal,"30,847",Province,Region VI-A,families
+428,Magnitude of Poor Families,2012,Rizal,"30,773",Province,Region VI-A,families
+429,Magnitude of Poor Families,2015,Rizal,"19,469",Province,Region VI-A,families
+431,Magnitude of Poor Families,2006,Romblon,"21,481",Province,Region IV-B,families
+432,Magnitude of Poor Families,2009,Romblon,"20,181",Province,Region IV-B,families
+433,Magnitude of Poor Families,2012,Romblon,"19,671",Province,Region IV-B,families
+434,Magnitude of Poor Families,2015,Romblon,"23,457",Province,Region IV-B,families
+436,Magnitude of Poor Families,2006,Saranggani,"40,876",Province,Region XII,families
+437,Magnitude of Poor Families,2009,Saranggani,"50,504",Province,Region XII,families
+438,Magnitude of Poor Families,2012,Saranggani,"52,982",Province,Region XII,families
+439,Magnitude of Poor Families,2015,Saranggani,"49,240",Province,Region XII,families
+446,Magnitude of Poor Families,2006,Sorsogon,"44,472",Province,Region V,families
+447,Magnitude of Poor Families,2009,Sorsogon,"45,046",Province,Region V,families
+448,Magnitude of Poor Families,2012,Sorsogon,"50,324",Province,Region V,families
+449,Magnitude of Poor Families,2015,Sorsogon,"61,905",Province,Region V,families
+451,Magnitude of Poor Families,2006,South Cotabato,"72,114",Province,Region XII,families
+452,Magnitude of Poor Families,2009,South Cotabato,"78,140",Province,Region XII,families
+453,Magnitude of Poor Families,2012,South Cotabato,"85,814",Province,Region XII,families
+454,Magnitude of Poor Families,2015,South Cotabato,"80,887",Province,Region XII,families
+456,Magnitude of Poor Families,2006,Southern Leyte,"20,915",Province,Region VIII,families
+457,Magnitude of Poor Families,2009,Southern Leyte,"26,483",Province,Region VIII,families
+458,Magnitude of Poor Families,2012,Southern Leyte,"31,890",Province,Region VIII,families
+459,Magnitude of Poor Families,2015,Southern Leyte,"27,083",Province,Region VIII,families
+461,Magnitude of Poor Families,2006,Sultan Kudarat,"64,441",Province,Region XII,families
+462,Magnitude of Poor Families,2009,Sultan Kudarat,"68,076",Province,Region XII,families
+463,Magnitude of Poor Families,2012,Sultan Kudarat,"74,075",Province,Region XII,families
+464,Magnitude of Poor Families,2015,Sultan Kudarat,"71,444",Province,Region XII,families
+466,Magnitude of Poor Families,2006,Sulu,"39,478",Province,ARMM,families
+467,Magnitude of Poor Families,2009,Sulu,"42,530",Province,ARMM,families
+468,Magnitude of Poor Families,2012,Sulu,"51,278",Province,ARMM,families
+469,Magnitude of Poor Families,2015,Sulu,"83,289",Province,ARMM,families
+471,Magnitude of Poor Families,2006,Surigao Del Norte,"47,939",Province,CARAGA,families
+472,Magnitude of Poor Families,2009,Surigao Del Norte,"58,147",Province,CARAGA,families
+473,Magnitude of Poor Families,2012,Surigao Del Norte,"43,620",Province,CARAGA,families
+474,Magnitude of Poor Families,2015,Surigao Del Norte,"38,612",Province,CARAGA,families
+476,Magnitude of Poor Families,2006,Surigao Del Sur,"40,420",Province,CARAGA,families
+477,Magnitude of Poor Families,2009,Surigao Del Sur,"49,904",Province,CARAGA,families
+478,Magnitude of Poor Families,2012,Surigao Del Sur,"33,968",Province,CARAGA,families
+479,Magnitude of Poor Families,2015,Surigao Del Sur,"42,879",Province,CARAGA,families
+481,Magnitude of Poor Families,2006,Tarlac,"35,823",Province,Region III,families
+482,Magnitude of Poor Families,2009,Tarlac,"37,538",Province,Region III,families
+483,Magnitude of Poor Families,2012,Tarlac,"40,174",Province,Region III,families
+484,Magnitude of Poor Families,2015,Tarlac,"44,266",Province,Region III,families
+486,Magnitude of Poor Families,2006,Tawi-tawi,"30,146",Province,ARMM,families
+487,Magnitude of Poor Families,2009,Tawi-tawi,"18,514",Province,ARMM,families
+488,Magnitude of Poor Families,2012,Tawi-tawi,"14,499",Province,ARMM,families
+489,Magnitude of Poor Families,2015,Tawi-tawi,"7,226",Province,ARMM,families
+491,Magnitude of Poor Families,2006,Western Samar,"44,329",Province,Region VIII,families
+492,Magnitude of Poor Families,2009,Western Samar,"50,291",Province,Region VIII,families
+493,Magnitude of Poor Families,2012,Western Samar,"65,737",Province,Region VIII,families
+494,Magnitude of Poor Families,2015,Western Samar,"58,326",Province,Region VIII,families
+496,Magnitude of Poor Families,2006,Zambales,"29,397",Province,Region III,families
+497,Magnitude of Poor Families,2009,Zambales,"20,365",Province,Region III,families
+498,Magnitude of Poor Families,2012,Zambales,"22,246",Province,Region III,families
+499,Magnitude of Poor Families,2015,Zambales,"18,288",Province,Region III,families
+501,Magnitude of Poor Families,2006,Zamboanga Sibugay,"49,397",Province,Region IX,families
+502,Magnitude of Poor Families,2009,Zamboanga Sibugay,"55,109",Province,Region IX,families
+503,Magnitude of Poor Families,2012,Zamboanga Sibugay,"48,050",Province,Region IX,families
+504,Magnitude of Poor Families,2015,Zamboanga Sibugay,"29,243",Province,Region IX,families
+506,Magnitude of Poor Families,2006,Zamboanga del Norte,"113,288",Province,Region IX,families
+507,Magnitude of Poor Families,2009,Zamboanga del Norte,"121,830",Province,Region IX,families
+508,Magnitude of Poor Families,2012,Zamboanga del Norte,"104,138",Province,Region IX,families
+509,Magnitude of Poor Families,2015,Zamboanga del Norte,"99,149",Province,Region IX,families
+511,Magnitude of Poor Families,2006,Zamboanga del Sur,"91,993",Province,Region IX,families
+512,Magnitude of Poor Families,2009,Zamboanga del Sur,"99,107",Province,Region IX,families
+513,Magnitude of Poor Families,2012,Zamboanga del Sur,"104,133",Province,Region IX,families
+514,Magnitude of Poor Families,2015,Zamboanga del Sur,"79,334",Province,Region IX,families

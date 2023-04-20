@@ -1,0 +1,398 @@
+,Variable,Year,province,value,adm_level,region,unit
+1,Poverty Incidence among Families (%),2006,1st District,2.7,District,NCR,%
+2,Poverty Incidence among Families (%),2009,1st District,3.2,District,NCR,%
+3,Poverty Incidence among Families (%),2012,1st District,3.6,District,NCR,%
+4,Poverty Incidence among Families (%),2015,1st District,3.5,District,NCR,%
+6,Poverty Incidence among Families (%),2006,2nd District,3.2,District,NCR,%
+7,Poverty Incidence among Families (%),2009,2nd District,2.2,District,NCR,%
+8,Poverty Incidence among Families (%),2012,2nd District,1.9,District,NCR,%
+9,Poverty Incidence among Families (%),2015,2nd District,1.9,District,NCR,%
+11,Poverty Incidence among Families (%),2006,3rd District,3.3,District,NCR,%
+12,Poverty Incidence among Families (%),2009,3rd District,3.2,District,NCR,%
+13,Poverty Incidence among Families (%),2012,3rd District,2.8,District,NCR,%
+14,Poverty Incidence among Families (%),2015,3rd District,3.3,District,NCR,%
+16,Poverty Incidence among Families (%),2006,4th District,2.4,District,NCR,%
+17,Poverty Incidence among Families (%),2009,4th District,1.5,District,NCR,%
+18,Poverty Incidence among Families (%),2012,4th District,3.0,District,NCR,%
+19,Poverty Incidence among Families (%),2015,4th District,2.8,District,NCR,%
+20,Poverty Incidence among Families (%),1991,ARMM,26.9,Region,ARMM,%
+21,Poverty Incidence among Families (%),2006,ARMM,40.5,Region,ARMM,%
+22,Poverty Incidence among Families (%),2009,ARMM,39.9,Region,ARMM,%
+23,Poverty Incidence among Families (%),2012,ARMM,48.7,Region,ARMM,%
+24,Poverty Incidence among Families (%),2015,ARMM,48.2,Region,ARMM,%
+26,Poverty Incidence among Families (%),2006,Abra,39.4,Province,CAR,%
+27,Poverty Incidence among Families (%),2009,Abra,38.9,Province,CAR,%
+28,Poverty Incidence among Families (%),2012,Abra,27.2,Province,CAR,%
+29,Poverty Incidence among Families (%),2015,Abra,19.9,Province,CAR,%
+31,Poverty Incidence among Families (%),2006,Agusan del Norte,38.7,Province,CARAGA,%
+32,Poverty Incidence among Families (%),2009,Agusan del Norte,37.3,Province,CARAGA,%
+33,Poverty Incidence among Families (%),2012,Agusan del Norte,27.7,Province,CARAGA,%
+34,Poverty Incidence among Families (%),2015,Agusan del Norte,28.1,Province,CARAGA,%
+36,Poverty Incidence among Families (%),2006,Agusan del Sur,46.1,Province,CARAGA,%
+37,Poverty Incidence among Families (%),2009,Agusan del Sur,53.8,Province,CARAGA,%
+38,Poverty Incidence among Families (%),2012,Agusan del Sur,37.3,Province,CARAGA,%
+39,Poverty Incidence among Families (%),2015,Agusan del Sur,37.0,Province,CARAGA,%
+41,Poverty Incidence among Families (%),2006,Aklan,32.2,Province,Region VI,%
+42,Poverty Incidence among Families (%),2009,Aklan,36.7,Province,Region VI,%
+43,Poverty Incidence among Families (%),2012,Aklan,20.4,Province,Region VI,%
+44,Poverty Incidence among Families (%),2015,Aklan,10.9,Province,Region VI,%
+46,Poverty Incidence among Families (%),2006,Albay,28.7,Province,Region V,%
+47,Poverty Incidence among Families (%),2009,Albay,30.2,Province,Region V,%
+48,Poverty Incidence among Families (%),2012,Albay,33.9,Province,Region V,%
+49,Poverty Incidence among Families (%),2015,Albay,17.6,Province,Region V,%
+51,Poverty Incidence among Families (%),2006,Antique,42.5,Province,Region VI,%
+52,Poverty Incidence among Families (%),2009,Antique,34.5,Province,Region VI,%
+53,Poverty Incidence among Families (%),2012,Antique,23.6,Province,Region VI,%
+54,Poverty Incidence among Families (%),2015,Antique,18.4,Province,Region VI,%
+56,Poverty Incidence among Families (%),2006,Apayao,42.1,Province,CAR,%
+57,Poverty Incidence among Families (%),2009,Apayao,39.9,Province,CAR,%
+58,Poverty Incidence among Families (%),2012,Apayao,54.7,Province,CAR,%
+59,Poverty Incidence among Families (%),2015,Apayao,30.9,Province,CAR,%
+66,Poverty Incidence among Families (%),2006,Basilan,28.2,Province,ARMM,%
+67,Poverty Incidence among Families (%),2009,Basilan,28.8,Province,ARMM,%
+68,Poverty Incidence among Families (%),2012,Basilan,32.1,Province,ARMM,%
+69,Poverty Incidence among Families (%),2015,Basilan,28.3,Province,ARMM,%
+71,Poverty Incidence among Families (%),2006,Bataan,6.2,Province,Region III,%
+72,Poverty Incidence among Families (%),2009,Bataan,5.9,Province,Region III,%
+73,Poverty Incidence among Families (%),2012,Bataan,4.5,Province,Region III,%
+74,Poverty Incidence among Families (%),2015,Bataan,1.6,Province,Region III,%
+81,Poverty Incidence among Families (%),2006,Batangas,10.9,Province,Region VI-A,%
+82,Poverty Incidence among Families (%),2009,Batangas,12.6,Province,Region VI-A,%
+83,Poverty Incidence among Families (%),2012,Batangas,14.7,Province,Region VI-A,%
+84,Poverty Incidence among Families (%),2015,Batangas,6.8,Province,Region VI-A,%
+86,Poverty Incidence among Families (%),2006,Benguet,4.0,Province,CAR,%
+87,Poverty Incidence among Families (%),2009,Benguet,4.2,Province,CAR,%
+88,Poverty Incidence among Families (%),2012,Benguet,2.8,Province,CAR,%
+89,Poverty Incidence among Families (%),2015,Benguet,2.5,Province,CAR,%
+91,Poverty Incidence among Families (%),2006,Biliran,22.6,Province,Region VIII,%
+92,Poverty Incidence among Families (%),2009,Biliran,31.8,Province,Region VIII,%
+93,Poverty Incidence among Families (%),2012,Biliran,20.9,Province,Region VIII,%
+94,Poverty Incidence among Families (%),2015,Biliran,17.4,Province,Region VIII,%
+96,Poverty Incidence among Families (%),2006,Bohol,40.3,Province,Region VII,%
+97,Poverty Incidence among Families (%),2009,Bohol,36.6,Province,Region VII,%
+98,Poverty Incidence among Families (%),2012,Bohol,30.6,Province,Region VII,%
+99,Poverty Incidence among Families (%),2015,Bohol,21.7,Province,Region VII,%
+101,Poverty Incidence among Families (%),2006,Bukidnon,35.4,Province,Region X,%
+102,Poverty Incidence among Families (%),2009,Bukidnon,37.0,Province,Region X,%
+103,Poverty Incidence among Families (%),2012,Bukidnon,41.5,Province,Region X,%
+104,Poverty Incidence among Families (%),2015,Bukidnon,47.0,Province,Region X,%
+106,Poverty Incidence among Families (%),2006,Bulacan,4.9,Province,Region III,%
+107,Poverty Incidence among Families (%),2009,Bulacan,4.6,Province,Region III,%
+108,Poverty Incidence among Families (%),2012,Bulacan,5.4,Province,Region III,%
+109,Poverty Incidence among Families (%),2015,Bulacan,3.3,Province,Region III,%
+110,Poverty Incidence among Families (%),1991,CAR,36.7,Region,CAR,%
+111,Poverty Incidence among Families (%),2006,CAR,21.1,Region,CAR,%
+112,Poverty Incidence among Families (%),2009,CAR,19.2,Region,CAR,%
+113,Poverty Incidence among Families (%),2012,CAR,17.5,Region,CAR,%
+114,Poverty Incidence among Families (%),2015,CAR,14.9,Region,CAR,%
+116,Poverty Incidence among Families (%),2006,Cagayan,25.1,Province,Region II,%
+117,Poverty Incidence among Families (%),2009,Cagayan,22.5,Province,Region II,%
+118,Poverty Incidence among Families (%),2012,Cagayan,15.2,Province,Region II,%
+119,Poverty Incidence among Families (%),2015,Cagayan,13.3,Province,Region II,%
+121,Poverty Incidence among Families (%),2006,Camarines Norte,30.1,Province,Region V,%
+122,Poverty Incidence among Families (%),2009,Camarines Norte,31.9,Province,Region V,%
+123,Poverty Incidence among Families (%),2012,Camarines Norte,21.7,Province,Region V,%
+124,Poverty Incidence among Families (%),2015,Camarines Norte,29.3,Province,Region V,%
+126,Poverty Incidence among Families (%),2006,Camarines Sur,39.5,Province,Region V,%
+127,Poverty Incidence among Families (%),2009,Camarines Sur,39.8,Province,Region V,%
+128,Poverty Incidence among Families (%),2012,Camarines Sur,31.7,Province,Region V,%
+129,Poverty Incidence among Families (%),2015,Camarines Sur,27.1,Province,Region V,%
+136,Poverty Incidence among Families (%),2006,Capiz,23.5,Province,Region VI,%
+137,Poverty Incidence among Families (%),2009,Capiz,22.9,Province,Region VI,%
+138,Poverty Incidence among Families (%),2012,Capiz,22.3,Province,Region VI,%
+139,Poverty Incidence among Families (%),2015,Capiz,7.8,Province,Region VI,%
+140,Poverty Incidence among Families (%),1991,Caraga,48.5,Region,CARAGA,%
+141,Poverty Incidence among Families (%),2006,Caraga,41.7,Region,CARAGA,%
+142,Poverty Incidence among Families (%),2009,Caraga,46.0,Region,CARAGA,%
+143,Poverty Incidence among Families (%),2012,Caraga,31.9,Region,CARAGA,%
+144,Poverty Incidence among Families (%),2015,Caraga,30.8,Region,CARAGA,%
+146,Poverty Incidence among Families (%),2006,Catanduanes,33.0,Province,Region V,%
+147,Poverty Incidence among Families (%),2009,Catanduanes,22.6,Province,Region V,%
+148,Poverty Incidence among Families (%),2012,Catanduanes,27.1,Province,Region V,%
+149,Poverty Incidence among Families (%),2015,Catanduanes,33.6,Province,Region V,%
+151,Poverty Incidence among Families (%),2006,Cavite,1.2,Province,Region VI-A,%
+152,Poverty Incidence among Families (%),2009,Cavite,2.2,Province,Region VI-A,%
+153,Poverty Incidence among Families (%),2012,Cavite,2.6,Province,Region VI-A,%
+154,Poverty Incidence among Families (%),2015,Cavite,4.5,Province,Region VI-A,%
+156,Poverty Incidence among Families (%),2006,Cebu,25.6,Province,Region VII,%
+157,Poverty Incidence among Families (%),2009,Cebu,22.3,Province,Region VII,%
+158,Poverty Incidence among Families (%),2012,Cebu,18.9,Province,Region VII,%
+159,Poverty Incidence among Families (%),2015,Cebu,17.9,Province,Region VII,%
+161,Poverty Incidence among Families (%),2006,Compostela Valley,31.3,Province,Region XI,%
+162,Poverty Incidence among Families (%),2009,Compostela Valley,31.0,Province,Region XI,%
+163,Poverty Incidence among Families (%),2012,Compostela Valley,30.7,Province,Region XI,%
+164,Poverty Incidence among Families (%),2015,Compostela Valley,22.0,Province,Region XI,%
+171,Poverty Incidence among Families (%),2006,Davao Oriental,42.7,Province,Region XI,%
+172,Poverty Incidence among Families (%),2009,Davao Oriental,44.3,Province,Region XI,%
+173,Poverty Incidence among Families (%),2012,Davao Oriental,37.8,Province,Region XI,%
+174,Poverty Incidence among Families (%),2015,Davao Oriental,21.3,Province,Region XI,%
+176,Poverty Incidence among Families (%),2006,Davao del Norte,26.2,Province,Region XI,%
+177,Poverty Incidence among Families (%),2009,Davao del Norte,27.2,Province,Region XI,%
+178,Poverty Incidence among Families (%),2012,Davao del Norte,26.7,Province,Region XI,%
+179,Poverty Incidence among Families (%),2015,Davao del Norte,26.1,Province,Region XI,%
+181,Poverty Incidence among Families (%),2006,Davao del Sur,19.6,Province,Region XI,%
+182,Poverty Incidence among Families (%),2009,Davao del Sur,19.3,Province,Region XI,%
+183,Poverty Incidence among Families (%),2012,Davao del Sur,20.0,Province,Region XI,%
+184,Poverty Incidence among Families (%),2015,Davao del Sur,12.0,Province,Region XI,%
+186,Poverty Incidence among Families (%),2006,Eastern Samar,41.3,Province,Region VIII,%
+187,Poverty Incidence among Families (%),2009,Eastern Samar,49.2,Province,Region VIII,%
+188,Poverty Incidence among Families (%),2012,Eastern Samar,55.4,Province,Region VIII,%
+189,Poverty Incidence among Families (%),2015,Eastern Samar,37.4,Province,Region VIII,%
+196,Poverty Incidence among Families (%),2006,Ifugao,20.9,Province,CAR,%
+197,Poverty Incidence among Families (%),2009,Ifugao,23.9,Province,CAR,%
+198,Poverty Incidence among Families (%),2012,Ifugao,36.0,Province,CAR,%
+199,Poverty Incidence among Families (%),2015,Ifugao,26.1,Province,CAR,%
+201,Poverty Incidence among Families (%),2006,Ilocos Norte,13.7,Province,Region I,%
+202,Poverty Incidence among Families (%),2009,Ilocos Norte,11.1,Province,Region I,%
+203,Poverty Incidence among Families (%),2012,Ilocos Norte,8.4,Province,Region I,%
+204,Poverty Incidence among Families (%),2015,Ilocos Norte,3.3,Province,Region I,%
+206,Poverty Incidence among Families (%),2006,Ilocos Sur,16.4,Province,Region I,%
+207,Poverty Incidence among Families (%),2009,Ilocos Sur,13.4,Province,Region I,%
+208,Poverty Incidence among Families (%),2012,Ilocos Sur,13.7,Province,Region I,%
+209,Poverty Incidence among Families (%),2015,Ilocos Sur,9.5,Province,Region I,%
+211,Poverty Incidence among Families (%),2006,Iloilo,16.7,Province,Region VI,%
+212,Poverty Incidence among Families (%),2009,Iloilo,19.7,Province,Region VI,%
+213,Poverty Incidence among Families (%),2012,Iloilo,20.8,Province,Region VI,%
+214,Poverty Incidence among Families (%),2015,Iloilo,14.9,Province,Region VI,%
+216,Poverty Incidence among Families (%),2006,Isabela,23.8,Province,Region II,%
+217,Poverty Incidence among Families (%),2009,Isabela,22.6,Province,Region II,%
+218,Poverty Incidence among Families (%),2012,Isabela,19.0,Province,Region II,%
+219,Poverty Incidence among Families (%),2015,Isabela,10.6,Province,Region II,%
+226,Poverty Incidence among Families (%),2006,Kalinga,40.6,Province,CAR,%
+227,Poverty Incidence among Families (%),2009,Kalinga,24.1,Province,CAR,%
+228,Poverty Incidence among Families (%),2012,Kalinga,20.9,Province,CAR,%
+229,Poverty Incidence among Families (%),2015,Kalinga,30.0,Province,CAR,%
+231,Poverty Incidence among Families (%),2006,La Union,20.8,Province,Region I,%
+232,Poverty Incidence among Families (%),2009,La Union,22.4,Province,Region I,%
+233,Poverty Incidence among Families (%),2012,La Union,15.3,Province,Region I,%
+234,Poverty Incidence among Families (%),2015,La Union,9.2,Province,Region I,%
+236,Poverty Incidence among Families (%),2006,Laguna,4.3,Province,Region VI-A,%
+237,Poverty Incidence among Families (%),2009,Laguna,6.2,Province,Region VI-A,%
+238,Poverty Incidence among Families (%),2012,Laguna,4.6,Province,Region VI-A,%
+239,Poverty Incidence among Families (%),2015,Laguna,4.1,Province,Region VI-A,%
+241,Poverty Incidence among Families (%),2006,Lanao del Norte,33.1,Province,Region X,%
+242,Poverty Incidence among Families (%),2009,Lanao del Norte,39.7,Province,Region X,%
+243,Poverty Incidence among Families (%),2012,Lanao del Norte,41.4,Province,Region X,%
+244,Poverty Incidence among Families (%),2015,Lanao del Norte,36.3,Province,Region X,%
+246,Poverty Incidence among Families (%),2006,Lanao del Sur,38.6,Province,ARMM,%
+247,Poverty Incidence among Families (%),2009,Lanao del Sur,48.7,Province,ARMM,%
+248,Poverty Incidence among Families (%),2012,Lanao del Sur,67.3,Province,ARMM,%
+249,Poverty Incidence among Families (%),2015,Lanao del Sur,66.3,Province,ARMM,%
+251,Poverty Incidence among Families (%),2006,Leyte,32.2,Province,Region VIII,%
+252,Poverty Incidence among Families (%),2009,Leyte,29.8,Province,Region VIII,%
+253,Poverty Incidence among Families (%),2012,Leyte,31.4,Province,Region VIII,%
+254,Poverty Incidence among Families (%),2015,Leyte,23.6,Province,Region VIII,%
+256,Poverty Incidence among Families (%),2006,Maguindanao,46.4,Province,ARMM,%
+257,Poverty Incidence among Families (%),2009,Maguindanao,43.3,Province,ARMM,%
+258,Poverty Incidence among Families (%),2012,Maguindanao,54.5,Province,ARMM,%
+259,Poverty Incidence among Families (%),2015,Maguindanao,48.8,Province,ARMM,%
+261,Poverty Incidence among Families (%),2006,Marinduque,31.9,Province,Region IV-B,%
+262,Poverty Incidence among Families (%),2009,Marinduque,27.4,Province,Region IV-B,%
+263,Poverty Incidence among Families (%),2012,Marinduque,23.9,Province,Region IV-B,%
+264,Poverty Incidence among Families (%),2015,Marinduque,11.7,Province,Region IV-B,%
+266,Poverty Incidence among Families (%),2006,Masbate,44.6,Province,Region V,%
+267,Poverty Incidence among Families (%),2009,Masbate,44.4,Province,Region V,%
+268,Poverty Incidence among Families (%),2012,Masbate,40.6,Province,Region V,%
+269,Poverty Incidence among Families (%),2015,Masbate,35.5,Province,Region V,%
+271,Poverty Incidence among Families (%),2006,Misamis Occidental,37.1,Province,Region X,%
+272,Poverty Incidence among Families (%),2009,Misamis Occidental,37.9,Province,Region X,%
+273,Poverty Incidence among Families (%),2012,Misamis Occidental,33.8,Province,Region X,%
+274,Poverty Incidence among Families (%),2015,Misamis Occidental,30.1,Province,Region X,%
+276,Poverty Incidence among Families (%),2006,Misamis Oriental,26.5,Province,Region X,%
+277,Poverty Incidence among Families (%),2009,Misamis Oriental,25.0,Province,Region X,%
+278,Poverty Incidence among Families (%),2012,Misamis Oriental,19.1,Province,Region X,%
+279,Poverty Incidence among Families (%),2015,Misamis Oriental,14.9,Province,Region X,%
+281,Poverty Incidence among Families (%),2006,Mt. Province,38.5,Province,CAR,%
+282,Poverty Incidence among Families (%),2009,Mt. Province,39.3,Province,CAR,%
+283,Poverty Incidence among Families (%),2012,Mt. Province,27.9,Province,CAR,%
+284,Poverty Incidence among Families (%),2015,Mt. Province,29.5,Province,CAR,%
+285,Poverty Incidence among Families (%),1991,NCR,5.3,Region,NCR,%
+286,Poverty Incidence among Families (%),2006,NCR,2.9,Region,NCR,%
+287,Poverty Incidence among Families (%),2009,NCR,2.4,Region,NCR,%
+288,Poverty Incidence among Families (%),2012,NCR,2.6,Region,NCR,%
+289,Poverty Incidence among Families (%),2015,NCR,2.7,Region,NCR,%
+291,Poverty Incidence among Families (%),2006,Negros Occidental,21.6,Province,Region VI,%
+292,Poverty Incidence among Families (%),2009,Negros Occidental,22.9,Province,Region VI,%
+293,Poverty Incidence among Families (%),2012,Negros Occidental,24.9,Province,Region VI,%
+294,Poverty Incidence among Families (%),2015,Negros Occidental,21.9,Province,Region VI,%
+296,Poverty Incidence among Families (%),2006,Negros Oriental,38.2,Province,Region VII,%
+297,Poverty Incidence among Families (%),2009,Negros Oriental,28.0,Province,Region VII,%
+298,Poverty Incidence among Families (%),2012,Negros Oriental,43.9,Province,Region VII,%
+299,Poverty Incidence among Families (%),2015,Negros Oriental,38.7,Province,Region VII,%
+301,Poverty Incidence among Families (%),2006,North Cotabato,25.6,Province,Region XII,%
+302,Poverty Incidence among Families (%),2009,North Cotabato,23.4,Province,Region XII,%
+303,Poverty Incidence among Families (%),2012,North Cotabato,44.8,Province,Region XII,%
+304,Poverty Incidence among Families (%),2015,North Cotabato,34.5,Province,Region XII,%
+306,Poverty Incidence among Families (%),2006,Northern Samar,44.6,Province,Region VIII,%
+307,Poverty Incidence among Families (%),2009,Northern Samar,42.8,Province,Region VIII,%
+308,Poverty Incidence among Families (%),2012,Northern Samar,43.5,Province,Region VIII,%
+309,Poverty Incidence among Families (%),2015,Northern Samar,47.9,Province,Region VIII,%
+311,Poverty Incidence among Families (%),2006,Nueva Ecija,21.6,Province,Region III,%
+312,Poverty Incidence among Families (%),2009,Nueva Ecija,24.9,Province,Region III,%
+313,Poverty Incidence among Families (%),2012,Nueva Ecija,19.6,Province,Region III,%
+314,Poverty Incidence among Families (%),2015,Nueva Ecija,18.6,Province,Region III,%
+316,Poverty Incidence among Families (%),2006,Nueva Vizcaya,11.0,Province,Region II,%
+317,Poverty Incidence among Families (%),2009,Nueva Vizcaya,10.0,Province,Region II,%
+318,Poverty Incidence among Families (%),2012,Nueva Vizcaya,15.1,Province,Region II,%
+319,Poverty Incidence among Families (%),2015,Nueva Vizcaya,9.1,Province,Region II,%
+321,Poverty Incidence among Families (%),2006,Occidental Mindoro,33.5,Province,Region IV-B,%
+322,Poverty Incidence among Families (%),2009,Occidental Mindoro,25.0,Province,Region IV-B,%
+323,Poverty Incidence among Families (%),2012,Occidental Mindoro,29.8,Province,Region IV-B,%
+324,Poverty Incidence among Families (%),2015,Occidental Mindoro,30.0,Province,Region IV-B,%
+326,Poverty Incidence among Families (%),2006,Oriental Mindoro,35.7,Province,Region IV-B,%
+327,Poverty Incidence among Families (%),2009,Oriental Mindoro,28.8,Province,Region IV-B,%
+328,Poverty Incidence among Families (%),2012,Oriental Mindoro,21.5,Province,Region IV-B,%
+329,Poverty Incidence among Families (%),2015,Oriental Mindoro,15.0,Province,Region IV-B,%
+336,Poverty Incidence among Families (%),2006,Palawan,28.2,Province,Region IV-B,%
+337,Poverty Incidence among Families (%),2009,Palawan,25.3,Province,Region IV-B,%
+338,Poverty Incidence among Families (%),2012,Palawan,20.5,Province,Region IV-B,%
+339,Poverty Incidence among Families (%),2015,Palawan,11.9,Province,Region IV-B,%
+341,Poverty Incidence among Families (%),2006,Pampanga,2.0,Province,Region III,%
+342,Poverty Incidence among Families (%),2009,Pampanga,4.9,Province,Region III,%
+343,Poverty Incidence among Families (%),2012,Pampanga,5.4,Province,Region III,%
+344,Poverty Incidence among Families (%),2015,Pampanga,3.0,Province,Region III,%
+346,Poverty Incidence among Families (%),2006,Pangasinan,21.8,Province,Region I,%
+347,Poverty Incidence among Families (%),2009,Pangasinan,17.2,Province,Region I,%
+348,Poverty Incidence among Families (%),2012,Pangasinan,14.9,Province,Region I,%
+349,Poverty Incidence among Families (%),2015,Pangasinan,11.2,Province,Region I,%
+351,Poverty Incidence among Families (%),2006,Quezon,24.7,Province,Region VI-A,%
+352,Poverty Incidence among Families (%),2009,Quezon,22.1,Province,Region VI-A,%
+353,Poverty Incidence among Families (%),2012,Quezon,20.3,Province,Region VI-A,%
+354,Poverty Incidence among Families (%),2015,Quezon,17.1,Province,Region VI-A,%
+356,Poverty Incidence among Families (%),2006,Quirino,9.7,Province,Region II,%
+357,Poverty Incidence among Families (%),2009,Quirino,11.1,Province,Region II,%
+358,Poverty Incidence among Families (%),2012,Quirino,15.5,Province,Region II,%
+359,Poverty Incidence among Families (%),2015,Quirino,18.7,Province,Region II,%
+360,Poverty Incidence among Families (%),1991,Region I,30.6,Region,Region I,%
+361,Poverty Incidence among Families (%),2006,Region I,19.9,Region,Region I,%
+362,Poverty Incidence among Families (%),2009,Region I,16.8,Region,Region I,%
+363,Poverty Incidence among Families (%),2012,Region I,14.0,Region,Region I,%
+364,Poverty Incidence among Families (%),2015,Region I,9.6,Region,Region I,%
+365,Poverty Incidence among Families (%),1991,Region II,37.3,Province,Region II,%
+366,Poverty Incidence among Families (%),2006,Region II,21.7,Province,Region II,%
+367,Poverty Incidence among Families (%),2009,Region II,20.2,Province,Region II,%
+368,Poverty Incidence among Families (%),2012,Region II,17.0,Province,Region II,%
+369,Poverty Incidence among Families (%),2015,Region II,11.7,Province,Region II,%
+370,Poverty Incidence among Families (%),1991,Region III,18.1,Region,Region III,%
+371,Poverty Incidence among Families (%),2006,Region III,10.3,Region,Region III,%
+372,Poverty Incidence among Families (%),2009,Region III,10.7,Region,Region III,%
+373,Poverty Incidence among Families (%),2012,Region III,10.1,Region,Region III,%
+374,Poverty Incidence among Families (%),2015,Region III,8.9,Region,Region III,%
+375,Poverty Incidence among Families (%),1991,Region IV-A,19.1,Region,Region VI-A,%
+376,Poverty Incidence among Families (%),2006,Region IV-A,7.8,Region,Region VI-A,%
+377,Poverty Incidence among Families (%),2009,Region IV-A,8.8,Region,Region VI-A,%
+378,Poverty Incidence among Families (%),2012,Region IV-A,8.3,Region,Region VI-A,%
+379,Poverty Incidence among Families (%),2015,Region IV-A,6.7,Region,Region VI-A,%
+380,Poverty Incidence among Families (%),1991,Region IV-B,36.6,Region,Region IV-B,%
+381,Poverty Incidence among Families (%),2006,Region IV-B,32.4,Region,Region IV-B,%
+382,Poverty Incidence among Families (%),2009,Region IV-B,27.2,Region,Region IV-B,%
+383,Poverty Incidence among Families (%),2012,Region IV-B,23.6,Region,Region IV-B,%
+384,Poverty Incidence among Families (%),2015,Region IV-B,17.4,Region,Region IV-B,%
+385,Poverty Incidence among Families (%),1991,Region IX,36.4,Region,Region IX,%
+386,Poverty Incidence among Families (%),2006,Region IX,40.0,Region,Region IX,%
+387,Poverty Incidence among Families (%),2009,Region IX,39.5,Region,Region IX,%
+388,Poverty Incidence among Families (%),2012,Region IX,33.7,Region,Region IX,%
+389,Poverty Incidence among Families (%),2015,Region IX,26.0,Region,Region IX,%
+390,Poverty Incidence among Families (%),1991,Region V,48.0,Region,Region V,%
+391,Poverty Incidence among Families (%),2006,Region V,35.4,Region,Region V,%
+392,Poverty Incidence among Families (%),2009,Region V,35.3,Region,Region V,%
+393,Poverty Incidence among Families (%),2012,Region V,32.3,Region,Region V,%
+394,Poverty Incidence among Families (%),2015,Region V,27.5,Region,Region V,%
+395,Poverty Incidence among Families (%),1991,Region VI,32.3,Region,Region VI,%
+396,Poverty Incidence among Families (%),2006,Region VI,22.7,Region,Region VI,%
+397,Poverty Incidence among Families (%),2009,Region VI,23.6,Region,Region VI,%
+398,Poverty Incidence among Families (%),2012,Region VI,22.8,Region,Region VI,%
+399,Poverty Incidence among Families (%),2015,Region VI,16.6,Region,Region VI,%
+400,Poverty Incidence among Families (%),1991,Region VII,38.2,Region,Region VII,%
+401,Poverty Incidence among Families (%),2006,Region VII,30.7,Region,Region VII,%
+402,Poverty Incidence among Families (%),2009,Region VII,26.0,Region,Region VII,%
+403,Poverty Incidence among Families (%),2012,Region VII,25.7,Region,Region VII,%
+404,Poverty Incidence among Families (%),2015,Region VII,23.6,Region,Region VII,%
+405,Poverty Incidence among Families (%),1991,Region VIII,42.3,Region,Region VIII,%
+406,Poverty Incidence among Families (%),2006,Region VIII,33.7,Region,Region VIII,%
+407,Poverty Incidence among Families (%),2009,Region VIII,34.5,Region,Region VIII,%
+408,Poverty Incidence among Families (%),2012,Region VIII,37.4,Region,Region VIII,%
+409,Poverty Incidence among Families (%),2015,Region VIII,30.7,Region,Region VIII,%
+410,Poverty Incidence among Families (%),1991,Region X,42.6,Region,Region X,%
+411,Poverty Incidence among Families (%),2006,Region X,32.1,Region,Region X,%
+412,Poverty Incidence among Families (%),2009,Region X,33.3,Region,Region X,%
+413,Poverty Incidence among Families (%),2012,Region X,32.8,Region,Region X,%
+414,Poverty Incidence among Families (%),2015,Region X,30.3,Region,Region X,%
+415,Poverty Incidence among Families (%),1991,Region XI,34.1,Region,Region XI,%
+416,Poverty Incidence among Families (%),2006,Region XI,25.4,Region,Region XI,%
+417,Poverty Incidence among Families (%),2009,Region XI,25.5,Region,Region XI,%
+418,Poverty Incidence among Families (%),2012,Region XI,25.0,Region,Region XI,%
+419,Poverty Incidence among Families (%),2015,Region XI,16.6,Region,Region XI,%
+420,Poverty Incidence among Families (%),1991,Region XII,47.4,Region,Region XII,%
+421,Poverty Incidence among Families (%),2006,Region XII,31.2,Region,Region XII,%
+422,Poverty Incidence among Families (%),2009,Region XII,30.8,Region,Region XII,%
+423,Poverty Incidence among Families (%),2012,Region XII,37.1,Region,Region XII,%
+424,Poverty Incidence among Families (%),2015,Region XII,30.5,Region,Region XII,%
+426,Poverty Incidence among Families (%),2006,Rizal,2.5,Province,Region VI-A,%
+427,Poverty Incidence among Families (%),2009,Rizal,5.8,Province,Region VI-A,%
+428,Poverty Incidence among Families (%),2012,Rizal,5.0,Province,Region VI-A,%
+429,Poverty Incidence among Families (%),2015,Rizal,3.6,Province,Region VI-A,%
+431,Poverty Incidence among Families (%),2006,Romblon,36.3,Province,Region IV-B,%
+432,Poverty Incidence among Families (%),2009,Romblon,32.6,Province,Region IV-B,%
+433,Poverty Incidence among Families (%),2012,Romblon,30.4,Province,Region IV-B,%
+434,Poverty Incidence among Families (%),2015,Romblon,28.1,Province,Region IV-B,%
+436,Poverty Incidence among Families (%),2006,Saranggani,41.7,Province,Region XII,%
+437,Poverty Incidence among Families (%),2009,Saranggani,47.5,Province,Region XII,%
+438,Poverty Incidence among Families (%),2012,Saranggani,46.0,Province,Region XII,%
+439,Poverty Incidence among Families (%),2015,Saranggani,47.3,Province,Region XII,%
+446,Poverty Incidence among Families (%),2006,Sorsogon,31.3,Province,Region V,%
+447,Poverty Incidence among Families (%),2009,Sorsogon,29.8,Province,Region V,%
+448,Poverty Incidence among Families (%),2012,Sorsogon,31.3,Province,Region V,%
+449,Poverty Incidence among Families (%),2015,Sorsogon,31.7,Province,Region V,%
+451,Poverty Incidence among Families (%),2006,South Cotabato,26.1,Province,Region XII,%
+452,Poverty Incidence among Families (%),2009,South Cotabato,25.7,Province,Region XII,%
+453,Poverty Incidence among Families (%),2012,South Cotabato,25.8,Province,Region XII,%
+454,Poverty Incidence among Families (%),2015,South Cotabato,19.8,Province,Region XII,%
+456,Poverty Incidence among Families (%),2006,Southern Leyte,25.3,Province,Region VIII,%
+457,Poverty Incidence among Families (%),2009,Southern Leyte,30.1,Province,Region VIII,%
+458,Poverty Incidence among Families (%),2012,Southern Leyte,34.0,Province,Region VIII,%
+459,Poverty Incidence among Families (%),2015,Southern Leyte,30.2,Province,Region VIII,%
+461,Poverty Incidence among Families (%),2006,Sultan Kudarat,44.3,Province,Region XII,%
+462,Poverty Incidence among Families (%),2009,Sultan Kudarat,41.6,Province,Region XII,%
+463,Poverty Incidence among Families (%),2012,Sultan Kudarat,40.4,Province,Region XII,%
+464,Poverty Incidence among Families (%),2015,Sultan Kudarat,39.2,Province,Region XII,%
+466,Poverty Incidence among Families (%),2006,Sulu,35.2,Province,ARMM,%
+467,Poverty Incidence among Families (%),2009,Sulu,35.5,Province,ARMM,%
+468,Poverty Incidence among Families (%),2012,Sulu,40.2,Province,ARMM,%
+469,Poverty Incidence among Families (%),2015,Sulu,49.6,Province,ARMM,%
+471,Poverty Incidence among Families (%),2006,Surigao Del Norte,43.7,Province,CARAGA,%
+472,Poverty Incidence among Families (%),2009,Surigao Del Norte,48.9,Province,CARAGA,%
+473,Poverty Incidence among Families (%),2012,Surigao Del Norte,33.8,Province,CARAGA,%
+474,Poverty Incidence among Families (%),2015,Surigao Del Norte,26.7,Province,CARAGA,%
+476,Poverty Incidence among Families (%),2006,Surigao Del Sur,38.0,Province,CARAGA,%
+477,Poverty Incidence among Families (%),2009,Surigao Del Sur,44.1,Province,CARAGA,%
+478,Poverty Incidence among Families (%),2012,Surigao Del Sur,28.3,Province,CARAGA,%
+479,Poverty Incidence among Families (%),2015,Surigao Del Sur,32.0,Province,CARAGA,%
+481,Poverty Incidence among Families (%),2006,Tarlac,14.1,Province,Region III,%
+482,Poverty Incidence among Families (%),2009,Tarlac,13.7,Province,Region III,%
+483,Poverty Incidence among Families (%),2012,Tarlac,13.5,Province,Region III,%
+484,Poverty Incidence among Families (%),2015,Tarlac,14.7,Province,Region III,%
+486,Poverty Incidence among Families (%),2006,Tawi-tawi,50.2,Province,ARMM,%
+487,Poverty Incidence among Families (%),2009,Tawi-tawi,29.4,Province,ARMM,%
+488,Poverty Incidence among Families (%),2012,Tawi-tawi,21.9,Province,ARMM,%
+489,Poverty Incidence among Families (%),2015,Tawi-tawi,10.6,Province,ARMM,%
+491,Poverty Incidence among Families (%),2006,Western Samar,32.3,Province,Region VIII,%
+492,Poverty Incidence among Families (%),2009,Western Samar,34.9,Province,Region VIII,%
+493,Poverty Incidence among Families (%),2012,Western Samar,43.5,Province,Region VIII,%
+494,Poverty Incidence among Families (%),2015,Western Samar,39.5,Province,Region VIII,%
+496,Poverty Incidence among Families (%),2006,Zambales,18.6,Province,Region III,%
+497,Poverty Incidence among Families (%),2009,Zambales,11.9,Province,Region III,%
+498,Poverty Incidence among Families (%),2012,Zambales,12.1,Province,Region III,%
+499,Poverty Incidence among Families (%),2015,Zambales,12.3,Province,Region III,%
+501,Poverty Incidence among Families (%),2006,Zamboanga Sibugay,44.6,Province,Region IX,%
+502,Poverty Incidence among Families (%),2009,Zamboanga Sibugay,46.0,Province,Region IX,%
+503,Poverty Incidence among Families (%),2012,Zamboanga Sibugay,37.0,Province,Region IX,%
+504,Poverty Incidence among Families (%),2015,Zamboanga Sibugay,24.1,Province,Region IX,%
+506,Poverty Incidence among Families (%),2006,Zamboanga del Norte,60.3,Province,Region IX,%
+507,Poverty Incidence among Families (%),2009,Zamboanga del Norte,60.3,Province,Region IX,%
+508,Poverty Incidence among Families (%),2012,Zamboanga del Norte,48.0,Province,Region IX,%
+509,Poverty Incidence among Families (%),2015,Zamboanga del Norte,41.1,Province,Region IX,%
+511,Poverty Incidence among Families (%),2006,Zamboanga del Sur,27.4,Province,Region IX,%
+512,Poverty Incidence among Families (%),2009,Zamboanga del Sur,26.9,Province,Region IX,%
+513,Poverty Incidence among Families (%),2012,Zamboanga del Sur,25.9,Province,Region IX,%
+514,Poverty Incidence among Families (%),2015,Zamboanga del Sur,18.6,Province,Region IX,%

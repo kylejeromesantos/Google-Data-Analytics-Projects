@@ -1,0 +1,516 @@
+﻿,Variable,Year,province,value,adm_level,region,unit
+30,Magnitude of Subsistence Poor Population,1991,1st District,,District,NCR,population
+31,Magnitude of Subsistence Poor Population,2006,1st District,"22,528",District,NCR,population
+32,Magnitude of Subsistence Poor Population,2009,1st District,0,District,NCR,population
+33,Magnitude of Subsistence Poor Population,2012,1st District,"8,902",District,NCR,population
+34,Magnitude of Subsistence Poor Population,2015,1st District,"24,855",District,NCR,population
+65,Magnitude of Subsistence Poor Population,1991,2nd District,,District,NCR,population
+66,Magnitude of Subsistence Poor Population,2006,2nd District,"13,020",District,NCR,population
+67,Magnitude of Subsistence Poor Population,2009,2nd District,"17,896",District,NCR,population
+68,Magnitude of Subsistence Poor Population,2012,2nd District,"16,828",District,NCR,population
+69,Magnitude of Subsistence Poor Population,2015,2nd District,"15,456",District,NCR,population
+100,Magnitude of Subsistence Poor Population,1991,3rd District,,District,NCR,population
+101,Magnitude of Subsistence Poor Population,2006,3rd District,"21,823",District,NCR,population
+102,Magnitude of Subsistence Poor Population,2009,3rd District,"30,476",District,NCR,population
+103,Magnitude of Subsistence Poor Population,2012,3rd District,"10,459",District,NCR,population
+104,Magnitude of Subsistence Poor Population,2015,3rd District,"19,967",District,NCR,population
+135,Magnitude of Subsistence Poor Population,1991,4th District,,District,NCR,population
+136,Magnitude of Subsistence Poor Population,2006,4th District,"34,761",District,NCR,population
+137,Magnitude of Subsistence Poor Population,2009,4th District,"7,262",District,NCR,population
+138,Magnitude of Subsistence Poor Population,2012,4th District,"22,004",District,NCR,population
+139,Magnitude of Subsistence Poor Population,2015,4th District,"22,469",District,NCR,population
+170,Magnitude of Subsistence Poor Population,1991,ARMM,"234,254",Region,ARMM,population
+171,Magnitude of Subsistence Poor Population,2006,ARMM,"529,242",Region,ARMM,population
+172,Magnitude of Subsistence Poor Population,2009,ARMM,"452,480",Region,ARMM,population
+173,Magnitude of Subsistence Poor Population,2012,ARMM,"832,481",Region,ARMM,population
+174,Magnitude of Subsistence Poor Population,2015,ARMM,"783,054",Region,ARMM,population
+205,Magnitude of Subsistence Poor Population,1991,Abra,,Province,CAR,population
+206,Magnitude of Subsistence Poor Population,2006,Abra,"55,266",Province,CAR,population
+207,Magnitude of Subsistence Poor Population,2009,Abra,"66,180",Province,CAR,population
+208,Magnitude of Subsistence Poor Population,2012,Abra,"30,475",Province,CAR,population
+209,Magnitude of Subsistence Poor Population,2015,Abra,"22,360",Province,CAR,population
+240,Magnitude of Subsistence Poor Population,1991,Agusan del Norte,,Province,CARAGA,population
+241,Magnitude of Subsistence Poor Population,2006,Agusan del Norte,"146,385",Province,CARAGA,population
+242,Magnitude of Subsistence Poor Population,2009,Agusan del Norte,"157,473",Province,CARAGA,population
+243,Magnitude of Subsistence Poor Population,2012,Agusan del Norte,"105,651",Province,CARAGA,population
+244,Magnitude of Subsistence Poor Population,2015,Agusan del Norte,"121,778",Province,CARAGA,population
+275,Magnitude of Subsistence Poor Population,1991,Agusan del Sur,,Province,CARAGA,population
+276,Magnitude of Subsistence Poor Population,2006,Agusan del Sur,"193,710",Province,CARAGA,population
+277,Magnitude of Subsistence Poor Population,2009,Agusan del Sur,"255,170",Province,CARAGA,population
+278,Magnitude of Subsistence Poor Population,2012,Agusan del Sur,"176,354",Province,CARAGA,population
+279,Magnitude of Subsistence Poor Population,2015,Agusan del Sur,"157,330",Province,CARAGA,population
+310,Magnitude of Subsistence Poor Population,1991,Aklan,,Province,Region VI,population
+311,Magnitude of Subsistence Poor Population,2006,Aklan,"93,866",Province,Region VI,population
+312,Magnitude of Subsistence Poor Population,2009,Aklan,"118,900",Province,Region VI,population
+313,Magnitude of Subsistence Poor Population,2012,Aklan,"29,177",Province,Region VI,population
+314,Magnitude of Subsistence Poor Population,2015,Aklan,"4,076",Province,Region VI,population
+345,Magnitude of Subsistence Poor Population,1991,Albay,,Province,Region V,population
+346,Magnitude of Subsistence Poor Population,2006,Albay,"166,543",Province,Region V,population
+347,Magnitude of Subsistence Poor Population,2009,Albay,"184,950",Province,Region V,population
+348,Magnitude of Subsistence Poor Population,2012,Albay,"245,109",Province,Region V,population
+349,Magnitude of Subsistence Poor Population,2015,Albay,"144,881",Province,Region V,population
+380,Magnitude of Subsistence Poor Population,1991,Antique,,Province,Region VI,population
+381,Magnitude of Subsistence Poor Population,2006,Antique,"121,019",Province,Region VI,population
+382,Magnitude of Subsistence Poor Population,2009,Antique,"92,799",Province,Region VI,population
+383,Magnitude of Subsistence Poor Population,2012,Antique,"67,455",Province,Region VI,population
+384,Magnitude of Subsistence Poor Population,2015,Antique,"35,678",Province,Region VI,population
+415,Magnitude of Subsistence Poor Population,1991,Apayao,,Province,CAR,population
+416,Magnitude of Subsistence Poor Population,2006,Apayao,"29,697",Province,CAR,population
+417,Magnitude of Subsistence Poor Population,2009,Apayao,"32,925",Province,CAR,population
+418,Magnitude of Subsistence Poor Population,2012,Apayao,"37,989",Province,CAR,population
+419,Magnitude of Subsistence Poor Population,2015,Apayao,"8,621",Province,CAR,population
+450,Magnitude of Subsistence Poor Population,1991,Aurora,,,,population
+451,Magnitude of Subsistence Poor Population,2006,Aurora,"27,606",,,population
+452,Magnitude of Subsistence Poor Population,2009,Aurora,"2,905",,,population
+453,Magnitude of Subsistence Poor Population,2012,Aurora,"22,785",,,population
+454,Magnitude of Subsistence Poor Population,2015,Aurora,"31,905",,,population
+485,Magnitude of Subsistence Poor Population,1991,Basilan,,Province,ARMM,population
+486,Magnitude of Subsistence Poor Population,2006,Basilan,"16,380",Province,ARMM,population
+487,Magnitude of Subsistence Poor Population,2009,Basilan,"7,735",Province,ARMM,population
+488,Magnitude of Subsistence Poor Population,2012,Basilan,"9,614",Province,ARMM,population
+489,Magnitude of Subsistence Poor Population,2015,Basilan,"14,539",Province,ARMM,population
+520,Magnitude of Subsistence Poor Population,1991,Bataan,,Province,Region III,population
+521,Magnitude of Subsistence Poor Population,2006,Bataan,"7,283",Province,Region III,population
+522,Magnitude of Subsistence Poor Population,2009,Bataan,0,Province,Region III,population
+523,Magnitude of Subsistence Poor Population,2012,Bataan,"18,027",Province,Region III,population
+524,Magnitude of Subsistence Poor Population,2015,Bataan,0,Province,Region III,population
+555,Magnitude of Subsistence Poor Population,1991,Batanes,,,,population
+556,Magnitude of Subsistence Poor Population,2006,Batanes,0,,,population
+557,Magnitude of Subsistence Poor Population,2009,Batanes,0,,,population
+558,Magnitude of Subsistence Poor Population,2012,Batanes,"3,619",,,population
+559,Magnitude of Subsistence Poor Population,2015,Batanes,0,,,population
+590,Magnitude of Subsistence Poor Population,1991,Batangas,,Province,Region VI-A,population
+591,Magnitude of Subsistence Poor Population,2006,Batangas,"112,755",Province,Region VI-A,population
+592,Magnitude of Subsistence Poor Population,2009,Batangas,"126,621",Province,Region VI-A,population
+593,Magnitude of Subsistence Poor Population,2012,Batangas,"175,738",Province,Region VI-A,population
+594,Magnitude of Subsistence Poor Population,2015,Batangas,"65,034",Province,Region VI-A,population
+625,Magnitude of Subsistence Poor Population,1991,Benguet,,Province,CAR,population
+626,Magnitude of Subsistence Poor Population,2006,Benguet,"9,637",Province,CAR,population
+627,Magnitude of Subsistence Poor Population,2009,Benguet,"13,696",Province,CAR,population
+628,Magnitude of Subsistence Poor Population,2012,Benguet,"4,812",Province,CAR,population
+629,Magnitude of Subsistence Poor Population,2015,Benguet,"3,437",Province,CAR,population
+660,Magnitude of Subsistence Poor Population,1991,Biliran,,Province,Region VIII,population
+661,Magnitude of Subsistence Poor Population,2006,Biliran,"18,797",Province,Region VIII,population
+662,Magnitude of Subsistence Poor Population,2009,Biliran,"24,212",Province,Region VIII,population
+663,Magnitude of Subsistence Poor Population,2012,Biliran,"13,768",Province,Region VIII,population
+664,Magnitude of Subsistence Poor Population,2015,Biliran,"17,084",Province,Region VIII,population
+695,Magnitude of Subsistence Poor Population,1991,Bohol,,Province,Region VII,population
+696,Magnitude of Subsistence Poor Population,2006,Bohol,"322,270",Province,Region VII,population
+697,Magnitude of Subsistence Poor Population,2009,Bohol,"253,078",Province,Region VII,population
+698,Magnitude of Subsistence Poor Population,2012,Bohol,"186,652",Province,Region VII,population
+699,Magnitude of Subsistence Poor Population,2015,Bohol,"110,296",Province,Region VII,population
+730,Magnitude of Subsistence Poor Population,1991,Bukidnon,,Province,Region X,population
+731,Magnitude of Subsistence Poor Population,2006,Bukidnon,"283,444",Province,Region X,population
+732,Magnitude of Subsistence Poor Population,2009,Bukidnon,"305,419",Province,Region X,population
+733,Magnitude of Subsistence Poor Population,2012,Bukidnon,"345,189",Province,Region X,population
+734,Magnitude of Subsistence Poor Population,2015,Bukidnon,"429,969",Province,Region X,population
+765,Magnitude of Subsistence Poor Population,1991,Bulacan,,Province,Region III,population
+766,Magnitude of Subsistence Poor Population,2006,Bulacan,"31,137",Province,Region III,population
+767,Magnitude of Subsistence Poor Population,2009,Bulacan,"23,726",Province,Region III,population
+768,Magnitude of Subsistence Poor Population,2012,Bulacan,"57,585",Province,Region III,population
+769,Magnitude of Subsistence Poor Population,2015,Bulacan,"38,950",Province,Region III,population
+800,Magnitude of Subsistence Poor Population,1991,CAR,"314,545",Region,CAR,population
+801,Magnitude of Subsistence Poor Population,2006,CAR,"205,548",Region,CAR,population
+802,Magnitude of Subsistence Poor Population,2009,CAR,"199,163",Region,CAR,population
+803,Magnitude of Subsistence Poor Population,2012,CAR,"163,097",Region,CAR,population
+804,Magnitude of Subsistence Poor Population,2015,CAR,"124,763",Region,CAR,population
+835,Magnitude of Subsistence Poor Population,1991,Cagayan,,Province,Region II,population
+836,Magnitude of Subsistence Poor Population,2006,Cagayan,"119,669",Province,Region II,population
+837,Magnitude of Subsistence Poor Population,2009,Cagayan,"106,900",Province,Region II,population
+838,Magnitude of Subsistence Poor Population,2012,Cagayan,"59,769",Province,Region II,population
+839,Magnitude of Subsistence Poor Population,2015,Cagayan,"38,880",Province,Region II,population
+870,Magnitude of Subsistence Poor Population,1991,Camarines Norte,,Province,Region V,population
+871,Magnitude of Subsistence Poor Population,2006,Camarines Norte,"102,263",Province,Region V,population
+872,Magnitude of Subsistence Poor Population,2009,Camarines Norte,"64,081",Province,Region V,population
+873,Magnitude of Subsistence Poor Population,2012,Camarines Norte,"55,176",Province,Region V,population
+874,Magnitude of Subsistence Poor Population,2015,Camarines Norte,"88,450",Province,Region V,population
+905,Magnitude of Subsistence Poor Population,1991,Camarines Sur,,Province,Region V,population
+906,Magnitude of Subsistence Poor Population,2006,Camarines Sur,"418,514",Province,Region V,population
+907,Magnitude of Subsistence Poor Population,2009,Camarines Sur,"365,353",Province,Region V,population
+908,Magnitude of Subsistence Poor Population,2012,Camarines Sur,"283,965",Province,Region V,population
+909,Magnitude of Subsistence Poor Population,2015,Camarines Sur,"168,733",Province,Region V,population
+940,Magnitude of Subsistence Poor Population,1991,Camiguin,,,,population
+941,Magnitude of Subsistence Poor Population,2006,Camiguin,"11,704",,,population
+942,Magnitude of Subsistence Poor Population,2009,Camiguin,"4,291",,,population
+943,Magnitude of Subsistence Poor Population,2012,Camiguin,"26,206",,,population
+944,Magnitude of Subsistence Poor Population,2015,Camiguin,"11,585",,,population
+975,Magnitude of Subsistence Poor Population,1991,Capiz,,Province,Region VI,population
+976,Magnitude of Subsistence Poor Population,2006,Capiz,"60,510",Province,Region VI,population
+977,Magnitude of Subsistence Poor Population,2009,Capiz,"90,739",Province,Region VI,population
+978,Magnitude of Subsistence Poor Population,2012,Capiz,"91,947",Province,Region VI,population
+979,Magnitude of Subsistence Poor Population,2015,Capiz,"23,911",Province,Region VI,population
+1010,Magnitude of Subsistence Poor Population,1991,Caraga,"593,582",Region,CARAGA,population
+1011,Magnitude of Subsistence Poor Population,2006,Caraga,"629,117",Region,CARAGA,population
+1012,Magnitude of Subsistence Poor Population,2009,Caraga,"731,148",Region,CARAGA,population
+1013,Magnitude of Subsistence Poor Population,2012,Caraga,"455,903",Region,CARAGA,population
+1014,Magnitude of Subsistence Poor Population,2015,Caraga,"456,930",Region,CARAGA,population
+1045,Magnitude of Subsistence Poor Population,1991,Catanduanes,,Province,Region V,population
+1046,Magnitude of Subsistence Poor Population,2006,Catanduanes,"42,402",Province,Region V,population
+1047,Magnitude of Subsistence Poor Population,2009,Catanduanes,"32,317",Province,Region V,population
+1048,Magnitude of Subsistence Poor Population,2012,Catanduanes,"62,337",Province,Region V,population
+1049,Magnitude of Subsistence Poor Population,2015,Catanduanes,"50,591",Province,Region V,population
+1080,Magnitude of Subsistence Poor Population,1991,Cavite,,Province,Region VI-A,population
+1081,Magnitude of Subsistence Poor Population,2006,Cavite,"7,762",Province,Region VI-A,population
+1082,Magnitude of Subsistence Poor Population,2009,Cavite,0,Province,Region VI-A,population
+1083,Magnitude of Subsistence Poor Population,2012,Cavite,"17,660",Province,Region VI-A,population
+1084,Magnitude of Subsistence Poor Population,2015,Cavite,"59,553",Province,Region VI-A,population
+1115,Magnitude of Subsistence Poor Population,1991,Cebu,,Province,Region VII,population
+1116,Magnitude of Subsistence Poor Population,2006,Cebu,"579,508",Province,Region VII,population
+1117,Magnitude of Subsistence Poor Population,2009,Cebu,"527,568",Province,Region VII,population
+1118,Magnitude of Subsistence Poor Population,2012,Cebu,"370,778",Province,Region VII,population
+1119,Magnitude of Subsistence Poor Population,2015,Cebu,"369,384",Province,Region VII,population
+1150,Magnitude of Subsistence Poor Population,1991,Compostela Valley,,Province,Region XI,population
+1151,Magnitude of Subsistence Poor Population,2006,Compostela Valley,"112,744",Province,Region XI,population
+1152,Magnitude of Subsistence Poor Population,2009,Compostela Valley,"91,320",Province,Region XI,population
+1153,Magnitude of Subsistence Poor Population,2012,Compostela Valley,"116,923",Province,Region XI,population
+1154,Magnitude of Subsistence Poor Population,2015,Compostela Valley,"46,728",Province,Region XI,population
+1185,Magnitude of Subsistence Poor Population,1991,"Cotabato City,",,,,population
+1186,Magnitude of Subsistence Poor Population,2006,"Cotabato City,","41,031",,,population
+1187,Magnitude of Subsistence Poor Population,2009,"Cotabato City,","28,738",,,population
+1188,Magnitude of Subsistence Poor Population,2012,"Cotabato City,","30,070",,,population
+1189,Magnitude of Subsistence Poor Population,2015,"Cotabato City,","19,900",,,population
+1220,Magnitude of Subsistence Poor Population,1991,Davao Oriental,,Province,Region XI,population
+1221,Magnitude of Subsistence Poor Population,2006,Davao Oriental,"117,911",Province,Region XI,population
+1222,Magnitude of Subsistence Poor Population,2009,Davao Oriental,"124,323",Province,Region XI,population
+1223,Magnitude of Subsistence Poor Population,2012,Davao Oriental,"123,065",Province,Region XI,population
+1224,Magnitude of Subsistence Poor Population,2015,Davao Oriental,"36,061",Province,Region XI,population
+1255,Magnitude of Subsistence Poor Population,1991,Davao del Norte,,Province,Region XI,population
+1256,Magnitude of Subsistence Poor Population,2006,Davao del Norte,"141,589",Province,Region XI,population
+1257,Magnitude of Subsistence Poor Population,2009,Davao del Norte,"140,483",Province,Region XI,population
+1258,Magnitude of Subsistence Poor Population,2012,Davao del Norte,"124,053",Province,Region XI,population
+1259,Magnitude of Subsistence Poor Population,2015,Davao del Norte,"113,736",Province,Region XI,population
+1290,Magnitude of Subsistence Poor Population,1991,Davao del Sur,,Province,Region XI,population
+1291,Magnitude of Subsistence Poor Population,2006,Davao del Sur,"273,479",Province,Region XI,population
+1292,Magnitude of Subsistence Poor Population,2009,Davao del Sur,"286,774",Province,Region XI,population
+1293,Magnitude of Subsistence Poor Population,2012,Davao del Sur,"238,206",Province,Region XI,population
+1294,Magnitude of Subsistence Poor Population,2015,Davao del Sur,"177,807",Province,Region XI,population
+1325,Magnitude of Subsistence Poor Population,1991,Eastern Samar,,Province,Region VIII,population
+1326,Magnitude of Subsistence Poor Population,2006,Eastern Samar,"134,811",Province,Region VIII,population
+1327,Magnitude of Subsistence Poor Population,2009,Eastern Samar,"144,702",Province,Region VIII,population
+1328,Magnitude of Subsistence Poor Population,2012,Eastern Samar,"167,151",Province,Region VIII,population
+1329,Magnitude of Subsistence Poor Population,2015,Eastern Samar,"120,427",Province,Region VIII,population
+1360,Magnitude of Subsistence Poor Population,1991,"Guimaras,",,,,population
+1361,Magnitude of Subsistence Poor Population,2006,"Guimaras,","4,370",,,population
+1362,Magnitude of Subsistence Poor Population,2009,"Guimaras,","15,134",,,population
+1363,Magnitude of Subsistence Poor Population,2012,"Guimaras,","17,416",,,population
+1364,Magnitude of Subsistence Poor Population,2015,"Guimaras,",0,,,population
+1395,Magnitude of Subsistence Poor Population,1991,Ifugao,,Province,CAR,population
+1396,Magnitude of Subsistence Poor Population,2006,Ifugao,"17,820",Province,CAR,population
+1397,Magnitude of Subsistence Poor Population,2009,Ifugao,"18,649",Province,CAR,population
+1398,Magnitude of Subsistence Poor Population,2012,Ifugao,"41,953",Province,CAR,population
+1399,Magnitude of Subsistence Poor Population,2015,Ifugao,"35,386",Province,CAR,population
+1430,Magnitude of Subsistence Poor Population,1991,Ilocos Norte,,Province,Region I,population
+1431,Magnitude of Subsistence Poor Population,2006,Ilocos Norte,"42,245",Province,Region I,population
+1432,Magnitude of Subsistence Poor Population,2009,Ilocos Norte,"22,908",Province,Region I,population
+1433,Magnitude of Subsistence Poor Population,2012,Ilocos Norte,"8,610",Province,Region I,population
+1434,Magnitude of Subsistence Poor Population,2015,Ilocos Norte,0,Province,Region I,population
+1465,Magnitude of Subsistence Poor Population,1991,Ilocos Sur,,Province,Region I,population
+1466,Magnitude of Subsistence Poor Population,2006,Ilocos Sur,"37,507",Province,Region I,population
+1467,Magnitude of Subsistence Poor Population,2009,Ilocos Sur,"25,297",Province,Region I,population
+1468,Magnitude of Subsistence Poor Population,2012,Ilocos Sur,"46,225",Province,Region I,population
+1469,Magnitude of Subsistence Poor Population,2015,Ilocos Sur,"14,406",Province,Region I,population
+1500,Magnitude of Subsistence Poor Population,1991,Iloilo,,Province,Region VI,population
+1501,Magnitude of Subsistence Poor Population,2006,Iloilo,"195,812",Province,Region VI,population
+1502,Magnitude of Subsistence Poor Population,2009,Iloilo,"183,411",Province,Region VI,population
+1503,Magnitude of Subsistence Poor Population,2012,Iloilo,"222,680",Province,Region VI,population
+1504,Magnitude of Subsistence Poor Population,2015,Iloilo,"213,579",Province,Region VI,population
+1535,Magnitude of Subsistence Poor Population,1991,Isabela,,Province,Region II,population
+1536,Magnitude of Subsistence Poor Population,2006,Isabela,"145,696",Province,Region II,population
+1537,Magnitude of Subsistence Poor Population,2009,Isabela,"138,980",Province,Region II,population
+1538,Magnitude of Subsistence Poor Population,2012,Isabela,"82,353",Province,Region II,population
+1539,Magnitude of Subsistence Poor Population,2015,Isabela,"27,989",Province,Region II,population
+1570,Magnitude of Subsistence Poor Population,1991,"Isabela City,",,,,population
+1571,Magnitude of Subsistence Poor Population,2006,"Isabela City,","24,173",,,population
+1572,Magnitude of Subsistence Poor Population,2009,"Isabela City,","2,143",,,population
+1573,Magnitude of Subsistence Poor Population,2012,"Isabela City,","4,597",,,population
+1574,Magnitude of Subsistence Poor Population,2015,"Isabela City,","7,129",,,population
+1605,Magnitude of Subsistence Poor Population,1991,Kalinga,,Province,CAR,population
+1606,Magnitude of Subsistence Poor Population,2006,Kalinga,"53,305",Province,CAR,population
+1607,Magnitude of Subsistence Poor Population,2009,Kalinga,"31,512",Province,CAR,population
+1608,Magnitude of Subsistence Poor Population,2012,Kalinga,"26,315",Province,CAR,population
+1609,Magnitude of Subsistence Poor Population,2015,Kalinga,"32,028",Province,CAR,population
+1640,Magnitude of Subsistence Poor Population,1991,La Union,,Province,Region I,population
+1641,Magnitude of Subsistence Poor Population,2006,La Union,"69,618",Province,Region I,population
+1642,Magnitude of Subsistence Poor Population,2009,La Union,"98,330",Province,Region I,population
+1643,Magnitude of Subsistence Poor Population,2012,La Union,"54,901",Province,Region I,population
+1644,Magnitude of Subsistence Poor Population,2015,La Union,"47,615",Province,Region I,population
+1675,Magnitude of Subsistence Poor Population,1991,Laguna,,Province,Region VI-A,population
+1676,Magnitude of Subsistence Poor Population,2006,Laguna,"42,944",Province,Region VI-A,population
+1677,Magnitude of Subsistence Poor Population,2009,Laguna,"28,341",Province,Region VI-A,population
+1678,Magnitude of Subsistence Poor Population,2012,Laguna,"49,892",Province,Region VI-A,population
+1679,Magnitude of Subsistence Poor Population,2015,Laguna,"33,391",Province,Region VI-A,population
+1710,Magnitude of Subsistence Poor Population,1991,Lanao del Norte,,Province,Region X,population
+1711,Magnitude of Subsistence Poor Population,2006,Lanao del Norte,"189,677",Province,Region X,population
+1712,Magnitude of Subsistence Poor Population,2009,Lanao del Norte,"221,351",Province,Region X,population
+1713,Magnitude of Subsistence Poor Population,2012,Lanao del Norte,"270,319",Province,Region X,population
+1714,Magnitude of Subsistence Poor Population,2015,Lanao del Norte,"226,388",Province,Region X,population
+1745,Magnitude of Subsistence Poor Population,1991,Lanao del Sur,,Province,ARMM,population
+1746,Magnitude of Subsistence Poor Population,2006,Lanao del Sur,"146,290",Province,ARMM,population
+1747,Magnitude of Subsistence Poor Population,2009,Lanao del Sur,"229,623",Province,ARMM,population
+1748,Magnitude of Subsistence Poor Population,2012,Lanao del Sur,"461,866",Province,ARMM,population
+1749,Magnitude of Subsistence Poor Population,2015,Lanao del Sur,"412,985",Province,ARMM,population
+1780,Magnitude of Subsistence Poor Population,1991,Leyte,,Province,Region VIII,population
+1781,Magnitude of Subsistence Poor Population,2006,Leyte,"313,428",Province,Region VIII,population
+1782,Magnitude of Subsistence Poor Population,2009,Leyte,"238,137",Province,Region VIII,population
+1783,Magnitude of Subsistence Poor Population,2012,Leyte,"260,414",Province,Region VIII,population
+1784,Magnitude of Subsistence Poor Population,2015,Leyte,"204,946",Province,Region VIII,population
+1815,Magnitude of Subsistence Poor Population,1991,Maguindanao,,Province,ARMM,population
+1816,Magnitude of Subsistence Poor Population,2006,Maguindanao,"205,934",Province,ARMM,population
+1817,Magnitude of Subsistence Poor Population,2009,Maguindanao,"156,521",Province,ARMM,population
+1818,Magnitude of Subsistence Poor Population,2012,Maguindanao,"231,634",Province,ARMM,population
+1819,Magnitude of Subsistence Poor Population,2015,Maguindanao,"277,716",Province,ARMM,population
+1850,Magnitude of Subsistence Poor Population,1991,Marinduque,,Province,Region IV-B,population
+1851,Magnitude of Subsistence Poor Population,2006,Marinduque,"28,172",Province,Region IV-B,population
+1852,Magnitude of Subsistence Poor Population,2009,Marinduque,"32,098",Province,Region IV-B,population
+1853,Magnitude of Subsistence Poor Population,2012,Marinduque,"19,386",Province,Region IV-B,population
+1854,Magnitude of Subsistence Poor Population,2015,Marinduque,"9,165",Province,Region IV-B,population
+1885,Magnitude of Subsistence Poor Population,1991,Masbate,,Province,Region V,population
+1886,Magnitude of Subsistence Poor Population,2006,Masbate,"232,129",Province,Region V,population
+1887,Magnitude of Subsistence Poor Population,2009,Masbate,"212,088",Province,Region V,population
+1888,Magnitude of Subsistence Poor Population,2012,Masbate,"176,911",Province,Region V,population
+1889,Magnitude of Subsistence Poor Population,2015,Masbate,"138,135",Province,Region V,population
+1920,Magnitude of Subsistence Poor Population,1991,Misamis Occidental,,Province,Region X,population
+1921,Magnitude of Subsistence Poor Population,2006,Misamis Occidental,"122,196",Province,Region X,population
+1922,Magnitude of Subsistence Poor Population,2009,Misamis Occidental,"137,493",Province,Region X,population
+1923,Magnitude of Subsistence Poor Population,2012,Misamis Occidental,"108,704",Province,Region X,population
+1924,Magnitude of Subsistence Poor Population,2015,Misamis Occidental,"61,399",Province,Region X,population
+1955,Magnitude of Subsistence Poor Population,1991,Misamis Oriental,,Province,Region X,population
+1956,Magnitude of Subsistence Poor Population,2006,Misamis Oriental,"254,834",Province,Region X,population
+1957,Magnitude of Subsistence Poor Population,2009,Misamis Oriental,"207,620",Province,Region X,population
+1958,Magnitude of Subsistence Poor Population,2012,Misamis Oriental,"168,193",Province,Region X,population
+1959,Magnitude of Subsistence Poor Population,2015,Misamis Oriental,"121,517",Province,Region X,population
+1990,Magnitude of Subsistence Poor Population,1991,Mt. Province,,Province,CAR,population
+1991,Magnitude of Subsistence Poor Population,2006,Mt. Province,"39,822",Province,CAR,population
+1992,Magnitude of Subsistence Poor Population,2009,Mt. Province,"36,201",Province,CAR,population
+1993,Magnitude of Subsistence Poor Population,2012,Mt. Province,"21,553",Province,CAR,population
+1994,Magnitude of Subsistence Poor Population,2015,Mt. Province,"22,932",Province,CAR,population
+2025,Magnitude of Subsistence Poor Population,1991,NCR,"135,543",Region,NCR,population
+2026,Magnitude of Subsistence Poor Population,2006,NCR,"92,132",Region,NCR,population
+2027,Magnitude of Subsistence Poor Population,2009,NCR,"55,634",Region,NCR,population
+2028,Magnitude of Subsistence Poor Population,2012,NCR,"58,193",Region,NCR,population
+2029,Magnitude of Subsistence Poor Population,2015,NCR,"82,747",Region,NCR,population
+2060,Magnitude of Subsistence Poor Population,1991,Negros Occidental,,Province,Region VI,population
+2061,Magnitude of Subsistence Poor Population,2006,Negros Occidental,"289,878",Province,Region VI,population
+2062,Magnitude of Subsistence Poor Population,2009,Negros Occidental,"260,376",Province,Region VI,population
+2063,Magnitude of Subsistence Poor Population,2012,Negros Occidental,"367,310",Province,Region VI,population
+2064,Magnitude of Subsistence Poor Population,2015,Negros Occidental,"281,940",Province,Region VI,population
+2095,Magnitude of Subsistence Poor Population,1991,Negros Oriental,,Province,Region VII,population
+2096,Magnitude of Subsistence Poor Population,2006,Negros Oriental,"273,902",Province,Region VII,population
+2097,Magnitude of Subsistence Poor Population,2009,Negros Oriental,"174,760",Province,Region VII,population
+2098,Magnitude of Subsistence Poor Population,2012,Negros Oriental,"375,009",Province,Region VII,population
+2099,Magnitude of Subsistence Poor Population,2015,Negros Oriental,"374,135",Province,Region VII,population
+2130,Magnitude of Subsistence Poor Population,1991,North Cotabato,,Province,Region XII,population
+2131,Magnitude of Subsistence Poor Population,2006,North Cotabato,"147,219",Province,Region XII,population
+2132,Magnitude of Subsistence Poor Population,2009,North Cotabato,"155,375",Province,Region XII,population
+2133,Magnitude of Subsistence Poor Population,2012,North Cotabato,"441,309",Province,Region XII,population
+2134,Magnitude of Subsistence Poor Population,2015,North Cotabato,"337,875",Province,Region XII,population
+2165,Magnitude of Subsistence Poor Population,1991,Northern Samar,,Province,Region VIII,population
+2166,Magnitude of Subsistence Poor Population,2006,Northern Samar,"192,862",Province,Region VIII,population
+2167,Magnitude of Subsistence Poor Population,2009,Northern Samar,"162,360",Province,Region VIII,population
+2168,Magnitude of Subsistence Poor Population,2012,Northern Samar,"146,222",Province,Region VIII,population
+2169,Magnitude of Subsistence Poor Population,2015,Northern Samar,"175,868",Province,Region VIII,population
+2200,Magnitude of Subsistence Poor Population,1991,Nueva Ecija,,Province,Region III,population
+2201,Magnitude of Subsistence Poor Population,2006,Nueva Ecija,"160,496",Province,Region III,population
+2202,Magnitude of Subsistence Poor Population,2009,Nueva Ecija,"236,448",Province,Region III,population
+2203,Magnitude of Subsistence Poor Population,2012,Nueva Ecija,"150,734",Province,Region III,population
+2204,Magnitude of Subsistence Poor Population,2015,Nueva Ecija,"142,217",Province,Region III,population
+2235,Magnitude of Subsistence Poor Population,1991,Nueva Vizcaya,,Province,Region II,population
+2236,Magnitude of Subsistence Poor Population,2006,Nueva Vizcaya,"19,612",Province,Region II,population
+2237,Magnitude of Subsistence Poor Population,2009,Nueva Vizcaya,"16,231",Province,Region II,population
+2238,Magnitude of Subsistence Poor Population,2012,Nueva Vizcaya,"41,711",Province,Region II,population
+2239,Magnitude of Subsistence Poor Population,2015,Nueva Vizcaya,"9,297",Province,Region II,population
+2270,Magnitude of Subsistence Poor Population,1991,Occidental Mindoro,,Province,Region IV-B,population
+2271,Magnitude of Subsistence Poor Population,2006,Occidental Mindoro,"98,055",Province,Region IV-B,population
+2272,Magnitude of Subsistence Poor Population,2009,Occidental Mindoro,"61,065",Province,Region IV-B,population
+2273,Magnitude of Subsistence Poor Population,2012,Occidental Mindoro,"95,953",Province,Region IV-B,population
+2274,Magnitude of Subsistence Poor Population,2015,Occidental Mindoro,"116,050",Province,Region IV-B,population
+2305,Magnitude of Subsistence Poor Population,1991,Oriental Mindoro,,Province,Region IV-B,population
+2306,Magnitude of Subsistence Poor Population,2006,Oriental Mindoro,"165,913",Province,Region IV-B,population
+2307,Magnitude of Subsistence Poor Population,2009,Oriental Mindoro,"109,601",Province,Region IV-B,population
+2308,Magnitude of Subsistence Poor Population,2012,Oriental Mindoro,"94,267",Province,Region IV-B,population
+2309,Magnitude of Subsistence Poor Population,2015,Oriental Mindoro,"81,963",Province,Region IV-B,population
+2340,Magnitude of Subsistence Poor Population,1991,PHILIPPINES,"11,101,428",Country,Philippines,population
+2341,Magnitude of Subsistence Poor Population,2006,PHILIPPINES,"10,233,304",Country,Philippines,population
+2342,Magnitude of Subsistence Poor Population,2009,PHILIPPINES,"9,703,209",Country,Philippines,population
+2343,Magnitude of Subsistence Poor Population,2012,PHILIPPINES,"9,811,086",Country,Philippines,population
+2344,Magnitude of Subsistence Poor Population,2015,PHILIPPINES,"8,225,722",Country,Philippines,population
+2375,Magnitude of Subsistence Poor Population,1991,Palawan,,Province,Region IV-B,population
+2376,Magnitude of Subsistence Poor Population,2006,Palawan,"133,586",Province,Region IV-B,population
+2377,Magnitude of Subsistence Poor Population,2009,Palawan,"131,035",Province,Region IV-B,population
+2378,Magnitude of Subsistence Poor Population,2012,Palawan,"103,732",Province,Region IV-B,population
+2379,Magnitude of Subsistence Poor Population,2015,Palawan,"36,737",Province,Region IV-B,population
+2410,Magnitude of Subsistence Poor Population,1991,Pampanga,,Province,Region III,population
+2411,Magnitude of Subsistence Poor Population,2006,Pampanga,"9,622",Province,Region III,population
+2412,Magnitude of Subsistence Poor Population,2009,Pampanga,"32,307",Province,Region III,population
+2413,Magnitude of Subsistence Poor Population,2012,Pampanga,"27,690",Province,Region III,population
+2414,Magnitude of Subsistence Poor Population,2015,Pampanga,"13,734",Province,Region III,population
+2445,Magnitude of Subsistence Poor Population,1991,Pangasinan,,Province,Region I,population
+2446,Magnitude of Subsistence Poor Population,2006,Pangasinan,"292,795",Province,Region I,population
+2447,Magnitude of Subsistence Poor Population,2009,Pangasinan,"210,399",Province,Region I,population
+2448,Magnitude of Subsistence Poor Population,2012,Pangasinan,"158,771",Province,Region I,population
+2449,Magnitude of Subsistence Poor Population,2015,Pangasinan,"110,074",Province,Region I,population
+2480,Magnitude of Subsistence Poor Population,1991,Quezon,,Province,Region VI-A,population
+2481,Magnitude of Subsistence Poor Population,2006,Quezon,"170,415",Province,Region VI-A,population
+2482,Magnitude of Subsistence Poor Population,2009,Quezon,"138,390",Province,Region VI-A,population
+2483,Magnitude of Subsistence Poor Population,2012,Quezon,"131,609",Province,Region VI-A,population
+2484,Magnitude of Subsistence Poor Population,2015,Quezon,"149,099",Province,Region VI-A,population
+2515,Magnitude of Subsistence Poor Population,1991,Quirino,,Province,Region II,population
+2516,Magnitude of Subsistence Poor Population,2006,Quirino,"7,062",Province,Region II,population
+2517,Magnitude of Subsistence Poor Population,2009,Quirino,"12,859",Province,Region II,population
+2518,Magnitude of Subsistence Poor Population,2012,Quirino,"2,306",Province,Region II,population
+2519,Magnitude of Subsistence Poor Population,2015,Quirino,"14,834",Province,Region II,population
+2550,Magnitude of Subsistence Poor Population,1991,Region I,"627,231",Region,Region I,population
+2551,Magnitude of Subsistence Poor Population,2006,Region I,"442,166",Region,Region I,population
+2552,Magnitude of Subsistence Poor Population,2009,Region I,"356,934",Region,Region I,population
+2553,Magnitude of Subsistence Poor Population,2012,Region I,"268,508",Region,Region I,population
+2554,Magnitude of Subsistence Poor Population,2015,Region I,"172,095",Region,Region I,population
+2585,Magnitude of Subsistence Poor Population,1991,Region II,"509,165",Province,Region II,population
+2586,Magnitude of Subsistence Poor Population,2006,Region II,"292,039",Province,Region II,population
+2587,Magnitude of Subsistence Poor Population,2009,Region II,"274,970",Province,Region II,population
+2588,Magnitude of Subsistence Poor Population,2012,Region II,"189,758",Province,Region II,population
+2589,Magnitude of Subsistence Poor Population,2015,Region II,"91,001",Province,Region II,population
+2620,Magnitude of Subsistence Poor Population,1991,Region III,"523,611",Region,Region III,population
+2621,Magnitude of Subsistence Poor Population,2006,Region III,"352,925",Region,Region III,population
+2622,Magnitude of Subsistence Poor Population,2009,Region III,"420,853",Region,Region III,population
+2623,Magnitude of Subsistence Poor Population,2012,Region III,"392,976",Region,Region III,population
+2624,Magnitude of Subsistence Poor Population,2015,Region III,"337,562",Region,Region III,population
+2655,Magnitude of Subsistence Poor Population,1991,Region IV-A,"459,980",Region,Region VI-A,population
+2656,Magnitude of Subsistence Poor Population,2006,Region IV-A,"362,560",Region,Region VI-A,population
+2657,Magnitude of Subsistence Poor Population,2009,Region IV-A,"343,604",Region,Region VI-A,population
+2658,Magnitude of Subsistence Poor Population,2012,Region IV-A,"417,528",Region,Region VI-A,population
+2659,Magnitude of Subsistence Poor Population,2015,Region IV-A,"330,699",Region,Region VI-A,population
+2690,Magnitude of Subsistence Poor Population,1991,Region IV-B,"445,752",Region,Region IV-B,population
+2691,Magnitude of Subsistence Poor Population,2006,Region IV-B,"479,297",Region,Region IV-B,population
+2692,Magnitude of Subsistence Poor Population,2009,Region IV-B,"372,600",Region,Region IV-B,population
+2693,Magnitude of Subsistence Poor Population,2012,Region IV-B,"349,338",Region,Region IV-B,population
+2694,Magnitude of Subsistence Poor Population,2015,Region IV-B,"274,684",Region,Region IV-B,population
+2725,Magnitude of Subsistence Poor Population,1991,Region IX,"493,741",Region,Region IX,population
+2726,Magnitude of Subsistence Poor Population,2006,Region IX,"831,494",Region,Region IX,population
+2727,Magnitude of Subsistence Poor Population,2009,Region IX,"872,323",Region,Region IX,population
+2728,Magnitude of Subsistence Poor Population,2012,Region IX,"670,255",Region,Region IX,population
+2729,Magnitude of Subsistence Poor Population,2015,Region IX,"498,897",Region,Region IX,population
+2760,Magnitude of Subsistence Poor Population,1991,Region V,"1,399,341",Region,Region V,population
+2761,Magnitude of Subsistence Poor Population,2006,Region V,"1,051,599",Region,Region V,population
+2762,Magnitude of Subsistence Poor Population,2009,Region V,"945,633",Region,Region V,population
+2763,Magnitude of Subsistence Poor Population,2012,Region V,"929,922",Region,Region V,population
+2764,Magnitude of Subsistence Poor Population,2015,Region V,"714,681",Region,Region V,population
+2795,Magnitude of Subsistence Poor Population,1991,Region VI,"1,105,586",Region,Region VI,population
+2796,Magnitude of Subsistence Poor Population,2006,Region VI,"765,455",Region,Region VI,population
+2797,Magnitude of Subsistence Poor Population,2009,Region VI,"761,360",Region,Region VI,population
+2798,Magnitude of Subsistence Poor Population,2012,Region VI,"795,985",Region,Region VI,population
+2799,Magnitude of Subsistence Poor Population,2015,Region VI,"559,183",Region,Region VI,population
+2830,Magnitude of Subsistence Poor Population,1991,Region VII,"1,150,331",Region,Region VII,population
+2831,Magnitude of Subsistence Poor Population,2006,Region VII,"1,191,152",Region,Region VII,population
+2832,Magnitude of Subsistence Poor Population,2009,Region VII,"960,201",Region,Region VII,population
+2833,Magnitude of Subsistence Poor Population,2012,Region VII,"943,523",Region,Region VII,population
+2834,Magnitude of Subsistence Poor Population,2015,Region VII,"884,177",Region,Region VII,population
+2865,Magnitude of Subsistence Poor Population,1991,Region VIII,"981,340",Region,Region VIII,population
+2866,Magnitude of Subsistence Poor Population,2006,Region VIII,"816,001",Region,Region VIII,population
+2867,Magnitude of Subsistence Poor Population,2009,Region VIII,"778,365",Region,Region VIII,population
+2868,Magnitude of Subsistence Poor Population,2012,Region VIII,"840,518",Region,Region VIII,population
+2869,Magnitude of Subsistence Poor Population,2015,Region VIII,"750,583",Region,Region VIII,population
+2900,Magnitude of Subsistence Poor Population,1991,Region X,"830,327",Region,Region X,population
+2901,Magnitude of Subsistence Poor Population,2006,Region X,"861,854",Region,Region X,population
+2902,Magnitude of Subsistence Poor Population,2009,Region X,"876,175",Region,Region X,population
+2903,Magnitude of Subsistence Poor Population,2012,Region X,"918,611",Region,Region X,population
+2904,Magnitude of Subsistence Poor Population,2015,Region X,"850,858",Region,Region X,population
+2935,Magnitude of Subsistence Poor Population,1991,Region XI,"576,150",Region,Region XI,population
+2936,Magnitude of Subsistence Poor Population,2006,Region XI,"645,724",Region,Region XI,population
+2937,Magnitude of Subsistence Poor Population,2009,Region XI,"642,900",Region,Region XI,population
+2938,Magnitude of Subsistence Poor Population,2012,Region XI,"602,248",Region,Region XI,population
+2939,Magnitude of Subsistence Poor Population,2015,Region XI,"374,332",Region,Region XI,population
+2970,Magnitude of Subsistence Poor Population,1991,Region XII,"720,950",Region,Region XII,population
+2971,Magnitude of Subsistence Poor Population,2006,Region XII,"685,000",Region,Region XII,population
+2972,Magnitude of Subsistence Poor Population,2009,Region XII,"658,868",Region,Region XII,population
+2973,Magnitude of Subsistence Poor Population,2012,Region XII,"982,244",Region,Region XII,population
+2974,Magnitude of Subsistence Poor Population,2015,Region XII,"939,476",Region,Region XII,population
+3005,Magnitude of Subsistence Poor Population,1991,Rizal,,Province,Region VI-A,population
+3006,Magnitude of Subsistence Poor Population,2006,Rizal,"28,685",Province,Region VI-A,population
+3007,Magnitude of Subsistence Poor Population,2009,Rizal,"50,252",Province,Region VI-A,population
+3008,Magnitude of Subsistence Poor Population,2012,Rizal,"42,629",Province,Region VI-A,population
+3009,Magnitude of Subsistence Poor Population,2015,Rizal,"23,621",Province,Region VI-A,population
+3040,Magnitude of Subsistence Poor Population,1991,Romblon,,Province,Region IV-B,population
+3041,Magnitude of Subsistence Poor Population,2006,Romblon,"53,572",Province,Region IV-B,population
+3042,Magnitude of Subsistence Poor Population,2009,Romblon,"38,801",Province,Region IV-B,population
+3043,Magnitude of Subsistence Poor Population,2012,Romblon,"36,000",Province,Region IV-B,population
+3044,Magnitude of Subsistence Poor Population,2015,Romblon,"30,768",Province,Region IV-B,population
+3075,Magnitude of Subsistence Poor Population,1991,Saranggani,,Province,Region XII,population
+3076,Magnitude of Subsistence Poor Population,2006,Saranggani,"131,865",Province,Region XII,population
+3077,Magnitude of Subsistence Poor Population,2009,Saranggani,"137,057",Province,Region XII,population
+3078,Magnitude of Subsistence Poor Population,2012,Saranggani,"143,276",Province,Region XII,population
+3079,Magnitude of Subsistence Poor Population,2015,Saranggani,"140,939",Province,Region XII,population
+3110,Magnitude of Subsistence Poor Population,1991,"Siquijor,",,,,population
+3111,Magnitude of Subsistence Poor Population,2006,"Siquijor,","15,473",,,population
+3112,Magnitude of Subsistence Poor Population,2009,"Siquijor,","4,795",,,population
+3113,Magnitude of Subsistence Poor Population,2012,"Siquijor,","11,084",,,population
+3114,Magnitude of Subsistence Poor Population,2015,"Siquijor,","30,363",,,population
+3145,Magnitude of Subsistence Poor Population,1991,Sorsogon,,Province,Region V,population
+3146,Magnitude of Subsistence Poor Population,2006,Sorsogon,"89,747",Province,Region V,population
+3147,Magnitude of Subsistence Poor Population,2009,Sorsogon,"86,843",Province,Region V,population
+3148,Magnitude of Subsistence Poor Population,2012,Sorsogon,"106,424",Province,Region V,population
+3149,Magnitude of Subsistence Poor Population,2015,Sorsogon,"123,892",Province,Region V,population
+3180,Magnitude of Subsistence Poor Population,1991,South Cotabato,,Province,Region XII,population
+3181,Magnitude of Subsistence Poor Population,2006,South Cotabato,"180,681",Province,Region XII,population
+3182,Magnitude of Subsistence Poor Population,2009,South Cotabato,"206,208",Province,Region XII,population
+3183,Magnitude of Subsistence Poor Population,2012,South Cotabato,"204,005",Province,Region XII,population
+3184,Magnitude of Subsistence Poor Population,2015,South Cotabato,"173,757",Province,Region XII,population
+3215,Magnitude of Subsistence Poor Population,1991,Southern Leyte,,Province,Region VIII,population
+3216,Magnitude of Subsistence Poor Population,2006,Southern Leyte,"38,616",Province,Region VIII,population
+3217,Magnitude of Subsistence Poor Population,2009,Southern Leyte,"58,109",Province,Region VIII,population
+3218,Magnitude of Subsistence Poor Population,2012,Southern Leyte,"90,846",Province,Region VIII,population
+3219,Magnitude of Subsistence Poor Population,2015,Southern Leyte,"75,397",Province,Region VIII,population
+3250,Magnitude of Subsistence Poor Population,1991,Sultan Kudarat,,Province,Region XII,population
+3251,Magnitude of Subsistence Poor Population,2006,Sultan Kudarat,"184,205",Province,Region XII,population
+3252,Magnitude of Subsistence Poor Population,2009,Sultan Kudarat,"131,490",Province,Region XII,population
+3253,Magnitude of Subsistence Poor Population,2012,Sultan Kudarat,"163,584",Province,Region XII,population
+3254,Magnitude of Subsistence Poor Population,2015,Sultan Kudarat,"267,005",Province,Region XII,population
+3285,Magnitude of Subsistence Poor Population,1991,Sulu,,Province,ARMM,population
+3286,Magnitude of Subsistence Poor Population,2006,Sulu,"64,233",Province,ARMM,population
+3287,Magnitude of Subsistence Poor Population,2009,Sulu,"34,184",Province,ARMM,population
+3288,Magnitude of Subsistence Poor Population,2012,Sulu,"96,523",Province,ARMM,population
+3289,Magnitude of Subsistence Poor Population,2015,Sulu,"77,813",Province,ARMM,population
+3320,Magnitude of Subsistence Poor Population,1991,Surigao Del Norte,,Province,CARAGA,population
+3321,Magnitude of Subsistence Poor Population,2006,Surigao Del Norte,"150,544",Province,CARAGA,population
+3322,Magnitude of Subsistence Poor Population,2009,Surigao Del Norte,"173,739",Province,CARAGA,population
+3323,Magnitude of Subsistence Poor Population,2012,Surigao Del Norte,"101,848",Province,CARAGA,population
+3324,Magnitude of Subsistence Poor Population,2015,Surigao Del Norte,"76,354",Province,CARAGA,population
+3355,Magnitude of Subsistence Poor Population,1991,Surigao Del Sur,,Province,CARAGA,population
+3356,Magnitude of Subsistence Poor Population,2006,Surigao Del Sur,"138,478",Province,CARAGA,population
+3357,Magnitude of Subsistence Poor Population,2009,Surigao Del Sur,"144,767",Province,CARAGA,population
+3358,Magnitude of Subsistence Poor Population,2012,Surigao Del Sur,"72,051",Province,CARAGA,population
+3359,Magnitude of Subsistence Poor Population,2015,Surigao Del Sur,"101,469",Province,CARAGA,population
+3390,Magnitude of Subsistence Poor Population,1991,Tarlac,,Province,Region III,population
+3391,Magnitude of Subsistence Poor Population,2006,Tarlac,"70,928",Province,Region III,population
+3392,Magnitude of Subsistence Poor Population,2009,Tarlac,"63,483",Province,Region III,population
+3393,Magnitude of Subsistence Poor Population,2012,Tarlac,"67,704",Province,Region III,population
+3394,Magnitude of Subsistence Poor Population,2015,Tarlac,"75,952",Province,Region III,population
+3425,Magnitude of Subsistence Poor Population,1991,Tawi-tawi,,Province,ARMM,population
+3426,Magnitude of Subsistence Poor Population,2006,Tawi-tawi,"96,405",Province,ARMM,population
+3427,Magnitude of Subsistence Poor Population,2009,Tawi-tawi,"24,417",Province,ARMM,population
+3428,Magnitude of Subsistence Poor Population,2012,Tawi-tawi,"32,844",Province,ARMM,population
+3429,Magnitude of Subsistence Poor Population,2015,Tawi-tawi,0,Province,ARMM,population
+3460,Magnitude of Subsistence Poor Population,1991,Western Samar,,Province,Region VIII,population
+3461,Magnitude of Subsistence Poor Population,2006,Western Samar,"117,486",Province,Region VIII,population
+3462,Magnitude of Subsistence Poor Population,2009,Western Samar,"150,845",Province,Region VIII,population
+3463,Magnitude of Subsistence Poor Population,2012,Western Samar,"162,116",Province,Region VIII,population
+3464,Magnitude of Subsistence Poor Population,2015,Western Samar,"156,862",Province,Region VIII,population
+3495,Magnitude of Subsistence Poor Population,1991,Zambales,,Province,Region III,population
+3496,Magnitude of Subsistence Poor Population,2006,Zambales,"45,853",Province,Region III,population
+3497,Magnitude of Subsistence Poor Population,2009,Zambales,"61,985",Province,Region III,population
+3498,Magnitude of Subsistence Poor Population,2012,Zambales,"48,452",Province,Region III,population
+3499,Magnitude of Subsistence Poor Population,2015,Zambales,"34,804",Province,Region III,population
+3530,Magnitude of Subsistence Poor Population,1991,Zamboanga Sibugay,,Province,Region IX,population
+3531,Magnitude of Subsistence Poor Population,2006,Zamboanga Sibugay,"105,428",Province,Region IX,population
+3532,Magnitude of Subsistence Poor Population,2009,Zamboanga Sibugay,"167,615",Province,Region IX,population
+3533,Magnitude of Subsistence Poor Population,2012,Zamboanga Sibugay,"127,810",Province,Region IX,population
+3534,Magnitude of Subsistence Poor Population,2015,Zamboanga Sibugay,"29,983",Province,Region IX,population
+3565,Magnitude of Subsistence Poor Population,1991,Zamboanga del Norte,,Province,Region IX,population
+3566,Magnitude of Subsistence Poor Population,2006,Zamboanga del Norte,"433,317",Province,Region IX,population
+3567,Magnitude of Subsistence Poor Population,2009,Zamboanga del Norte,"440,573",Province,Region IX,population
+3568,Magnitude of Subsistence Poor Population,2012,Zamboanga del Norte,"328,083",Province,Region IX,population
+3569,Magnitude of Subsistence Poor Population,2015,Zamboanga del Norte,"318,045",Province,Region IX,population
+3600,Magnitude of Subsistence Poor Population,1991,Zamboanga del Sur,,Province,Region IX,population
+3601,Magnitude of Subsistence Poor Population,2006,Zamboanga del Sur,"268,576",Province,Region IX,population
+3602,Magnitude of Subsistence Poor Population,2009,Zamboanga del Sur,"261,992",Province,Region IX,population
+3603,Magnitude of Subsistence Poor Population,2012,Zamboanga del Sur,"209,765",Province,Region IX,population
+3604,Magnitude of Subsistence Poor Population,2015,Zamboanga del Sur,"143,740",Province,Region IX,population

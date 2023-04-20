@@ -1,0 +1,516 @@
+﻿,Variable,Year,province,value,adm_level,region,unit
+20,Magnitude of Poor Population,1991,1st District,,District,NCR,population
+21,Magnitude of Poor Population,2006,1st District,"79,109",District,NCR,population
+22,Magnitude of Poor Population,2009,1st District,"84,914",District,NCR,population
+23,Magnitude of Poor Population,2012,1st District,"102,591",District,NCR,population
+24,Magnitude of Poor Population,2015,1st District,"82,007",District,NCR,population
+55,Magnitude of Poor Population,1991,2nd District,,District,NCR,population
+56,Magnitude of Poor Population,2006,2nd District,"183,449",District,NCR,population
+57,Magnitude of Poor Population,2009,2nd District,"131,502",District,NCR,population
+58,Magnitude of Poor Population,2012,2nd District,"104,495",District,NCR,population
+59,Magnitude of Poor Population,2015,2nd District,"137,392",District,NCR,population
+90,Magnitude of Poor Population,1991,3rd District,,District,NCR,population
+91,Magnitude of Poor Population,2006,3rd District,"113,009",District,NCR,population
+92,Magnitude of Poor Population,2009,3rd District,"113,585",District,NCR,population
+93,Magnitude of Poor Population,2012,3rd District,"100,451",District,NCR,population
+94,Magnitude of Poor Population,2015,3rd District,"115,990",District,NCR,population
+125,Magnitude of Poor Population,1991,4th District,,District,NCR,population
+126,Magnitude of Poor Population,2006,4th District,"124,306",District,NCR,population
+127,Magnitude of Poor Population,2009,4th District,"73,457",District,NCR,population
+128,Magnitude of Poor Population,2012,4th District,"153,295",District,NCR,population
+129,Magnitude of Poor Population,2015,4th District,"159,242",District,NCR,population
+160,Magnitude of Poor Population,1991,ARMM,"631,372",Region,ARMM,population
+161,Magnitude of Poor Population,2006,ARMM,"1,450,467",Region,ARMM,population
+162,Magnitude of Poor Population,2009,ARMM,"1,507,868",Region,ARMM,population
+163,Magnitude of Poor Population,2012,ARMM,"1,854,188",Region,ARMM,population
+164,Magnitude of Poor Population,2015,ARMM,"1,990,503",Region,ARMM,population
+195,Magnitude of Poor Population,1991,Abra,,Province,CAR,population
+196,Magnitude of Poor Population,2006,Abra,"105,370",Province,CAR,population
+197,Magnitude of Poor Population,2009,Abra,"107,945",Province,CAR,population
+198,Magnitude of Poor Population,2012,Abra,"84,347",Province,CAR,population
+199,Magnitude of Poor Population,2015,Abra,"76,930",Province,CAR,population
+230,Magnitude of Poor Population,1991,Agusan del Norte,,Province,CARAGA,population
+231,Magnitude of Poor Population,2006,Agusan del Norte,"273,427",Province,CARAGA,population
+232,Magnitude of Poor Population,2009,Agusan del Norte,"290,793",Province,CARAGA,population
+233,Magnitude of Poor Population,2012,Agusan del Norte,"230,721",Province,CARAGA,population
+234,Magnitude of Poor Population,2015,Agusan del Norte,"270,149",Province,CARAGA,population
+265,Magnitude of Poor Population,1991,Agusan del Sur,,Province,CARAGA,population
+266,Magnitude of Poor Population,2006,Agusan del Sur,"327,984",Province,CARAGA,population
+267,Magnitude of Poor Population,2009,Agusan del Sur,"398,421",Province,CARAGA,population
+268,Magnitude of Poor Population,2012,Agusan del Sur,"324,597",Province,CARAGA,population
+269,Magnitude of Poor Population,2015,Agusan del Sur,"318,638",Province,CARAGA,population
+300,Magnitude of Poor Population,1991,Aklan,,Province,Region VI,population
+301,Magnitude of Poor Population,2006,Aklan,"207,009",Province,Region VI,population
+302,Magnitude of Poor Population,2009,Aklan,"219,711",Province,Region VI,population
+303,Magnitude of Poor Population,2012,Aklan,"136,917",Province,Region VI,population
+304,Magnitude of Poor Population,2015,Aklan,"67,199",Province,Region VI,population
+335,Magnitude of Poor Population,1991,Albay,,Province,Region V,population
+336,Magnitude of Poor Population,2006,Albay,"434,478",Province,Region V,population
+337,Magnitude of Poor Population,2009,Albay,"433,673",Province,Region V,population
+338,Magnitude of Poor Population,2012,Albay,"511,636",Province,Region V,population
+339,Magnitude of Poor Population,2015,Albay,"340,305",Province,Region V,population
+370,Magnitude of Poor Population,1991,Antique,,Province,Region VI,population
+371,Magnitude of Poor Population,2006,Antique,"258,539",Province,Region VI,population
+372,Magnitude of Poor Population,2009,Antique,"205,288",Province,Region VI,population
+373,Magnitude of Poor Population,2012,Antique,"160,625",Province,Region VI,population
+374,Magnitude of Poor Population,2015,Antique,"126,943",Province,Region VI,population
+405,Magnitude of Poor Population,1991,Apayao,,Province,CAR,population
+406,Magnitude of Poor Population,2006,Apayao,"50,259",Province,CAR,population
+407,Magnitude of Poor Population,2009,Apayao,"51,298",Province,CAR,population
+408,Magnitude of Poor Population,2012,Apayao,"68,970",Province,CAR,population
+409,Magnitude of Poor Population,2015,Apayao,"36,004",Province,CAR,population
+440,Magnitude of Poor Population,1991,Aurora,,,,population
+441,Magnitude of Poor Population,2006,Aurora,"53,282",,,population
+442,Magnitude of Poor Population,2009,Aurora,"31,279",,,population
+443,Magnitude of Poor Population,2012,Aurora,"60,075",,,population
+444,Magnitude of Poor Population,2015,Aurora,"57,619",,,population
+475,Magnitude of Poor Population,1991,Basilan,,Province,ARMM,population
+476,Magnitude of Poor Population,2006,Basilan,"108,642",Province,ARMM,population
+477,Magnitude of Poor Population,2009,Basilan,"94,660",Province,ARMM,population
+478,Magnitude of Poor Population,2012,Basilan,"110,711",Province,ARMM,population
+479,Magnitude of Poor Population,2015,Basilan,"75,019",Province,ARMM,population
+510,Magnitude of Poor Population,1991,Bataan,,Province,Region III,population
+511,Magnitude of Poor Population,2006,Bataan,"57,937",Province,Region III,population
+512,Magnitude of Poor Population,2009,Bataan,"51,033",Province,Region III,population
+513,Magnitude of Poor Population,2012,Bataan,"46,555",Province,Region III,population
+514,Magnitude of Poor Population,2015,Bataan,"14,793",Province,Region III,population
+545,Magnitude of Poor Population,1991,Batanes,,,,population
+546,Magnitude of Poor Population,2006,Batanes,"3,575",,,population
+547,Magnitude of Poor Population,2009,Batanes,"3,092",,,population
+548,Magnitude of Poor Population,2012,Batanes,"4,380",,,population
+549,Magnitude of Poor Population,2015,Batanes,  -   ,,,population
+580,Magnitude of Poor Population,1991,Batangas,,Province,Region VI-A,population
+581,Magnitude of Poor Population,2006,Batangas,"301,261",Province,Region VI-A,population
+582,Magnitude of Poor Population,2009,Batangas,"374,373",Province,Region VI-A,population
+583,Magnitude of Poor Population,2012,Batangas,"452,808",Province,Region VI-A,population
+584,Magnitude of Poor Population,2015,Batangas,"254,132",Province,Region VI-A,population
+615,Magnitude of Poor Population,1991,Benguet,,Province,CAR,population
+616,Magnitude of Poor Population,2006,Benguet,"40,123",Province,CAR,population
+617,Magnitude of Poor Population,2009,Benguet,"43,778",Province,CAR,population
+618,Magnitude of Poor Population,2012,Benguet,"27,789",Province,CAR,population
+619,Magnitude of Poor Population,2015,Benguet,"28,418",Province,CAR,population
+650,Magnitude of Poor Population,1991,Biliran,,Province,Region VIII,population
+651,Magnitude of Poor Population,2006,Biliran,"46,289",Province,Region VIII,population
+652,Magnitude of Poor Population,2009,Biliran,"70,076",Province,Region VIII,population
+653,Magnitude of Poor Population,2012,Biliran,"45,762",Province,Region VIII,population
+654,Magnitude of Poor Population,2015,Biliran,"45,007",Province,Region VIII,population
+685,Magnitude of Poor Population,1991,Bohol,,Province,Region VII,population
+686,Magnitude of Poor Population,2006,Bohol,"544,187",Province,Region VII,population
+687,Magnitude of Poor Population,2009,Bohol,"512,094",Province,Region VII,population
+688,Magnitude of Poor Population,2012,Bohol,"429,000",Province,Region VII,population
+689,Magnitude of Poor Population,2015,Bohol,"298,196",Province,Region VII,population
+720,Magnitude of Poor Population,1991,Bukidnon,,Province,Region X,population
+721,Magnitude of Poor Population,2006,Bukidnon,"531,119",Province,Region X,population
+722,Magnitude of Poor Population,2009,Bukidnon,"579,992",Province,Region X,population
+723,Magnitude of Poor Population,2012,Bukidnon,"664,158",Province,Region X,population
+724,Magnitude of Poor Population,2015,Bukidnon,"732,027",Province,Region X,population
+755,Magnitude of Poor Population,1991,Bulacan,,Province,Region III,population
+756,Magnitude of Poor Population,2006,Bulacan,"192,861",Province,Region III,population
+757,Magnitude of Poor Population,2009,Bulacan,"193,819",Province,Region III,population
+758,Magnitude of Poor Population,2012,Bulacan,"227,670",Province,Region III,population
+759,Magnitude of Poor Population,2015,Bulacan,"151,491",Province,Region III,population
+790,Magnitude of Poor Population,1991,CAR,"527,373",Region,CAR,population
+791,Magnitude of Poor Population,2006,CAR,"392,117",Region,CAR,population
+792,Magnitude of Poor Population,2009,CAR,"390,066",Region,CAR,population
+793,Magnitude of Poor Population,2012,CAR,"373,740",Region,CAR,population
+794,Magnitude of Poor Population,2015,CAR,"351,590",Region,CAR,population
+825,Magnitude of Poor Population,1991,Cagayan,,Province,Region II,population
+826,Magnitude of Poor Population,2006,Cagayan,"314,233",Province,Region II,population
+827,Magnitude of Poor Population,2009,Cagayan,"295,591",Province,Region II,population
+828,Magnitude of Poor Population,2012,Cagayan,"219,078",Province,Region II,population
+829,Magnitude of Poor Population,2015,Cagayan,"189,581",Province,Region II,population
+860,Magnitude of Poor Population,1991,Camarines Norte,,Province,Region V,population
+861,Magnitude of Poor Population,2006,Camarines Norte,"217,410",Province,Region V,population
+862,Magnitude of Poor Population,2009,Camarines Norte,"227,105",Province,Region V,population
+863,Magnitude of Poor Population,2012,Camarines Norte,"160,390",Province,Region V,population
+864,Magnitude of Poor Population,2015,Camarines Norte,"237,712",Province,Region V,population
+895,Magnitude of Poor Population,1991,Camarines Sur,,Province,Region V,population
+896,Magnitude of Poor Population,2006,Camarines Sur,"815,084",Province,Region V,population
+897,Magnitude of Poor Population,2009,Camarines Sur,"855,074",Province,Region V,population
+898,Magnitude of Poor Population,2012,Camarines Sur,"771,984",Province,Region V,population
+899,Magnitude of Poor Population,2015,Camarines Sur,"665,165",Province,Region V,population
+930,Magnitude of Poor Population,1991,Camiguin,,,,population
+931,Magnitude of Poor Population,2006,Camiguin,"28,073",,,population
+932,Magnitude of Poor Population,2009,Camiguin,"21,183",,,population
+933,Magnitude of Poor Population,2012,Camiguin,"48,774",,,population
+934,Magnitude of Poor Population,2015,Camiguin,"36,182",,,population
+965,Magnitude of Poor Population,1991,Capiz,,Province,Region VI,population
+966,Magnitude of Poor Population,2006,Capiz,"208,858",Province,Region VI,population
+967,Magnitude of Poor Population,2009,Capiz,"201,099",Province,Region VI,population
+968,Magnitude of Poor Population,2012,Capiz,"208,208",Province,Region VI,population
+969,Magnitude of Poor Population,2015,Capiz,"118,678",Province,Region VI,population
+1000,Magnitude of Poor Population,1991,Caraga,"972,186",Region,CARAGA,population
+1001,Magnitude of Poor Population,2006,Caraga,"1,132,669",Region,CARAGA,population
+1002,Magnitude of Poor Population,2009,Caraga,"1,291,683",Region,CARAGA,population
+1003,Magnitude of Poor Population,2012,Caraga,"1,001,923",Region,CARAGA,population
+1004,Magnitude of Poor Population,2015,Caraga,"1,062,312",Region,CARAGA,population
+1035,Magnitude of Poor Population,1991,Catanduanes,,Province,Region V,population
+1036,Magnitude of Poor Population,2006,Catanduanes,"91,033",Province,Region V,population
+1037,Magnitude of Poor Population,2009,Catanduanes,"65,268",Province,Region V,population
+1038,Magnitude of Poor Population,2012,Catanduanes,"86,574",Province,Region V,population
+1039,Magnitude of Poor Population,2015,Catanduanes,"129,486",Province,Region V,population
+1070,Magnitude of Poor Population,1991,Cavite,,Province,Region VI-A,population
+1071,Magnitude of Poor Population,2006,Cavite,"49,511",Province,Region VI-A,population
+1072,Magnitude of Poor Population,2009,Cavite,"93,697",Province,Region VI-A,population
+1073,Magnitude of Poor Population,2012,Cavite,"113,359",Province,Region VI-A,population
+1074,Magnitude of Poor Population,2015,Cavite,"233,844",Province,Region VI-A,population
+1105,Magnitude of Poor Population,1991,Cebu,,Province,Region VII,population
+1106,Magnitude of Poor Population,2006,Cebu,"1,184,478",Province,Region VII,population
+1107,Magnitude of Poor Population,2009,Cebu,"1,108,152",Province,Region VII,population
+1108,Magnitude of Poor Population,2012,Cebu,"1,000,163",Province,Region VII,population
+1109,Magnitude of Poor Population,2015,Cebu,"986,557",Province,Region VII,population
+1140,Magnitude of Poor Population,1991,Compostela Valley,,Province,Region XI,population
+1141,Magnitude of Poor Population,2006,Compostela Valley,"239,480",Province,Region XI,population
+1142,Magnitude of Poor Population,2009,Compostela Valley,"239,800",Province,Region XI,population
+1143,Magnitude of Poor Population,2012,Compostela Valley,"259,485",Province,Region XI,population
+1144,Magnitude of Poor Population,2015,Compostela Valley,"178,922",Province,Region XI,population
+1175,Magnitude of Poor Population,1991,"Cotabato City,",,,,population
+1176,Magnitude of Poor Population,2006,"Cotabato City,","77,779",,,population
+1177,Magnitude of Poor Population,2009,"Cotabato City,","94,347",,,population
+1178,Magnitude of Poor Population,2012,"Cotabato City,","130,477",,,population
+1179,Magnitude of Poor Population,2015,"Cotabato City,","62,325",,,population
+1210,Magnitude of Poor Population,1991,Davao Oriental,,Province,Region XI,population
+1211,Magnitude of Poor Population,2006,Davao Oriental,"243,821",Province,Region XI,population
+1212,Magnitude of Poor Population,2009,Davao Oriental,"262,029",Province,Region XI,population
+1213,Magnitude of Poor Population,2012,Davao Oriental,"246,026",Province,Region XI,population
+1214,Magnitude of Poor Population,2015,Davao Oriental,"163,594",Province,Region XI,population
+1245,Magnitude of Poor Population,1991,Davao del Norte,,Province,Region XI,population
+1246,Magnitude of Poor Population,2006,Davao del Norte,"271,315",Province,Region XI,population
+1247,Magnitude of Poor Population,2009,Davao del Norte,"285,271",Province,Region XI,population
+1248,Magnitude of Poor Population,2012,Davao del Norte,"328,442",Province,Region XI,population
+1249,Magnitude of Poor Population,2015,Davao del Norte,"299,673",Province,Region XI,population
+1280,Magnitude of Poor Population,1991,Davao del Sur,,Province,Region XI,population
+1281,Magnitude of Poor Population,2006,Davao del Sur,"514,676",Province,Region XI,population
+1282,Magnitude of Poor Population,2009,Davao del Sur,"569,381",Province,Region XI,population
+1283,Magnitude of Poor Population,2012,Davao del Sur,"577,111",Province,Region XI,population
+1284,Magnitude of Poor Population,2015,Davao del Sur,"450,012",Province,Region XI,population
+1315,Magnitude of Poor Population,1991,Eastern Samar,,Province,Region VIII,population
+1316,Magnitude of Poor Population,2006,Eastern Samar,"223,131",Province,Region VIII,population
+1317,Magnitude of Poor Population,2009,Eastern Samar,"236,588",Province,Region VIII,population
+1318,Magnitude of Poor Population,2012,Eastern Samar,"279,607",Province,Region VIII,population
+1319,Magnitude of Poor Population,2015,Eastern Samar,"226,309",Province,Region VIII,population
+1350,Magnitude of Poor Population,1991,"Guimaras,",,,,population
+1351,Magnitude of Poor Population,2006,"Guimaras,","38,435",,,population
+1352,Magnitude of Poor Population,2009,"Guimaras,","37,036",,,population
+1353,Magnitude of Poor Population,2012,"Guimaras,","40,090",,,population
+1354,Magnitude of Poor Population,2015,"Guimaras,","8,435",,,population
+1385,Magnitude of Poor Population,1991,Ifugao,,Province,CAR,population
+1386,Magnitude of Poor Population,2006,Ifugao,"47,642",Province,CAR,population
+1387,Magnitude of Poor Population,2009,Ifugao,"56,194",Province,CAR,population
+1388,Magnitude of Poor Population,2012,Ifugao,"79,680",Province,CAR,population
+1389,Magnitude of Poor Population,2015,Ifugao,"68,321",Province,CAR,population
+1420,Magnitude of Poor Population,1991,Ilocos Norte,,Province,Region I,population
+1421,Magnitude of Poor Population,2006,Ilocos Norte,"94,405",Province,Region I,population
+1422,Magnitude of Poor Population,2009,Ilocos Norte,"79,794",Province,Region I,population
+1423,Magnitude of Poor Population,2012,Ilocos Norte,"55,010",Province,Region I,population
+1424,Magnitude of Poor Population,2015,Ilocos Norte,"32,822",Province,Region I,population
+1455,Magnitude of Poor Population,1991,Ilocos Sur,,Province,Region I,population
+1456,Magnitude of Poor Population,2006,Ilocos Sur,"120,162",Province,Region I,population
+1457,Magnitude of Poor Population,2009,Ilocos Sur,"107,066",Province,Region I,population
+1458,Magnitude of Poor Population,2012,Ilocos Sur,"105,196",Province,Region I,population
+1459,Magnitude of Poor Population,2015,Ilocos Sur,"86,612",Province,Region I,population
+1490,Magnitude of Poor Population,1991,Iloilo,,Province,Region VI,population
+1491,Magnitude of Poor Population,2006,Iloilo,"453,617",Province,Region VI,population
+1492,Magnitude of Poor Population,2009,Iloilo,"563,572",Province,Region VI,population
+1493,Magnitude of Poor Population,2012,Iloilo,"580,937",Province,Region VI,population
+1494,Magnitude of Poor Population,2015,Iloilo,"540,001",Province,Region VI,population
+1525,Magnitude of Poor Population,1991,Isabela,,Province,Region II,population
+1526,Magnitude of Poor Population,2006,Isabela,"413,905",Province,Region II,population
+1527,Magnitude of Poor Population,2009,Isabela,"407,960",Province,Region II,population
+1528,Magnitude of Poor Population,2012,Isabela,"365,024",Province,Region II,population
+1529,Magnitude of Poor Population,2015,Isabela,"259,183",Province,Region II,population
+1560,Magnitude of Poor Population,1991,"Isabela City,",,,,population
+1561,Magnitude of Poor Population,2006,"Isabela City,","35,302",,,population
+1562,Magnitude of Poor Population,2009,"Isabela City,","25,950",,,population
+1563,Magnitude of Poor Population,2012,"Isabela City,","21,518",,,population
+1564,Magnitude of Poor Population,2015,"Isabela City,","45,211",,,population
+1595,Magnitude of Poor Population,1991,Kalinga,,Province,CAR,population
+1596,Magnitude of Poor Population,2006,Kalinga,"85,794",Province,CAR,population
+1597,Magnitude of Poor Population,2009,Kalinga,"56,660",Province,CAR,population
+1598,Magnitude of Poor Population,2012,Kalinga,"53,768",Province,CAR,population
+1599,Magnitude of Poor Population,2015,Kalinga,"78,585",Province,CAR,population
+1630,Magnitude of Poor Population,1991,La Union,,Province,Region I,population
+1631,Magnitude of Poor Population,2006,La Union,"183,042",Province,Region I,population
+1632,Magnitude of Poor Population,2009,La Union,"217,782",Province,Region I,population
+1633,Magnitude of Poor Population,2012,La Union,"134,234",Province,Region I,population
+1634,Magnitude of Poor Population,2015,La Union,"111,952",Province,Region I,population
+1665,Magnitude of Poor Population,1991,Laguna,,Province,Region VI-A,population
+1666,Magnitude of Poor Population,2006,Laguna,"135,048",Province,Region VI-A,population
+1667,Magnitude of Poor Population,2009,Laguna,"217,883",Province,Region VI-A,population
+1668,Magnitude of Poor Population,2012,Laguna,"183,129",Province,Region VI-A,population
+1669,Magnitude of Poor Population,2015,Laguna,"181,507",Province,Region VI-A,population
+1700,Magnitude of Poor Population,1991,Lanao del Norte,,Province,Region X,population
+1701,Magnitude of Poor Population,2006,Lanao del Norte,"335,571",Province,Region X,population
+1702,Magnitude of Poor Population,2009,Lanao del Norte,"411,901",Province,Region X,population
+1703,Magnitude of Poor Population,2012,Lanao del Norte,"443,271",Province,Region X,population
+1704,Magnitude of Poor Population,2015,Lanao del Norte,"415,967",Province,Region X,population
+1735,Magnitude of Poor Population,1991,Lanao del Sur,,Province,ARMM,population
+1736,Magnitude of Poor Population,2006,Lanao del Sur,"367,996",Province,ARMM,population
+1737,Magnitude of Poor Population,2009,Lanao del Sur,"501,993",Province,ARMM,population
+1738,Magnitude of Poor Population,2012,Lanao del Sur,"687,138",Province,ARMM,population
+1739,Magnitude of Poor Population,2015,Lanao del Sur,"725,262",Province,ARMM,population
+1770,Magnitude of Poor Population,1991,Leyte,,Province,Region VIII,population
+1771,Magnitude of Poor Population,2006,Leyte,"671,771",Province,Region VIII,population
+1772,Magnitude of Poor Population,2009,Leyte,"628,371",Province,Region VIII,population
+1773,Magnitude of Poor Population,2012,Leyte,"713,063",Province,Region VIII,population
+1774,Magnitude of Poor Population,2015,Leyte,"652,690",Province,Region VIII,population
+1805,Magnitude of Poor Population,1991,Maguindanao,,Province,ARMM,population
+1806,Magnitude of Poor Population,2006,Maguindanao,"471,762",Province,ARMM,population
+1807,Magnitude of Poor Population,2009,Maguindanao,"460,209",Province,ARMM,population
+1808,Magnitude of Poor Population,2012,Maguindanao,"571,223",Province,ARMM,population
+1809,Magnitude of Poor Population,2015,Maguindanao,"551,681",Province,ARMM,population
+1840,Magnitude of Poor Population,1991,Marinduque,,Province,Region IV-B,population
+1841,Magnitude of Poor Population,2006,Marinduque,"89,747",Province,Region IV-B,population
+1842,Magnitude of Poor Population,2009,Marinduque,"74,517",Province,Region IV-B,population
+1843,Magnitude of Poor Population,2012,Marinduque,"73,738",Province,Region IV-B,population
+1844,Magnitude of Poor Population,2015,Marinduque,"52,450",Province,Region IV-B,population
+1875,Magnitude of Poor Population,1991,Masbate,,Province,Region V,population
+1876,Magnitude of Poor Population,2006,Masbate,"434,050",Province,Region V,population
+1877,Magnitude of Poor Population,2009,Masbate,"481,921",Province,Region V,population
+1878,Magnitude of Poor Population,2012,Masbate,"448,333",Province,Region V,population
+1879,Magnitude of Poor Population,2015,Masbate,"424,568",Province,Region V,population
+1910,Magnitude of Poor Population,1991,Misamis Occidental,,Province,Region X,population
+1911,Magnitude of Poor Population,2006,Misamis Occidental,"233,664",Province,Region X,population
+1912,Magnitude of Poor Population,2009,Misamis Occidental,"255,470",Province,Region X,population
+1913,Magnitude of Poor Population,2012,Misamis Occidental,"241,738",Province,Region X,population
+1914,Magnitude of Poor Population,2015,Misamis Occidental,"197,324",Province,Region X,population
+1945,Magnitude of Poor Population,1991,Misamis Oriental,,Province,Region X,population
+1946,Magnitude of Poor Population,2006,Misamis Oriental,"422,063",Province,Region X,population
+1947,Magnitude of Poor Population,2009,Misamis Oriental,"392,663",Province,Region X,population
+1948,Magnitude of Poor Population,2012,Misamis Oriental,"361,628",Province,Region X,population
+1949,Magnitude of Poor Population,2015,Misamis Oriental,"338,972",Province,Region X,population
+1980,Magnitude of Poor Population,1991,Mt. Province,,Province,CAR,population
+1981,Magnitude of Poor Population,2006,Mt. Province,"62,931",Province,CAR,population
+1982,Magnitude of Poor Population,2009,Mt. Province,"74,191",Province,CAR,population
+1983,Magnitude of Poor Population,2012,Mt. Province,"59,186",Province,CAR,population
+1984,Magnitude of Poor Population,2015,Mt. Province,"63,332",Province,CAR,population
+2015,Magnitude of Poor Population,1991,NCR,"626,484",Region,NCR,population
+2016,Magnitude of Poor Population,2006,NCR,"499,874",Region,NCR,population
+2017,Magnitude of Poor Population,2009,NCR,"403,458",Region,NCR,population
+2018,Magnitude of Poor Population,2012,NCR,"460,831",Region,NCR,population
+2019,Magnitude of Poor Population,2015,NCR,"494,630",Region,NCR,population
+2050,Magnitude of Poor Population,1991,Negros Occidental,,Province,Region VI,population
+2051,Magnitude of Poor Population,2006,Negros Occidental,"776,097",Province,Region VI,population
+2052,Magnitude of Poor Population,2009,Negros Occidental,"884,100",Province,Region VI,population
+2053,Magnitude of Poor Population,2012,Negros Occidental,"961,694",Province,Region VI,population
+2054,Magnitude of Poor Population,2015,Negros Occidental,"867,141",Province,Region VI,population
+2085,Magnitude of Poor Population,1991,Negros Oriental,,Province,Region VII,population
+2086,Magnitude of Poor Population,2006,Negros Oriental,"526,025",Province,Region VII,population
+2087,Magnitude of Poor Population,2009,Negros Oriental,"397,815",Province,Region VII,population
+2088,Magnitude of Poor Population,2012,Negros Oriental,"638,466",Province,Region VII,population
+2089,Magnitude of Poor Population,2015,Negros Oriental,"694,293",Province,Region VII,population
+2120,Magnitude of Poor Population,1991,North Cotabato,,Province,Region XII,population
+2121,Magnitude of Poor Population,2006,North Cotabato,"331,158",Province,Region XII,population
+2122,Magnitude of Poor Population,2009,North Cotabato,"361,554",Province,Region XII,population
+2123,Magnitude of Poor Population,2012,North Cotabato,"708,062",Province,Region XII,population
+2124,Magnitude of Poor Population,2015,North Cotabato,"615,923",Province,Region XII,population
+2155,Magnitude of Poor Population,1991,Northern Samar,,Province,Region VIII,population
+2156,Magnitude of Poor Population,2006,Northern Samar,"294,039",Province,Region VIII,population
+2157,Magnitude of Poor Population,2009,Northern Samar,"303,403",Province,Region VIII,population
+2158,Magnitude of Poor Population,2012,Northern Samar,"309,089",Province,Region VIII,population
+2159,Magnitude of Poor Population,2015,Northern Samar,"337,064",Province,Region VIII,population
+2190,Magnitude of Poor Population,1991,Nueva Ecija,,Province,Region III,population
+2191,Magnitude of Poor Population,2006,Nueva Ecija,"469,219",Province,Region III,population
+2192,Magnitude of Poor Population,2009,Nueva Ecija,"560,167",Province,Region III,population
+2193,Magnitude of Poor Population,2012,Nueva Ecija,"488,808",Province,Region III,population
+2194,Magnitude of Poor Population,2015,Nueva Ecija,"547,711",Province,Region III,population
+2225,Magnitude of Poor Population,1991,Nueva Vizcaya,,Province,Region II,population
+2226,Magnitude of Poor Population,2006,Nueva Vizcaya,"57,577",Province,Region II,population
+2227,Magnitude of Poor Population,2009,Nueva Vizcaya,"55,077",Province,Region II,population
+2228,Magnitude of Poor Population,2012,Nueva Vizcaya,"86,968",Province,Region II,population
+2229,Magnitude of Poor Population,2015,Nueva Vizcaya,"51,746",Province,Region II,population
+2260,Magnitude of Poor Population,1991,Occidental Mindoro,,Province,Region IV-B,population
+2261,Magnitude of Poor Population,2006,Occidental Mindoro,"186,536",Province,Region IV-B,population
+2262,Magnitude of Poor Population,2009,Occidental Mindoro,"157,180",Province,Region IV-B,population
+2263,Magnitude of Poor Population,2012,Occidental Mindoro,"181,631",Province,Region IV-B,population
+2264,Magnitude of Poor Population,2015,Occidental Mindoro,"208,435",Province,Region IV-B,population
+2295,Magnitude of Poor Population,1991,Oriental Mindoro,,Province,Region IV-B,population
+2296,Magnitude of Poor Population,2006,Oriental Mindoro,"328,847",Province,Region IV-B,population
+2297,Magnitude of Poor Population,2009,Oriental Mindoro,"280,088",Province,Region IV-B,population
+2298,Magnitude of Poor Population,2012,Oriental Mindoro,"238,372",Province,Region IV-B,population
+2299,Magnitude of Poor Population,2015,Oriental Mindoro,"180,670",Province,Region IV-B,population
+2330,Magnitude of Poor Population,1991,PHILIPPINES,"21,749,656",Country,Philippines,population
+2331,Magnitude of Poor Population,2006,PHILIPPINES,"22,643,980",Country,Philippines,population
+2332,Magnitude of Poor Population,2009,PHILIPPINES,"23,300,444",Country,Philippines,population
+2333,Magnitude of Poor Population,2012,PHILIPPINES,"23,745,895",Country,Philippines,population
+2334,Magnitude of Poor Population,2015,PHILIPPINES,"21,927,009",Country,Philippines,population
+2365,Magnitude of Poor Population,1991,Palawan,,Province,Region IV-B,population
+2366,Magnitude of Poor Population,2006,Palawan,"317,399",Province,Region IV-B,population
+2367,Magnitude of Poor Population,2009,Palawan,"297,456",Province,Region IV-B,population
+2368,Magnitude of Poor Population,2012,Palawan,"277,506",Province,Region IV-B,population
+2369,Magnitude of Poor Population,2015,Palawan,"179,895",Province,Region IV-B,population
+2400,Magnitude of Poor Population,1991,Pampanga,,Province,Region III,population
+2401,Magnitude of Poor Population,2006,Pampanga,"59,465",Province,Region III,population
+2402,Magnitude of Poor Population,2009,Pampanga,"154,742",Province,Region III,population
+2403,Magnitude of Poor Population,2012,Pampanga,"181,396",Province,Region III,population
+2404,Magnitude of Poor Population,2015,Pampanga,"114,511",Province,Region III,population
+2435,Magnitude of Poor Population,1991,Pangasinan,,Province,Region I,population
+2436,Magnitude of Poor Population,2006,Pangasinan,"768,315",Province,Region I,population
+2437,Magnitude of Poor Population,2009,Pangasinan,"600,931",Province,Region I,population
+2438,Magnitude of Poor Population,2012,Pangasinan,"582,209",Province,Region I,population
+2439,Magnitude of Poor Population,2015,Pangasinan,"439,701",Province,Region I,population
+2470,Magnitude of Poor Population,1991,Quezon,,Province,Region VI-A,population
+2471,Magnitude of Poor Population,2006,Quezon,"585,684",Province,Region VI-A,population
+2472,Magnitude of Poor Population,2009,Quezon,"529,495",Province,Region VI-A,population
+2473,Magnitude of Poor Population,2012,Quezon,"517,177",Province,Region VI-A,population
+2474,Magnitude of Poor Population,2015,Quezon,"482,295",Province,Region VI-A,population
+2505,Magnitude of Poor Population,1991,Quirino,,Province,Region II,population
+2506,Magnitude of Poor Population,2006,Quirino,"25,135",Province,Region II,population
+2507,Magnitude of Poor Population,2009,Quirino,"29,265",Province,Region II,population
+2508,Magnitude of Poor Population,2012,Quirino,"41,303",Province,Region II,population
+2509,Magnitude of Poor Population,2015,Quirino,"53,106",Province,Region II,population
+2540,Magnitude of Poor Population,1991,Region I,"1,298,408",Region,Region I,population
+2541,Magnitude of Poor Population,2006,Region I,"1,165,924",Region,Region I,population
+2542,Magnitude of Poor Population,2009,Region I,"1,005,574",Region,Region I,population
+2543,Magnitude of Poor Population,2012,Region I,"876,650",Region,Region I,population
+2544,Magnitude of Poor Population,2015,Region I,"671,087",Region,Region I,population
+2575,Magnitude of Poor Population,1991,Region II,"1,028,542",Province,Region II,population
+2576,Magnitude of Poor Population,2006,Region II,"814,425",Province,Region II,population
+2577,Magnitude of Poor Population,2009,Region II,"790,985",Province,Region II,population
+2578,Magnitude of Poor Population,2012,Region II,"716,754",Province,Region II,population
+2579,Magnitude of Poor Population,2015,Region II,"553,616",Province,Region II,population
+2610,Magnitude of Poor Population,1991,Region III,"1,381,300",Region,Region III,population
+2611,Magnitude of Poor Population,2006,Region III,"1,217,921",Region,Region III,population
+2612,Magnitude of Poor Population,2009,Region III,"1,329,044",Region,Region III,population
+2613,Magnitude of Poor Population,2012,Region III,"1,340,361",Region,Region III,population
+2614,Magnitude of Poor Population,2015,Region III,"1,242,071",Region,Region III,population
+2645,Magnitude of Poor Population,1991,Region IV-A,"1,458,036",Region,Region VI-A,population
+2646,Magnitude of Poor Population,2006,Region IV-A,"1,140,958",Region,Region VI-A,population
+2647,Magnitude of Poor Population,2009,Region IV-A,"1,419,975",Region,Region VI-A,population
+2648,Magnitude of Poor Population,2012,Region IV-A,"1,425,774",Region,Region VI-A,population
+2649,Magnitude of Poor Population,2015,Region IV-A,"1,287,966",Region,Region VI-A,population
+2680,Magnitude of Poor Population,1991,Region IV-B,"820,158",Region,Region IV-B,population
+2681,Magnitude of Poor Population,2006,Region IV-B,"1,047,968",Region,Region IV-B,population
+2682,Magnitude of Poor Population,2009,Region IV-B,"921,622",Region,Region IV-B,population
+2683,Magnitude of Poor Population,2012,Region IV-B,"876,238",Region,Region IV-B,population
+2684,Magnitude of Poor Population,2015,Region IV-B,"754,222",Region,Region IV-B,population
+2715,Magnitude of Poor Population,1991,Region IX,"913,815",Region,Region IX,population
+2716,Magnitude of Poor Population,2006,Region IX,"1,426,807",Region,Region IX,population
+2717,Magnitude of Poor Population,2009,Region IX,"1,510,806",Region,Region IX,population
+2718,Magnitude of Poor Population,2012,Region IX,"1,409,819",Region,Region IX,population
+2719,Magnitude of Poor Population,2015,Region IX,"1,274,657",Region,Region IX,population
+2750,Magnitude of Poor Population,1991,Region V,"2,450,496",Region,Region V,population
+2751,Magnitude of Poor Population,2006,Region V,"2,280,000",Region,Region V,population
+2752,Magnitude of Poor Population,2009,Region V,"2,338,850",Region,Region V,population
+2753,Magnitude of Poor Population,2012,Region V,"2,276,848",Region,Region V,population
+2754,Magnitude of Poor Population,2015,Region V,"2,172,415",Region,Region V,population
+2785,Magnitude of Poor Population,1991,Region VI,"2,256,410",Region,Region VI,population
+2786,Magnitude of Poor Population,2006,Region VI,"1,942,554",Region,Region VI,population
+2787,Magnitude of Poor Population,2009,Region VI,"2,110,806",Region,Region VI,population
+2788,Magnitude of Poor Population,2012,Region VI,"2,088,471",Region,Region VI,population
+2789,Magnitude of Poor Population,2015,Region VI,"1,728,397",Region,Region VI,population
+2820,Magnitude of Poor Population,1991,Region VII,"1,965,272",Region,Region VII,population
+2821,Magnitude of Poor Population,2006,Region VII,"2,274,400",Region,Region VII,population
+2822,Magnitude of Poor Population,2009,Region VII,"2,042,027",Region,Region VII,population
+2823,Magnitude of Poor Population,2012,Region VII,"2,094,911",Region,Region VII,population
+2824,Magnitude of Poor Population,2015,Region VII,"2,057,479",Region,Region VII,population
+2855,Magnitude of Poor Population,1991,Region VIII,"1,662,289",Region,Region VIII,population
+2856,Magnitude of Poor Population,2006,Region VIII,"1,627,468",Region,Region VIII,population
+2857,Magnitude of Poor Population,2009,Region VIII,"1,708,941",Region,Region VIII,population
+2858,Magnitude of Poor Population,2012,Region VIII,"1,882,934",Region,Region VIII,population
+2859,Magnitude of Poor Population,2015,Region VIII,"1,756,744",Region,Region VIII,population
+2890,Magnitude of Poor Population,1991,Region X,"1,403,070",Region,Region X,population
+2891,Magnitude of Poor Population,2006,Region X,"1,550,490",Region,Region X,population
+2892,Magnitude of Poor Population,2009,Region X,"1,661,208",Region,Region X,population
+2893,Magnitude of Poor Population,2012,Region X,"1,759,570",Region,Region X,population
+2894,Magnitude of Poor Population,2015,Region X,"1,720,472",Region,Region X,population
+2925,Magnitude of Poor Population,1991,Region XI,"1,138,325",Region,Region XI,population
+2926,Magnitude of Poor Population,2006,Region XI,"1,269,291",Region,Region XI,population
+2927,Magnitude of Poor Population,2009,Region XI,"1,356,480",Region,Region XI,population
+2928,Magnitude of Poor Population,2012,Region XI,"1,411,063",Region,Region XI,population
+2929,Magnitude of Poor Population,2015,Region XI,"1,092,200",Region,Region XI,population
+2960,Magnitude of Poor Population,1991,Region XII,"1,216,120",Region,Region XII,population
+2961,Magnitude of Poor Population,2006,Region XII,"1,410,648",Region,Region XII,population
+2962,Magnitude of Poor Population,2009,Region XII,"1,511,050",Region,Region XII,population
+2963,Magnitude of Poor Population,2012,Region XII,"1,895,820",Region,Region XII,population
+2964,Magnitude of Poor Population,2015,Region XII,"1,716,649",Region,Region XII,population
+2995,Magnitude of Poor Population,1991,Rizal,,Province,Region VI-A,population
+2996,Magnitude of Poor Population,2006,Rizal,"69,454",Province,Region VI-A,population
+2997,Magnitude of Poor Population,2009,Rizal,"204,528",Province,Region VI-A,population
+2998,Magnitude of Poor Population,2012,Rizal,"159,300",Province,Region VI-A,population
+2999,Magnitude of Poor Population,2015,Rizal,"136,189",Province,Region VI-A,population
+3030,Magnitude of Poor Population,1991,Romblon,,Province,Region IV-B,population
+3031,Magnitude of Poor Population,2006,Romblon,"125,440",Province,Region IV-B,population
+3032,Magnitude of Poor Population,2009,Romblon,"112,382",Province,Region IV-B,population
+3033,Magnitude of Poor Population,2012,Romblon,"104,992",Province,Region IV-B,population
+3034,Magnitude of Poor Population,2015,Romblon,"132,772",Province,Region IV-B,population
+3065,Magnitude of Poor Population,1991,Saranggani,,Province,Region XII,population
+3066,Magnitude of Poor Population,2006,Saranggani,"247,674",Province,Region XII,population
+3067,Magnitude of Poor Population,2009,Saranggani,"290,151",Province,Region XII,population
+3068,Magnitude of Poor Population,2012,Saranggani,"269,112",Province,Region XII,population
+3069,Magnitude of Poor Population,2015,Saranggani,"233,164",Province,Region XII,population
+3100,Magnitude of Poor Population,1991,"Siquijor,",,,,population
+3101,Magnitude of Poor Population,2006,"Siquijor,","19,709",,,population
+3102,Magnitude of Poor Population,2009,"Siquijor,","23,966",,,population
+3103,Magnitude of Poor Population,2012,"Siquijor,","27,282",,,population
+3104,Magnitude of Poor Population,2015,"Siquijor,","78,433",,,population
+3135,Magnitude of Poor Population,1991,Sorsogon,,Province,Region V,population
+3136,Magnitude of Poor Population,2006,Sorsogon,"287,944",Province,Region V,population
+3137,Magnitude of Poor Population,2009,Sorsogon,"275,808",Province,Region V,population
+3138,Magnitude of Poor Population,2012,Sorsogon,"297,931",Province,Region V,population
+3139,Magnitude of Poor Population,2015,Sorsogon,"375,178",Province,Region V,population
+3170,Magnitude of Poor Population,1991,South Cotabato,,Province,Region XII,population
+3171,Magnitude of Poor Population,2006,South Cotabato,"394,844",Province,Region XII,population
+3172,Magnitude of Poor Population,2009,South Cotabato,"408,125",Province,Region XII,population
+3173,Magnitude of Poor Population,2012,South Cotabato,"430,210",Province,Region XII,population
+3174,Magnitude of Poor Population,2015,South Cotabato,"411,404",Province,Region XII,population
+3205,Magnitude of Poor Population,1991,Southern Leyte,,Province,Region VIII,population
+3206,Magnitude of Poor Population,2006,Southern Leyte,"123,065",Province,Region VIII,population
+3207,Magnitude of Poor Population,2009,Southern Leyte,"164,487",Province,Region VIII,population
+3208,Magnitude of Poor Population,2012,Southern Leyte,"174,368",Province,Region VIII,population
+3209,Magnitude of Poor Population,2015,Southern Leyte,"146,726",Province,Region VIII,population
+3240,Magnitude of Poor Population,1991,Sultan Kudarat,,Province,Region XII,population
+3241,Magnitude of Poor Population,2006,Sultan Kudarat,"359,194",Province,Region XII,population
+3242,Magnitude of Poor Population,2009,Sultan Kudarat,"356,873",Province,Region XII,population
+3243,Magnitude of Poor Population,2012,Sultan Kudarat,"357,960",Province,Region XII,population
+3244,Magnitude of Poor Population,2015,Sultan Kudarat,"393,833",Province,Region XII,population
+3275,Magnitude of Poor Population,1991,Sulu,,Province,ARMM,population
+3276,Magnitude of Poor Population,2006,Sulu,"280,457",Province,ARMM,population
+3277,Magnitude of Poor Population,2009,Sulu,"299,785",Province,ARMM,population
+3278,Magnitude of Poor Population,2012,Sulu,"358,144",Province,ARMM,population
+3279,Magnitude of Poor Population,2015,Sulu,"577,987",Province,ARMM,population
+3310,Magnitude of Poor Population,1991,Surigao Del Norte,,Province,CARAGA,population
+3311,Magnitude of Poor Population,2006,Surigao Del Norte,"283,789",Province,CARAGA,population
+3312,Magnitude of Poor Population,2009,Surigao Del Norte,"311,979",Province,CARAGA,population
+3313,Magnitude of Poor Population,2012,Surigao Del Norte,"248,953",Province,CARAGA,population
+3314,Magnitude of Poor Population,2015,Surigao Del Norte,"225,181",Province,CARAGA,population
+3345,Magnitude of Poor Population,1991,Surigao Del Sur,,Province,CARAGA,population
+3346,Magnitude of Poor Population,2006,Surigao Del Sur,"247,468",Province,CARAGA,population
+3347,Magnitude of Poor Population,2009,Surigao Del Sur,"290,490",Province,CARAGA,population
+3348,Magnitude of Poor Population,2012,Surigao Del Sur,"197,653",Province,CARAGA,population
+3349,Magnitude of Poor Population,2015,Surigao Del Sur,"248,345",Province,CARAGA,population
+3380,Magnitude of Poor Population,1991,Tarlac,,Province,Region III,population
+3381,Magnitude of Poor Population,2006,Tarlac,"217,963",Province,Region III,population
+3382,Magnitude of Poor Population,2009,Tarlac,"213,183",Province,Region III,population
+3383,Magnitude of Poor Population,2012,Tarlac,"214,197",Province,Region III,population
+3384,Magnitude of Poor Population,2015,Tarlac,"252,471",Province,Region III,population
+3415,Magnitude of Poor Population,1991,Tawi-tawi,,Province,ARMM,population
+3416,Magnitude of Poor Population,2006,Tawi-tawi,"221,612",Province,ARMM,population
+3417,Magnitude of Poor Population,2009,Tawi-tawi,"151,220",Province,ARMM,population
+3418,Magnitude of Poor Population,2012,Tawi-tawi,"126,971",Province,ARMM,population
+3419,Magnitude of Poor Population,2015,Tawi-tawi,"60,555",Province,ARMM,population
+3450,Magnitude of Poor Population,1991,Western Samar,,Province,Region VIII,population
+3451,Magnitude of Poor Population,2006,Western Samar,"269,174",Province,Region VIII,population
+3452,Magnitude of Poor Population,2009,Western Samar,"306,015",Province,Region VIII,population
+3453,Magnitude of Poor Population,2012,Western Samar,"361,045",Province,Region VIII,population
+3454,Magnitude of Poor Population,2015,Western Samar,"348,948",Province,Region VIII,population
+3485,Magnitude of Poor Population,1991,Zambales,,Province,Region III,population
+3486,Magnitude of Poor Population,2006,Zambales,"167,195",Province,Region III,population
+3487,Magnitude of Poor Population,2009,Zambales,"124,821",Province,Region III,population
+3488,Magnitude of Poor Population,2012,Zambales,"121,660",Province,Region III,population
+3489,Magnitude of Poor Population,2015,Zambales,"103,475",Province,Region III,population
+3520,Magnitude of Poor Population,1991,Zamboanga Sibugay,,Province,Region IX,population
+3521,Magnitude of Poor Population,2006,Zamboanga Sibugay,"279,278",Province,Region IX,population
+3522,Magnitude of Poor Population,2009,Zamboanga Sibugay,"301,718",Province,Region IX,population
+3523,Magnitude of Poor Population,2012,Zamboanga Sibugay,"282,355",Province,Region IX,population
+3524,Magnitude of Poor Population,2015,Zamboanga Sibugay,"164,230",Province,Region IX,population
+3555,Magnitude of Poor Population,1991,Zamboanga del Norte,,Province,Region IX,population
+3556,Magnitude of Poor Population,2006,Zamboanga del Norte,"597,173",Province,Region IX,population
+3557,Magnitude of Poor Population,2009,Zamboanga del Norte,"650,867",Province,Region IX,population
+3558,Magnitude of Poor Population,2012,Zamboanga del Norte,"518,347",Province,Region IX,population
+3559,Magnitude of Poor Population,2015,Zamboanga del Norte,"588,451",Province,Region IX,population
+3590,Magnitude of Poor Population,1991,Zamboanga del Sur,,Province,Region IX,population
+3591,Magnitude of Poor Population,2006,Zamboanga del Sur,"515,055",Province,Region IX,population
+3592,Magnitude of Poor Population,2009,Zamboanga del Sur,"532,271",Province,Region IX,population
+3593,Magnitude of Poor Population,2012,Zamboanga del Sur,"587,598",Province,Region IX,population
+3594,Magnitude of Poor Population,2015,Zamboanga del Sur,"476,765",Province,Region IX,population

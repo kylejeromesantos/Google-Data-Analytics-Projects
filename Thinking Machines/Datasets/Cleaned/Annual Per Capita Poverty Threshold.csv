@@ -1,0 +1,403 @@
+,Variable,Year,province,value,adm_level,region,unit
+1,Annual Per Capita Poverty Threshold (in Pesos),2006,1st District,"15,699",District,NCR,in Pesos
+2,Annual Per Capita Poverty Threshold (in Pesos),2009,1st District,"19,227",District,NCR,in Pesos
+3,Annual Per Capita Poverty Threshold (in Pesos),2012,1st District,"20,344",District,NCR,in Pesos
+4,Annual Per Capita Poverty Threshold (in Pesos),2015,1st District,"25,007",District,NCR,in Pesos
+6,Annual Per Capita Poverty Threshold (in Pesos),2006,2nd District,"15,699",District,NCR,in Pesos
+7,Annual Per Capita Poverty Threshold (in Pesos),2009,2nd District,"19,227",District,NCR,in Pesos
+8,Annual Per Capita Poverty Threshold (in Pesos),2012,2nd District,"20,344",District,NCR,in Pesos
+9,Annual Per Capita Poverty Threshold (in Pesos),2015,2nd District,"25,007",District,NCR,in Pesos
+11,Annual Per Capita Poverty Threshold (in Pesos),2006,3rd District,"15,699",District,NCR,in Pesos
+12,Annual Per Capita Poverty Threshold (in Pesos),2009,3rd District,"19,227",District,NCR,in Pesos
+13,Annual Per Capita Poverty Threshold (in Pesos),2012,3rd District,"20,344",District,NCR,in Pesos
+14,Annual Per Capita Poverty Threshold (in Pesos),2015,3rd District,"25,007",District,NCR,in Pesos
+16,Annual Per Capita Poverty Threshold (in Pesos),2006,4th District,"15,699",District,NCR,in Pesos
+17,Annual Per Capita Poverty Threshold (in Pesos),2009,4th District,"19,227",District,NCR,in Pesos
+18,Annual Per Capita Poverty Threshold (in Pesos),2012,4th District,"20,344",District,NCR,in Pesos
+19,Annual Per Capita Poverty Threshold (in Pesos),2015,4th District,"25,007",District,NCR,in Pesos
+20,Annual Per Capita Poverty Threshold (in Pesos),1991,ARMM,"5,201",Region,ARMM,in Pesos
+21,Annual Per Capita Poverty Threshold (in Pesos),2006,ARMM,"12,647",Region,ARMM,in Pesos
+22,Annual Per Capita Poverty Threshold (in Pesos),2009,ARMM,"16,683",Region,ARMM,in Pesos
+23,Annual Per Capita Poverty Threshold (in Pesos),2012,ARMM,"20,517",Region,ARMM,in Pesos
+24,Annual Per Capita Poverty Threshold (in Pesos),2015,ARMM,"21,563",Region,ARMM,in Pesos
+26,Annual Per Capita Poverty Threshold (in Pesos),2006,Abra,"14,680",Province,CAR,in Pesos
+27,Annual Per Capita Poverty Threshold (in Pesos),2009,Abra,"17,852",Province,CAR,in Pesos
+28,Annual Per Capita Poverty Threshold (in Pesos),2012,Abra,"19,775",Province,CAR,in Pesos
+29,Annual Per Capita Poverty Threshold (in Pesos),2015,Abra,"21,240",Province,CAR,in Pesos
+31,Annual Per Capita Poverty Threshold (in Pesos),2006,Agusan del Norte,"14,739",Province,CARAGA,in Pesos
+32,Annual Per Capita Poverty Threshold (in Pesos),2009,Agusan del Norte,"18,890",Province,CARAGA,in Pesos
+33,Annual Per Capita Poverty Threshold (in Pesos),2012,Agusan del Norte,"18,905",Province,CARAGA,in Pesos
+34,Annual Per Capita Poverty Threshold (in Pesos),2015,Agusan del Norte,"21,535",Province,CARAGA,in Pesos
+36,Annual Per Capita Poverty Threshold (in Pesos),2006,Agusan del Sur,"14,969",Province,CARAGA,in Pesos
+37,Annual Per Capita Poverty Threshold (in Pesos),2009,Agusan del Sur,"19,107",Province,CARAGA,in Pesos
+38,Annual Per Capita Poverty Threshold (in Pesos),2012,Agusan del Sur,"19,634",Province,CARAGA,in Pesos
+39,Annual Per Capita Poverty Threshold (in Pesos),2015,Agusan del Sur,"22,957",Province,CARAGA,in Pesos
+41,Annual Per Capita Poverty Threshold (in Pesos),2006,Aklan,"13,235",Province,Region VI,in Pesos
+42,Annual Per Capita Poverty Threshold (in Pesos),2009,Aklan,"16,758",Province,Region VI,in Pesos
+43,Annual Per Capita Poverty Threshold (in Pesos),2012,Aklan,"17,707",Province,Region VI,in Pesos
+44,Annual Per Capita Poverty Threshold (in Pesos),2015,Aklan,"21,387",Province,Region VI,in Pesos
+46,Annual Per Capita Poverty Threshold (in Pesos),2006,Albay,"13,413",Province,Region V,in Pesos
+47,Annual Per Capita Poverty Threshold (in Pesos),2009,Albay,"17,098",Province,Region V,in Pesos
+48,Annual Per Capita Poverty Threshold (in Pesos),2012,Albay,"18,610",Province,Region V,in Pesos
+49,Annual Per Capita Poverty Threshold (in Pesos),2015,Albay,"22,081",Province,Region V,in Pesos
+51,Annual Per Capita Poverty Threshold (in Pesos),2006,Antique,"13,497",Province,Region VI,in Pesos
+52,Annual Per Capita Poverty Threshold (in Pesos),2009,Antique,"17,050",Province,Region VI,in Pesos
+53,Annual Per Capita Poverty Threshold (in Pesos),2012,Antique,"17,160",Province,Region VI,in Pesos
+54,Annual Per Capita Poverty Threshold (in Pesos),2015,Antique,"20,382",Province,Region VI,in Pesos
+56,Annual Per Capita Poverty Threshold (in Pesos),2006,Apayao,"13,915",Province,CAR,in Pesos
+57,Annual Per Capita Poverty Threshold (in Pesos),2009,Apayao,"16,923",Province,CAR,in Pesos
+58,Annual Per Capita Poverty Threshold (in Pesos),2012,Apayao,"18,623",Province,CAR,in Pesos
+59,Annual Per Capita Poverty Threshold (in Pesos),2015,Apayao,"20,947",Province,CAR,in Pesos
+66,Annual Per Capita Poverty Threshold (in Pesos),2006,Basilan,"12,538",Province,ARMM,in Pesos
+67,Annual Per Capita Poverty Threshold (in Pesos),2009,Basilan,"16,256",Province,ARMM,in Pesos
+68,Annual Per Capita Poverty Threshold (in Pesos),2012,Basilan,"19,368",Province,ARMM,in Pesos
+69,Annual Per Capita Poverty Threshold (in Pesos),2015,Basilan,"20,678",Province,ARMM,in Pesos
+71,Annual Per Capita Poverty Threshold (in Pesos),2006,Bataan,"13,862",Province,Region III,in Pesos
+72,Annual Per Capita Poverty Threshold (in Pesos),2009,Bataan,"17,643",Province,Region III,in Pesos
+73,Annual Per Capita Poverty Threshold (in Pesos),2012,Bataan,"19,383",Province,Region III,in Pesos
+74,Annual Per Capita Poverty Threshold (in Pesos),2015,Bataan,"24,770",Province,Region III,in Pesos
+81,Annual Per Capita Poverty Threshold (in Pesos),2006,Batangas,"13,735",Province,Region VI-A,in Pesos
+82,Annual Per Capita Poverty Threshold (in Pesos),2009,Batangas,"17,360",Province,Region VI-A,in Pesos
+83,Annual Per Capita Poverty Threshold (in Pesos),2012,Batangas,"19,437",Province,Region VI-A,in Pesos
+84,Annual Per Capita Poverty Threshold (in Pesos),2015,Batangas,"21,767",Province,Region VI-A,in Pesos
+86,Annual Per Capita Poverty Threshold (in Pesos),2006,Benguet,"13,341",Province,CAR,in Pesos
+87,Annual Per Capita Poverty Threshold (in Pesos),2009,Benguet,"16,217",Province,CAR,in Pesos
+88,Annual Per Capita Poverty Threshold (in Pesos),2012,Benguet,"19,140",Province,CAR,in Pesos
+89,Annual Per Capita Poverty Threshold (in Pesos),2015,Benguet,"21,561",Province,CAR,in Pesos
+91,Annual Per Capita Poverty Threshold (in Pesos),2006,Biliran,"11,841",Province,Region VIII,in Pesos
+92,Annual Per Capita Poverty Threshold (in Pesos),2009,Biliran,"15,350",Province,Region VIII,in Pesos
+93,Annual Per Capita Poverty Threshold (in Pesos),2012,Biliran,"17,393",Province,Region VIII,in Pesos
+94,Annual Per Capita Poverty Threshold (in Pesos),2015,Biliran,"21,008",Province,Region VIII,in Pesos
+96,Annual Per Capita Poverty Threshold (in Pesos),2006,Bohol,"14,098",Province,Region VII,in Pesos
+97,Annual Per Capita Poverty Threshold (in Pesos),2009,Bohol,"16,633",Province,Region VII,in Pesos
+98,Annual Per Capita Poverty Threshold (in Pesos),2012,Bohol,"18,847",Province,Region VII,in Pesos
+99,Annual Per Capita Poverty Threshold (in Pesos),2015,Bohol,"20,437",Province,Region VII,in Pesos
+101,Annual Per Capita Poverty Threshold (in Pesos),2006,Bukidnon,"13,150",Province,Region X,in Pesos
+102,Annual Per Capita Poverty Threshold (in Pesos),2009,Bukidnon,"17,210",Province,Region X,in Pesos
+103,Annual Per Capita Poverty Threshold (in Pesos),2012,Bukidnon,"20,115",Province,Region X,in Pesos
+104,Annual Per Capita Poverty Threshold (in Pesos),2015,Bukidnon,"23,682",Province,Region X,in Pesos
+106,Annual Per Capita Poverty Threshold (in Pesos),2006,Bulacan,"14,671",Province,Region III,in Pesos
+107,Annual Per Capita Poverty Threshold (in Pesos),2009,Bulacan,"18,434",Province,Region III,in Pesos
+108,Annual Per Capita Poverty Threshold (in Pesos),2012,Bulacan,"19,910",Province,Region III,in Pesos
+109,Annual Per Capita Poverty Threshold (in Pesos),2015,Bulacan,"21,989",Province,Region III,in Pesos
+110,Annual Per Capita Poverty Threshold (in Pesos),1991,CAR,"6,706",Region,CAR,in Pesos
+111,Annual Per Capita Poverty Threshold (in Pesos),2006,CAR,"14,107",Region,CAR,in Pesos
+112,Annual Per Capita Poverty Threshold (in Pesos),2009,CAR,"17,243",Region,CAR,in Pesos
+113,Annual Per Capita Poverty Threshold (in Pesos),2012,CAR,"19,483",Region,CAR,in Pesos
+114,Annual Per Capita Poverty Threshold (in Pesos),2015,CAR,"21,770",Region,CAR,in Pesos
+116,Annual Per Capita Poverty Threshold (in Pesos),2006,Cagayan,"14,355",Province,Region II,in Pesos
+117,Annual Per Capita Poverty Threshold (in Pesos),2009,Cagayan,"17,866",Province,Region II,in Pesos
+118,Annual Per Capita Poverty Threshold (in Pesos),2012,Cagayan,"18,741",Province,Region II,in Pesos
+119,Annual Per Capita Poverty Threshold (in Pesos),2015,Cagayan,"21,094",Province,Region II,in Pesos
+121,Annual Per Capita Poverty Threshold (in Pesos),2006,Camarines Norte,"13,066",Province,Region V,in Pesos
+122,Annual Per Capita Poverty Threshold (in Pesos),2009,Camarines Norte,"16,675",Province,Region V,in Pesos
+123,Annual Per Capita Poverty Threshold (in Pesos),2012,Camarines Norte,"18,390",Province,Region V,in Pesos
+124,Annual Per Capita Poverty Threshold (in Pesos),2015,Camarines Norte,"22,096",Province,Region V,in Pesos
+126,Annual Per Capita Poverty Threshold (in Pesos),2006,Camarines Sur,"13,492",Province,Region V,in Pesos
+127,Annual Per Capita Poverty Threshold (in Pesos),2009,Camarines Sur,"17,223",Province,Region V,in Pesos
+128,Annual Per Capita Poverty Threshold (in Pesos),2012,Camarines Sur,"18,717",Province,Region V,in Pesos
+129,Annual Per Capita Poverty Threshold (in Pesos),2015,Camarines Sur,"22,154",Province,Region V,in Pesos
+136,Annual Per Capita Poverty Threshold (in Pesos),2006,Capiz,"13,596",Province,Region VI,in Pesos
+137,Annual Per Capita Poverty Threshold (in Pesos),2009,Capiz,"17,248",Province,Region VI,in Pesos
+138,Annual Per Capita Poverty Threshold (in Pesos),2012,Capiz,"20,144",Province,Region VI,in Pesos
+139,Annual Per Capita Poverty Threshold (in Pesos),2015,Capiz,"21,146",Province,Region VI,in Pesos
+140,Annual Per Capita Poverty Threshold (in Pesos),1991,Caraga,"6,099",Region,CARAGA,in Pesos
+141,Annual Per Capita Poverty Threshold (in Pesos),2006,Caraga,"14,324",Region,CARAGA,in Pesos
+142,Annual Per Capita Poverty Threshold (in Pesos),2009,Caraga,"18,309",Region,CARAGA,in Pesos
+143,Annual Per Capita Poverty Threshold (in Pesos),2012,Caraga,"19,629",Region,CARAGA,in Pesos
+144,Annual Per Capita Poverty Threshold (in Pesos),2015,Caraga,"22,570",Region,CARAGA,in Pesos
+146,Annual Per Capita Poverty Threshold (in Pesos),2006,Catanduanes,"13,369",Province,Region V,in Pesos
+147,Annual Per Capita Poverty Threshold (in Pesos),2009,Catanduanes,"17,057",Province,Region V,in Pesos
+148,Annual Per Capita Poverty Threshold (in Pesos),2012,Catanduanes,"18,303",Province,Region V,in Pesos
+149,Annual Per Capita Poverty Threshold (in Pesos),2015,Catanduanes,"21,660",Province,Region V,in Pesos
+151,Annual Per Capita Poverty Threshold (in Pesos),2006,Cavite,"13,343",Province,Region VI-A,in Pesos
+152,Annual Per Capita Poverty Threshold (in Pesos),2009,Cavite,"16,677",Province,Region VI-A,in Pesos
+153,Annual Per Capita Poverty Threshold (in Pesos),2012,Cavite,"19,948",Province,Region VI-A,in Pesos
+154,Annual Per Capita Poverty Threshold (in Pesos),2015,Cavite,"24,882",Province,Region VI-A,in Pesos
+156,Annual Per Capita Poverty Threshold (in Pesos),2006,Cebu,"15,064",Province,Region VII,in Pesos
+157,Annual Per Capita Poverty Threshold (in Pesos),2009,Cebu,"17,770",Province,Region VII,in Pesos
+158,Annual Per Capita Poverty Threshold (in Pesos),2012,Cebu,"18,855",Province,Region VII,in Pesos
+159,Annual Per Capita Poverty Threshold (in Pesos),2015,Cebu,"21,740",Province,Region VII,in Pesos
+161,Annual Per Capita Poverty Threshold (in Pesos),2006,Compostela Valley,"13,911",Province,Region XI,in Pesos
+162,Annual Per Capita Poverty Threshold (in Pesos),2009,Compostela Valley,"17,788",Province,Region XI,in Pesos
+163,Annual Per Capita Poverty Threshold (in Pesos),2012,Compostela Valley,"20,932",Province,Region XI,in Pesos
+164,Annual Per Capita Poverty Threshold (in Pesos),2015,Compostela Valley,"22,740",Province,Region XI,in Pesos
+171,Annual Per Capita Poverty Threshold (in Pesos),2006,Davao Oriental,"13,258",Province,Region XI,in Pesos
+172,Annual Per Capita Poverty Threshold (in Pesos),2009,Davao Oriental,"16,948",Province,Region XI,in Pesos
+173,Annual Per Capita Poverty Threshold (in Pesos),2012,Davao Oriental,"19,323",Province,Region XI,in Pesos
+174,Annual Per Capita Poverty Threshold (in Pesos),2015,Davao Oriental,"22,210",Province,Region XI,in Pesos
+176,Annual Per Capita Poverty Threshold (in Pesos),2006,Davao del Norte,"13,214",Province,Region XI,in Pesos
+177,Annual Per Capita Poverty Threshold (in Pesos),2009,Davao del Norte,"16,863",Province,Region XI,in Pesos
+178,Annual Per Capita Poverty Threshold (in Pesos),2012,Davao del Norte,"20,841",Province,Region XI,in Pesos
+179,Annual Per Capita Poverty Threshold (in Pesos),2015,Davao del Norte,"24,424",Province,Region XI,in Pesos
+181,Annual Per Capita Poverty Threshold (in Pesos),2006,Davao del Sur,"13,298",Province,Region XI,in Pesos
+182,Annual Per Capita Poverty Threshold (in Pesos),2009,Davao del Sur,"17,046",Province,Region XI,in Pesos
+183,Annual Per Capita Poverty Threshold (in Pesos),2012,Davao del Sur,"19,311",Province,Region XI,in Pesos
+184,Annual Per Capita Poverty Threshold (in Pesos),2015,Davao del Sur,"21,846",Province,Region XI,in Pesos
+186,Annual Per Capita Poverty Threshold (in Pesos),2006,Eastern Samar,"13,140",Province,Region VIII,in Pesos
+187,Annual Per Capita Poverty Threshold (in Pesos),2009,Eastern Samar,"17,091",Province,Region VIII,in Pesos
+188,Annual Per Capita Poverty Threshold (in Pesos),2012,Eastern Samar,"20,237",Province,Region VIII,in Pesos
+189,Annual Per Capita Poverty Threshold (in Pesos),2015,Eastern Samar,"22,886",Province,Region VIII,in Pesos
+196,Annual Per Capita Poverty Threshold (in Pesos),2006,Ifugao,"14,233",Province,CAR,in Pesos
+197,Annual Per Capita Poverty Threshold (in Pesos),2009,Ifugao,"17,321",Province,CAR,in Pesos
+198,Annual Per Capita Poverty Threshold (in Pesos),2012,Ifugao,"20,253",Province,CAR,in Pesos
+199,Annual Per Capita Poverty Threshold (in Pesos),2015,Ifugao,"22,673",Province,CAR,in Pesos
+201,Annual Per Capita Poverty Threshold (in Pesos),2006,Ilocos Norte,"14,512",Province,Region I,in Pesos
+202,Annual Per Capita Poverty Threshold (in Pesos),2009,Ilocos Norte,"17,990",Province,Region I,in Pesos
+203,Annual Per Capita Poverty Threshold (in Pesos),2012,Ilocos Norte,"18,953",Province,Region I,in Pesos
+204,Annual Per Capita Poverty Threshold (in Pesos),2015,Ilocos Norte,"20,615",Province,Region I,in Pesos
+206,Annual Per Capita Poverty Threshold (in Pesos),2006,Ilocos Sur,"14,836",Province,Region I,in Pesos
+207,Annual Per Capita Poverty Threshold (in Pesos),2009,Ilocos Sur,"18,610",Province,Region I,in Pesos
+208,Annual Per Capita Poverty Threshold (in Pesos),2012,Ilocos Sur,"20,885",Province,Region I,in Pesos
+209,Annual Per Capita Poverty Threshold (in Pesos),2015,Ilocos Sur,"22,535",Province,Region I,in Pesos
+211,Annual Per Capita Poverty Threshold (in Pesos),2006,Iloilo,"12,965",Province,Region VI,in Pesos
+212,Annual Per Capita Poverty Threshold (in Pesos),2009,Iloilo,"16,448",Province,Region VI,in Pesos
+213,Annual Per Capita Poverty Threshold (in Pesos),2012,Iloilo,"18,827",Province,Region VI,in Pesos
+214,Annual Per Capita Poverty Threshold (in Pesos),2015,Iloilo,"22,117",Province,Region VI,in Pesos
+216,Annual Per Capita Poverty Threshold (in Pesos),2006,Isabela,"13,702",Province,Region II,in Pesos
+217,Annual Per Capita Poverty Threshold (in Pesos),2009,Isabela,"17,057",Province,Region II,in Pesos
+218,Annual Per Capita Poverty Threshold (in Pesos),2012,Isabela,"19,400",Province,Region II,in Pesos
+219,Annual Per Capita Poverty Threshold (in Pesos),2015,Isabela,"22,547",Province,Region II,in Pesos
+226,Annual Per Capita Poverty Threshold (in Pesos),2006,Kalinga,"13,079",Province,CAR,in Pesos
+227,Annual Per Capita Poverty Threshold (in Pesos),2009,Kalinga,"15,939",Province,CAR,in Pesos
+228,Annual Per Capita Poverty Threshold (in Pesos),2012,Kalinga,"17,342",Province,CAR,in Pesos
+229,Annual Per Capita Poverty Threshold (in Pesos),2015,Kalinga,"20,468",Province,CAR,in Pesos
+231,Annual Per Capita Poverty Threshold (in Pesos),2006,La Union,"14,340",Province,Region I,in Pesos
+232,Annual Per Capita Poverty Threshold (in Pesos),2009,La Union,"17,724",Province,Region I,in Pesos
+233,Annual Per Capita Poverty Threshold (in Pesos),2012,La Union,"18,006",Province,Region I,in Pesos
+234,Annual Per Capita Poverty Threshold (in Pesos),2015,La Union,"19,045",Province,Region I,in Pesos
+236,Annual Per Capita Poverty Threshold (in Pesos),2006,Laguna,"13,637",Province,Region VI-A,in Pesos
+237,Annual Per Capita Poverty Threshold (in Pesos),2009,Laguna,"17,412",Province,Region VI-A,in Pesos
+238,Annual Per Capita Poverty Threshold (in Pesos),2012,Laguna,"19,857",Province,Region VI-A,in Pesos
+239,Annual Per Capita Poverty Threshold (in Pesos),2015,Laguna,"21,770",Province,Region VI-A,in Pesos
+241,Annual Per Capita Poverty Threshold (in Pesos),2006,Lanao del Norte,"12,519",Province,Region X,in Pesos
+242,Annual Per Capita Poverty Threshold (in Pesos),2009,Lanao del Norte,"16,393",Province,Region X,in Pesos
+243,Annual Per Capita Poverty Threshold (in Pesos),2012,Lanao del Norte,"18,907",Province,Region X,in Pesos
+244,Annual Per Capita Poverty Threshold (in Pesos),2015,Lanao del Norte,"21,836",Province,Region X,in Pesos
+246,Annual Per Capita Poverty Threshold (in Pesos),2006,Lanao del Sur,"13,116",Province,ARMM,in Pesos
+247,Annual Per Capita Poverty Threshold (in Pesos),2009,Lanao del Sur,"17,024",Province,ARMM,in Pesos
+248,Annual Per Capita Poverty Threshold (in Pesos),2012,Lanao del Sur,"22,665",Province,ARMM,in Pesos
+249,Annual Per Capita Poverty Threshold (in Pesos),2015,Lanao del Sur,"22,802",Province,ARMM,in Pesos
+251,Annual Per Capita Poverty Threshold (in Pesos),2006,Leyte,"12,493",Province,Region VIII,in Pesos
+252,Annual Per Capita Poverty Threshold (in Pesos),2009,Leyte,"16,255",Province,Region VIII,in Pesos
+253,Annual Per Capita Poverty Threshold (in Pesos),2012,Leyte,"17,561",Province,Region VIII,in Pesos
+254,Annual Per Capita Poverty Threshold (in Pesos),2015,Leyte,"20,807",Province,Region VIII,in Pesos
+256,Annual Per Capita Poverty Threshold (in Pesos),2006,Maguindanao,"12,877",Province,ARMM,in Pesos
+257,Annual Per Capita Poverty Threshold (in Pesos),2009,Maguindanao,"16,701",Province,ARMM,in Pesos
+258,Annual Per Capita Poverty Threshold (in Pesos),2012,Maguindanao,"18,873",Province,ARMM,in Pesos
+259,Annual Per Capita Poverty Threshold (in Pesos),2015,Maguindanao,"21,423",Province,ARMM,in Pesos
+261,Annual Per Capita Poverty Threshold (in Pesos),2006,Marinduque,"12,909",Province,Region IV-B,in Pesos
+262,Annual Per Capita Poverty Threshold (in Pesos),2009,Marinduque,"15,678",Province,Region IV-B,in Pesos
+263,Annual Per Capita Poverty Threshold (in Pesos),2012,Marinduque,"17,180",Province,Region IV-B,in Pesos
+264,Annual Per Capita Poverty Threshold (in Pesos),2015,Marinduque,"19,722",Province,Region IV-B,in Pesos
+266,Annual Per Capita Poverty Threshold (in Pesos),2006,Masbate,"12,866",Province,Region V,in Pesos
+267,Annual Per Capita Poverty Threshold (in Pesos),2009,Masbate,"16,415",Province,Region V,in Pesos
+268,Annual Per Capita Poverty Threshold (in Pesos),2012,Masbate,"17,487",Province,Region V,in Pesos
+269,Annual Per Capita Poverty Threshold (in Pesos),2015,Masbate,"20,406",Province,Region V,in Pesos
+271,Annual Per Capita Poverty Threshold (in Pesos),2006,Misamis Occidental,"12,199",Province,Region X,in Pesos
+272,Annual Per Capita Poverty Threshold (in Pesos),2009,Misamis Occidental,"15,966",Province,Region X,in Pesos
+273,Annual Per Capita Poverty Threshold (in Pesos),2012,Misamis Occidental,"18,127",Province,Region X,in Pesos
+274,Annual Per Capita Poverty Threshold (in Pesos),2015,Misamis Occidental,"20,376",Province,Region X,in Pesos
+276,Annual Per Capita Poverty Threshold (in Pesos),2006,Misamis Oriental,"13,430",Province,Region X,in Pesos
+277,Annual Per Capita Poverty Threshold (in Pesos),2009,Misamis Oriental,"17,539",Province,Region X,in Pesos
+278,Annual Per Capita Poverty Threshold (in Pesos),2012,Misamis Oriental,"18,938",Province,Region X,in Pesos
+279,Annual Per Capita Poverty Threshold (in Pesos),2015,Misamis Oriental,"21,299",Province,Region X,in Pesos
+281,Annual Per Capita Poverty Threshold (in Pesos),2006,Mt. Province,"14,910",Province,CAR,in Pesos
+282,Annual Per Capita Poverty Threshold (in Pesos),2009,Mt. Province,"18,118",Province,CAR,in Pesos
+283,Annual Per Capita Poverty Threshold (in Pesos),2012,Mt. Province,"21,138",Province,CAR,in Pesos
+284,Annual Per Capita Poverty Threshold (in Pesos),2015,Mt. Province,"23,620",Province,CAR,in Pesos
+285,Annual Per Capita Poverty Threshold (in Pesos),1991,NCR,"7,373",Region,NCR,in Pesos
+286,Annual Per Capita Poverty Threshold (in Pesos),2006,NCR,"15,699",Region,NCR,in Pesos
+287,Annual Per Capita Poverty Threshold (in Pesos),2009,NCR,"19,227",Region,NCR,in Pesos
+288,Annual Per Capita Poverty Threshold (in Pesos),2012,NCR,"20,344",Region,NCR,in Pesos
+289,Annual Per Capita Poverty Threshold (in Pesos),2015,NCR,"25,007",Region,NCR,in Pesos
+291,Annual Per Capita Poverty Threshold (in Pesos),2006,Negros Occidental,"11,826",Province,Region VI,in Pesos
+292,Annual Per Capita Poverty Threshold (in Pesos),2009,Negros Occidental,"14,921",Province,Region VI,in Pesos
+293,Annual Per Capita Poverty Threshold (in Pesos),2012,Negros Occidental,"17,243",Province,Region VI,in Pesos
+294,Annual Per Capita Poverty Threshold (in Pesos),2015,Negros Occidental,"20,464",Province,Region VI,in Pesos
+296,Annual Per Capita Poverty Threshold (in Pesos),2006,Negros Oriental,"11,518",Province,Region VII,in Pesos
+297,Annual Per Capita Poverty Threshold (in Pesos),2009,Negros Oriental,"13,625",Province,Region VII,in Pesos
+298,Annual Per Capita Poverty Threshold (in Pesos),2012,Negros Oriental,"18,589",Province,Region VII,in Pesos
+299,Annual Per Capita Poverty Threshold (in Pesos),2015,Negros Oriental,"22,823",Province,Region VII,in Pesos
+301,Annual Per Capita Poverty Threshold (in Pesos),2006,North Cotabato,"12,077",Province,Region XII,in Pesos
+302,Annual Per Capita Poverty Threshold (in Pesos),2009,North Cotabato,"14,862",Province,Region XII,in Pesos
+303,Annual Per Capita Poverty Threshold (in Pesos),2012,North Cotabato,"18,340",Province,Region XII,in Pesos
+304,Annual Per Capita Poverty Threshold (in Pesos),2015,North Cotabato,"20,555",Province,Region XII,in Pesos
+306,Annual Per Capita Poverty Threshold (in Pesos),2006,Northern Samar,"12,959",Province,Region VIII,in Pesos
+307,Annual Per Capita Poverty Threshold (in Pesos),2009,Northern Samar,"16,883",Province,Region VIII,in Pesos
+308,Annual Per Capita Poverty Threshold (in Pesos),2012,Northern Samar,"19,197",Province,Region VIII,in Pesos
+309,Annual Per Capita Poverty Threshold (in Pesos),2015,Northern Samar,"21,574",Province,Region VIII,in Pesos
+311,Annual Per Capita Poverty Threshold (in Pesos),2006,Nueva Ecija,"14,857",Province,Region III,in Pesos
+312,Annual Per Capita Poverty Threshold (in Pesos),2009,Nueva Ecija,"18,732",Province,Region III,in Pesos
+313,Annual Per Capita Poverty Threshold (in Pesos),2012,Nueva Ecija,"20,847",Province,Region III,in Pesos
+314,Annual Per Capita Poverty Threshold (in Pesos),2015,Nueva Ecija,"23,403",Province,Region III,in Pesos
+316,Annual Per Capita Poverty Threshold (in Pesos),2006,Nueva Vizcaya,"13,402",Province,Region II,in Pesos
+317,Annual Per Capita Poverty Threshold (in Pesos),2009,Nueva Vizcaya,"16,725",Province,Region II,in Pesos
+318,Annual Per Capita Poverty Threshold (in Pesos),2012,Nueva Vizcaya,"18,709",Province,Region II,in Pesos
+319,Annual Per Capita Poverty Threshold (in Pesos),2015,Nueva Vizcaya,"22,174",Province,Region II,in Pesos
+321,Annual Per Capita Poverty Threshold (in Pesos),2006,Occidental Mindoro,"12,725",Province,Region IV-B,in Pesos
+322,Annual Per Capita Poverty Threshold (in Pesos),2009,Occidental Mindoro,"15,937",Province,Region IV-B,in Pesos
+323,Annual Per Capita Poverty Threshold (in Pesos),2012,Occidental Mindoro,"17,412",Province,Region IV-B,in Pesos
+324,Annual Per Capita Poverty Threshold (in Pesos),2015,Occidental Mindoro,"19,994",Province,Region IV-B,in Pesos
+326,Annual Per Capita Poverty Threshold (in Pesos),2006,Oriental Mindoro,"13,396",Province,Region IV-B,in Pesos
+327,Annual Per Capita Poverty Threshold (in Pesos),2009,Oriental Mindoro,"16,710",Province,Region IV-B,in Pesos
+328,Annual Per Capita Poverty Threshold (in Pesos),2012,Oriental Mindoro,"17,415",Province,Region IV-B,in Pesos
+329,Annual Per Capita Poverty Threshold (in Pesos),2015,Oriental Mindoro,"20,410",Province,Region IV-B,in Pesos
+330,Annual Per Capita Poverty Threshold (in Pesos),1991,PHILIPPINES,"5,949",Country,Philippines,in Pesos
+331,Annual Per Capita Poverty Threshold (in Pesos),2006,PHILIPPINES,"13,357",Country,Philippines,in Pesos
+332,Annual Per Capita Poverty Threshold (in Pesos),2009,PHILIPPINES,"16,871",Country,Philippines,in Pesos
+333,Annual Per Capita Poverty Threshold (in Pesos),2012,PHILIPPINES,"18,935",Country,Philippines,in Pesos
+334,Annual Per Capita Poverty Threshold (in Pesos),2015,PHILIPPINES,"21,753",Country,Philippines,in Pesos
+336,Annual Per Capita Poverty Threshold (in Pesos),2006,Palawan,"11,521",Province,Region IV-B,in Pesos
+337,Annual Per Capita Poverty Threshold (in Pesos),2009,Palawan,"14,418",Province,Region IV-B,in Pesos
+338,Annual Per Capita Poverty Threshold (in Pesos),2012,Palawan,"16,696",Province,Region IV-B,in Pesos
+339,Annual Per Capita Poverty Threshold (in Pesos),2015,Palawan,"19,435",Province,Region IV-B,in Pesos
+341,Annual Per Capita Poverty Threshold (in Pesos),2006,Pampanga,"14,221",Province,Region III,in Pesos
+342,Annual Per Capita Poverty Threshold (in Pesos),2009,Pampanga,"17,399",Province,Region III,in Pesos
+343,Annual Per Capita Poverty Threshold (in Pesos),2012,Pampanga,"19,163",Province,Region III,in Pesos
+344,Annual Per Capita Poverty Threshold (in Pesos),2015,Pampanga,"22,474",Province,Region III,in Pesos
+346,Annual Per Capita Poverty Threshold (in Pesos),2006,Pangasinan,"13,860",Province,Region I,in Pesos
+347,Annual Per Capita Poverty Threshold (in Pesos),2009,Pangasinan,"17,043",Province,Region I,in Pesos
+348,Annual Per Capita Poverty Threshold (in Pesos),2012,Pangasinan,"17,949",Province,Region I,in Pesos
+349,Annual Per Capita Poverty Threshold (in Pesos),2015,Pangasinan,"20,444",Province,Region I,in Pesos
+351,Annual Per Capita Poverty Threshold (in Pesos),2006,Quezon,"12,784",Province,Region VI-A,in Pesos
+352,Annual Per Capita Poverty Threshold (in Pesos),2009,Quezon,"16,181",Province,Region VI-A,in Pesos
+353,Annual Per Capita Poverty Threshold (in Pesos),2012,Quezon,"18,081",Province,Region VI-A,in Pesos
+354,Annual Per Capita Poverty Threshold (in Pesos),2015,Quezon,"20,515",Province,Region VI-A,in Pesos
+356,Annual Per Capita Poverty Threshold (in Pesos),2006,Quirino,"13,183",Province,Region II,in Pesos
+357,Annual Per Capita Poverty Threshold (in Pesos),2009,Quirino,"16,396",Province,Region II,in Pesos
+358,Annual Per Capita Poverty Threshold (in Pesos),2012,Quirino,"19,014",Province,Region II,in Pesos
+359,Annual Per Capita Poverty Threshold (in Pesos),2015,Quirino,"20,941",Province,Region II,in Pesos
+360,Annual Per Capita Poverty Threshold (in Pesos),1991,Region I,"6,371",Region,Region I,in Pesos
+361,Annual Per Capita Poverty Threshold (in Pesos),2006,Region I,"14,107",Region,Region I,in Pesos
+362,Annual Per Capita Poverty Threshold (in Pesos),2009,Region I,"17,595",Region,Region I,in Pesos
+363,Annual Per Capita Poverty Threshold (in Pesos),2012,Region I,"18,373",Region,Region I,in Pesos
+364,Annual Per Capita Poverty Threshold (in Pesos),2015,Region I,"20,488",Region,Region I,in Pesos
+365,Annual Per Capita Poverty Threshold (in Pesos),1991,Region II,"6,525",Province,Region II,in Pesos
+366,Annual Per Capita Poverty Threshold (in Pesos),2006,Region II,"13,944",Province,Region II,in Pesos
+367,Annual Per Capita Poverty Threshold (in Pesos),2009,Region II,"17,330",Province,Region II,in Pesos
+368,Annual Per Capita Poverty Threshold (in Pesos),2012,Region II,"19,125",Province,Region II,in Pesos
+369,Annual Per Capita Poverty Threshold (in Pesos),2015,Region II,"21,860",Province,Region II,in Pesos
+370,Annual Per Capita Poverty Threshold (in Pesos),1991,Region III,"6,635",Region,Region III,in Pesos
+371,Annual Per Capita Poverty Threshold (in Pesos),2006,Region III,"14,422",Region,Region III,in Pesos
+372,Annual Per Capita Poverty Threshold (in Pesos),2009,Region III,"18,188",Region,Region III,in Pesos
+373,Annual Per Capita Poverty Threshold (in Pesos),2012,Region III,"20,071",Region,Region III,in Pesos
+374,Annual Per Capita Poverty Threshold (in Pesos),2015,Region III,"23,200",Region,Region III,in Pesos
+375,Annual Per Capita Poverty Threshold (in Pesos),1991,Region IV-A,"6,409",Region,Region VI-A,in Pesos
+376,Annual Per Capita Poverty Threshold (in Pesos),2006,Region IV-A,"13,241",Region,Region VI-A,in Pesos
+377,Annual Per Capita Poverty Threshold (in Pesos),2009,Region IV-A,"17,033",Region,Region VI-A,in Pesos
+378,Annual Per Capita Poverty Threshold (in Pesos),2012,Region IV-A,"19,137",Region,Region VI-A,in Pesos
+379,Annual Per Capita Poverty Threshold (in Pesos),2015,Region IV-A,"22,121",Region,Region VI-A,in Pesos
+380,Annual Per Capita Poverty Threshold (in Pesos),1991,Region IV-B,"5,753",Region,Region IV-B,in Pesos
+381,Annual Per Capita Poverty Threshold (in Pesos),2006,Region IV-B,"12,645",Region,Region IV-B,in Pesos
+382,Annual Per Capita Poverty Threshold (in Pesos),2009,Region IV-B,"15,613",Region,Region IV-B,in Pesos
+383,Annual Per Capita Poverty Threshold (in Pesos),2012,Region IV-B,"17,292",Region,Region IV-B,in Pesos
+384,Annual Per Capita Poverty Threshold (in Pesos),2015,Region IV-B,"20,224",Region,Region IV-B,in Pesos
+385,Annual Per Capita Poverty Threshold (in Pesos),1991,Region IX,"5,330",Region,Region IX,in Pesos
+386,Annual Per Capita Poverty Threshold (in Pesos),2006,Region IX,"12,743",Region,Region IX,in Pesos
+387,Annual Per Capita Poverty Threshold (in Pesos),2009,Region IX,"16,260",Region,Region IX,in Pesos
+388,Annual Per Capita Poverty Threshold (in Pesos),2012,Region IX,"18,054",Region,Region IX,in Pesos
+389,Annual Per Capita Poverty Threshold (in Pesos),2015,Region IX,"20,925",Region,Region IX,in Pesos
+390,Annual Per Capita Poverty Threshold (in Pesos),1991,Region V,"5,807",Region,Region V,in Pesos
+391,Annual Per Capita Poverty Threshold (in Pesos),2006,Region V,"13,240",Region,Region V,in Pesos
+392,Annual Per Capita Poverty Threshold (in Pesos),2009,Region V,"16,888",Region,Region V,in Pesos
+393,Annual Per Capita Poverty Threshold (in Pesos),2012,Region V,"18,257",Region,Region V,in Pesos
+394,Annual Per Capita Poverty Threshold (in Pesos),2015,Region V,"21,476",Region,Region V,in Pesos
+395,Annual Per Capita Poverty Threshold (in Pesos),1991,Region VI,"5,580",Region,Region VI,in Pesos
+396,Annual Per Capita Poverty Threshold (in Pesos),2006,Region VI,"12,684",Region,Region VI,in Pesos
+397,Annual Per Capita Poverty Threshold (in Pesos),2009,Region VI,"15,971",Region,Region VI,in Pesos
+398,Annual Per Capita Poverty Threshold (in Pesos),2012,Region VI,"18,029",Region,Region VI,in Pesos
+399,Annual Per Capita Poverty Threshold (in Pesos),2015,Region VI,"21,070",Region,Region VI,in Pesos
+400,Annual Per Capita Poverty Threshold (in Pesos),1991,Region VII,"5,670",Region,Region VII,in Pesos
+401,Annual Per Capita Poverty Threshold (in Pesos),2006,Region VII,"13,963",Region,Region VII,in Pesos
+402,Annual Per Capita Poverty Threshold (in Pesos),2009,Region VII,"16,662",Region,Region VII,in Pesos
+403,Annual Per Capita Poverty Threshold (in Pesos),2012,Region VII,"18,767",Region,Region VII,in Pesos
+404,Annual Per Capita Poverty Threshold (in Pesos),2015,Region VII,"21,914",Region,Region VII,in Pesos
+405,Annual Per Capita Poverty Threshold (in Pesos),1991,Region VIII,"5,507",Region,Region VIII,in Pesos
+406,Annual Per Capita Poverty Threshold (in Pesos),2006,Region VIII,"12,520",Region,Region VIII,in Pesos
+407,Annual Per Capita Poverty Threshold (in Pesos),2009,Region VIII,"16,278",Region,Region VIII,in Pesos
+408,Annual Per Capita Poverty Threshold (in Pesos),2012,Region VIII,"18,076",Region,Region VIII,in Pesos
+409,Annual Per Capita Poverty Threshold (in Pesos),2015,Region VIII,"21,304",Region,Region VIII,in Pesos
+410,Annual Per Capita Poverty Threshold (in Pesos),1991,Region X,"5,529",Region,Region X,in Pesos
+411,Annual Per Capita Poverty Threshold (in Pesos),2006,Region X,"12,917",Region,Region X,in Pesos
+412,Annual Per Capita Poverty Threshold (in Pesos),2009,Region X,"16,878",Region,Region X,in Pesos
+413,Annual Per Capita Poverty Threshold (in Pesos),2012,Region X,"19,335",Region,Region X,in Pesos
+414,Annual Per Capita Poverty Threshold (in Pesos),2015,Region X,"22,345",Region,Region X,in Pesos
+415,Annual Per Capita Poverty Threshold (in Pesos),1991,Region XI,"5,653",Region,Region XI,in Pesos
+416,Annual Per Capita Poverty Threshold (in Pesos),2006,Region XI,"13,389",Region,Region XI,in Pesos
+417,Annual Per Capita Poverty Threshold (in Pesos),2009,Region XI,"17,120",Region,Region XI,in Pesos
+418,Annual Per Capita Poverty Threshold (in Pesos),2012,Region XI,"19,967",Region,Region XI,in Pesos
+419,Annual Per Capita Poverty Threshold (in Pesos),2015,Region XI,"22,754",Region,Region XI,in Pesos
+420,Annual Per Capita Poverty Threshold (in Pesos),1991,Region XII,"6,272",Region,Region XII,in Pesos
+421,Annual Per Capita Poverty Threshold (in Pesos),2006,Region XII,"13,319",Region,Region XII,in Pesos
+422,Annual Per Capita Poverty Threshold (in Pesos),2009,Region XII,"16,405",Region,Region XII,in Pesos
+423,Annual Per Capita Poverty Threshold (in Pesos),2012,Region XII,"18,737",Region,Region XII,in Pesos
+424,Annual Per Capita Poverty Threshold (in Pesos),2015,Region XII,"21,025",Region,Region XII,in Pesos
+426,Annual Per Capita Poverty Threshold (in Pesos),2006,Rizal,"14,525",Province,Region VI-A,in Pesos
+427,Annual Per Capita Poverty Threshold (in Pesos),2009,Rizal,"18,397",Province,Region VI-A,in Pesos
+428,Annual Per Capita Poverty Threshold (in Pesos),2012,Rizal,"20,306",Province,Region VI-A,in Pesos
+429,Annual Per Capita Poverty Threshold (in Pesos),2015,Rizal,"24,198",Province,Region VI-A,in Pesos
+431,Annual Per Capita Poverty Threshold (in Pesos),2006,Romblon,"12,811",Province,Region IV-B,in Pesos
+432,Annual Per Capita Poverty Threshold (in Pesos),2009,Romblon,"15,547",Province,Region IV-B,in Pesos
+433,Annual Per Capita Poverty Threshold (in Pesos),2012,Romblon,"18,464",Province,Region IV-B,in Pesos
+434,Annual Per Capita Poverty Threshold (in Pesos),2015,Romblon,"21,601",Province,Region IV-B,in Pesos
+436,Annual Per Capita Poverty Threshold (in Pesos),2006,Saranggani,"13,059",Province,Region XII,in Pesos
+437,Annual Per Capita Poverty Threshold (in Pesos),2009,Saranggani,"16,053",Province,Region XII,in Pesos
+438,Annual Per Capita Poverty Threshold (in Pesos),2012,Saranggani,"18,640",Province,Region XII,in Pesos
+439,Annual Per Capita Poverty Threshold (in Pesos),2015,Saranggani,"20,753",Province,Region XII,in Pesos
+446,Annual Per Capita Poverty Threshold (in Pesos),2006,Sorsogon,"12,905",Province,Region V,in Pesos
+447,Annual Per Capita Poverty Threshold (in Pesos),2009,Sorsogon,"16,484",Province,Region V,in Pesos
+448,Annual Per Capita Poverty Threshold (in Pesos),2012,Sorsogon,"17,535",Province,Region V,in Pesos
+449,Annual Per Capita Poverty Threshold (in Pesos),2015,Sorsogon,"20,480",Province,Region V,in Pesos
+451,Annual Per Capita Poverty Threshold (in Pesos),2006,South Cotabato,"13,889",Province,Region XII,in Pesos
+452,Annual Per Capita Poverty Threshold (in Pesos),2009,South Cotabato,"17,141",Province,Region XII,in Pesos
+453,Annual Per Capita Poverty Threshold (in Pesos),2012,South Cotabato,"19,847",Province,Region XII,in Pesos
+454,Annual Per Capita Poverty Threshold (in Pesos),2015,South Cotabato,"22,147",Province,Region XII,in Pesos
+456,Annual Per Capita Poverty Threshold (in Pesos),2006,Southern Leyte,"12,830",Province,Region VIII,in Pesos
+457,Annual Per Capita Poverty Threshold (in Pesos),2009,Southern Leyte,"16,688",Province,Region VIII,in Pesos
+458,Annual Per Capita Poverty Threshold (in Pesos),2012,Southern Leyte,"19,431",Province,Region VIII,in Pesos
+459,Annual Per Capita Poverty Threshold (in Pesos),2015,Southern Leyte,"23,318",Province,Region VIII,in Pesos
+461,Annual Per Capita Poverty Threshold (in Pesos),2006,Sultan Kudarat,"13,766",Province,Region XII,in Pesos
+462,Annual Per Capita Poverty Threshold (in Pesos),2009,Sultan Kudarat,"16,965",Province,Region XII,in Pesos
+463,Annual Per Capita Poverty Threshold (in Pesos),2012,Sultan Kudarat,"17,597",Province,Region XII,in Pesos
+464,Annual Per Capita Poverty Threshold (in Pesos),2015,Sultan Kudarat,"20,620",Province,Region XII,in Pesos
+466,Annual Per Capita Poverty Threshold (in Pesos),2006,Sulu,"13,330",Province,ARMM,in Pesos
+467,Annual Per Capita Poverty Threshold (in Pesos),2009,Sulu,"17,240",Province,ARMM,in Pesos
+468,Annual Per Capita Poverty Threshold (in Pesos),2012,Sulu,"20,477",Province,ARMM,in Pesos
+469,Annual Per Capita Poverty Threshold (in Pesos),2015,Sulu,"20,778",Province,ARMM,in Pesos
+471,Annual Per Capita Poverty Threshold (in Pesos),2006,Surigao Del Norte,"13,771",Province,CARAGA,in Pesos
+472,Annual Per Capita Poverty Threshold (in Pesos),2009,Surigao Del Norte,"17,595",Province,CARAGA,in Pesos
+473,Annual Per Capita Poverty Threshold (in Pesos),2012,Surigao Del Norte,"20,566",Province,CARAGA,in Pesos
+474,Annual Per Capita Poverty Threshold (in Pesos),2015,Surigao Del Norte,"23,057",Province,CARAGA,in Pesos
+476,Annual Per Capita Poverty Threshold (in Pesos),2006,Surigao Del Sur,"13,605",Province,CARAGA,in Pesos
+477,Annual Per Capita Poverty Threshold (in Pesos),2009,Surigao Del Sur,"17,398",Province,CARAGA,in Pesos
+478,Annual Per Capita Poverty Threshold (in Pesos),2012,Surigao Del Sur,"19,287",Province,CARAGA,in Pesos
+479,Annual Per Capita Poverty Threshold (in Pesos),2015,Surigao Del Sur,"22,759",Province,CARAGA,in Pesos
+481,Annual Per Capita Poverty Threshold (in Pesos),2006,Tarlac,"13,958",Province,Region III,in Pesos
+482,Annual Per Capita Poverty Threshold (in Pesos),2009,Tarlac,"17,559",Province,Region III,in Pesos
+483,Annual Per Capita Poverty Threshold (in Pesos),2012,Tarlac,"18,810",Province,Region III,in Pesos
+484,Annual Per Capita Poverty Threshold (in Pesos),2015,Tarlac,"23,008",Province,Region III,in Pesos
+486,Annual Per Capita Poverty Threshold (in Pesos),2006,Tawi-tawi,"11,557",Province,ARMM,in Pesos
+487,Annual Per Capita Poverty Threshold (in Pesos),2009,Tawi-tawi,"14,659",Province,ARMM,in Pesos
+488,Annual Per Capita Poverty Threshold (in Pesos),2012,Tawi-tawi,"17,406",Province,ARMM,in Pesos
+489,Annual Per Capita Poverty Threshold (in Pesos),2015,Tawi-tawi,"16,586",Province,ARMM,in Pesos
+491,Annual Per Capita Poverty Threshold (in Pesos),2006,Western Samar,"11,607",Province,Region VIII,in Pesos
+492,Annual Per Capita Poverty Threshold (in Pesos),2009,Western Samar,"15,091",Province,Region VIII,in Pesos
+493,Annual Per Capita Poverty Threshold (in Pesos),2012,Western Samar,"15,891",Province,Region VIII,in Pesos
+494,Annual Per Capita Poverty Threshold (in Pesos),2015,Western Samar,"20,139",Province,Region VIII,in Pesos
+496,Annual Per Capita Poverty Threshold (in Pesos),2006,Zambales,"14,580",Province,Region III,in Pesos
+497,Annual Per Capita Poverty Threshold (in Pesos),2009,Zambales,"18,448",Province,Region III,in Pesos
+498,Annual Per Capita Poverty Threshold (in Pesos),2012,Zambales,"21,885",Province,Region III,in Pesos
+499,Annual Per Capita Poverty Threshold (in Pesos),2015,Zambales,"26,473",Province,Region III,in Pesos
+501,Annual Per Capita Poverty Threshold (in Pesos),2006,Zamboanga Sibugay,"13,389",Province,Region IX,in Pesos
+502,Annual Per Capita Poverty Threshold (in Pesos),2009,Zamboanga Sibugay,"17,046",Province,Region IX,in Pesos
+503,Annual Per Capita Poverty Threshold (in Pesos),2012,Zamboanga Sibugay,"17,338",Province,Region IX,in Pesos
+504,Annual Per Capita Poverty Threshold (in Pesos),2015,Zamboanga Sibugay,"20,551",Province,Region IX,in Pesos
+506,Annual Per Capita Poverty Threshold (in Pesos),2006,Zamboanga del Norte,"13,464",Province,Region IX,in Pesos
+507,Annual Per Capita Poverty Threshold (in Pesos),2009,Zamboanga del Norte,"17,184",Province,Region IX,in Pesos
+508,Annual Per Capita Poverty Threshold (in Pesos),2012,Zamboanga del Norte,"18,483",Province,Region IX,in Pesos
+509,Annual Per Capita Poverty Threshold (in Pesos),2015,Zamboanga del Norte,"21,725",Province,Region IX,in Pesos
+511,Annual Per Capita Poverty Threshold (in Pesos),2006,Zamboanga del Sur,"11,508",Province,Region IX,in Pesos
+512,Annual Per Capita Poverty Threshold (in Pesos),2009,Zamboanga del Sur,"14,679",Province,Region IX,in Pesos
+513,Annual Per Capita Poverty Threshold (in Pesos),2012,Zamboanga del Sur,"17,961",Province,Region IX,in Pesos
+514,Annual Per Capita Poverty Threshold (in Pesos),2015,Zamboanga del Sur,"20,095",Province,Region IX,in Pesos

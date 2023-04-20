@@ -1,0 +1,516 @@
+﻿,Variable,Year,province,value,adm_level,region,unit
+15,Poverty Incidence among Population (%),1991,1st District,,District,NCR,%
+16,Poverty Incidence among Population (%),2006,1st District,4.9,District,NCR,%
+17,Poverty Incidence among Population (%),2009,1st District,5.1,District,NCR,%
+18,Poverty Incidence among Population (%),2012,1st District,6.2,District,NCR,%
+19,Poverty Incidence among Population (%),2015,1st District,5.1,District,NCR,%
+50,Poverty Incidence among Population (%),1991,2nd District,,District,NCR,%
+51,Poverty Incidence among Population (%),2006,2nd District,4.9,District,NCR,%
+52,Poverty Incidence among Population (%),2009,2nd District,3.3,District,NCR,%
+53,Poverty Incidence among Population (%),2012,2nd District,2.4,District,NCR,%
+54,Poverty Incidence among Population (%),2015,2nd District,2.9,District,NCR,%
+85,Poverty Incidence among Population (%),1991,3rd District,,District,NCR,%
+86,Poverty Incidence among Population (%),2006,3rd District,4.6,District,NCR,%
+87,Poverty Incidence among Population (%),2009,3rd District,4.5,District,NCR,%
+88,Poverty Incidence among Population (%),2012,3rd District,3.8,District,NCR,%
+89,Poverty Incidence among Population (%),2015,3rd District,4.1,District,NCR,%
+120,Poverty Incidence among Population (%),1991,4th District,,District,NCR,%
+121,Poverty Incidence among Population (%),2006,4th District,4.4,District,NCR,%
+122,Poverty Incidence among Population (%),2009,4th District,2.4,District,NCR,%
+123,Poverty Incidence among Population (%),2012,4th District,4.8,District,NCR,%
+124,Poverty Incidence among Population (%),2015,4th District,4.5,District,NCR,%
+155,Poverty Incidence among Population (%),1991,ARMM,30.5,Region,ARMM,%
+156,Poverty Incidence among Population (%),2006,ARMM,47.1,Region,ARMM,%
+157,Poverty Incidence among Population (%),2009,ARMM,47.4,Region,ARMM,%
+158,Poverty Incidence among Population (%),2012,ARMM,55.8,Region,ARMM,%
+159,Poverty Incidence among Population (%),2015,ARMM,53.7,Region,ARMM,%
+190,Poverty Incidence among Population (%),1991,Abra,,Province,CAR,%
+191,Poverty Incidence among Population (%),2006,Abra,49.3,Province,CAR,%
+192,Poverty Incidence among Population (%),2009,Abra,48.8,Province,CAR,%
+193,Poverty Incidence among Population (%),2012,Abra,37.4,Province,CAR,%
+194,Poverty Incidence among Population (%),2015,Abra,28.9,Province,CAR,%
+225,Poverty Incidence among Population (%),1991,Agusan del Norte,,Province,CARAGA,%
+226,Poverty Incidence among Population (%),2006,Agusan del Norte,44.1,Province,CARAGA,%
+227,Poverty Incidence among Population (%),2009,Agusan del Norte,45.9,Province,CARAGA,%
+228,Poverty Incidence among Population (%),2012,Agusan del Norte,34.7,Province,CARAGA,%
+229,Poverty Incidence among Population (%),2015,Agusan del Norte,34.9,Province,CARAGA,%
+260,Poverty Incidence among Population (%),1991,Agusan del Sur,,Province,CARAGA,%
+261,Poverty Incidence among Population (%),2006,Agusan del Sur,53.8,Province,CARAGA,%
+262,Poverty Incidence among Population (%),2009,Agusan del Sur,60,Province,CARAGA,%
+263,Poverty Incidence among Population (%),2012,Agusan del Sur,48.1,Province,CARAGA,%
+264,Poverty Incidence among Population (%),2015,Agusan del Sur,47.3,Province,CARAGA,%
+295,Poverty Incidence among Population (%),1991,Aklan,,Province,Region VI,%
+296,Poverty Incidence among Population (%),2006,Aklan,41.8,Province,Region VI,%
+297,Poverty Incidence among Population (%),2009,Aklan,44.7,Province,Region VI,%
+298,Poverty Incidence among Population (%),2012,Aklan,25,Province,Region VI,%
+299,Poverty Incidence among Population (%),2015,Aklan,14.9,Province,Region VI,%
+330,Poverty Incidence among Population (%),1991,Albay,,Province,Region V,%
+331,Poverty Incidence among Population (%),2006,Albay,36.4,Province,Region V,%
+332,Poverty Incidence among Population (%),2009,Albay,36.7,Province,Region V,%
+333,Poverty Incidence among Population (%),2012,Albay,41,Province,Region V,%
+334,Poverty Incidence among Population (%),2015,Albay,25.2,Province,Region V,%
+365,Poverty Incidence among Population (%),1991,Antique,,Province,Region VI,%
+366,Poverty Incidence among Population (%),2006,Antique,51.6,Province,Region VI,%
+367,Poverty Incidence among Population (%),2009,Antique,44.3,Province,Region VI,%
+368,Poverty Incidence among Population (%),2012,Antique,30.9,Province,Region VI,%
+369,Poverty Incidence among Population (%),2015,Antique,26,Province,Region VI,%
+400,Poverty Incidence among Population (%),1991,Apayao,,Province,CAR,%
+401,Poverty Incidence among Population (%),2006,Apayao,46.8,Province,CAR,%
+402,Poverty Incidence among Population (%),2009,Apayao,45.7,Province,CAR,%
+403,Poverty Incidence among Population (%),2012,Apayao,61.4,Province,CAR,%
+404,Poverty Incidence among Population (%),2015,Apayao,34.9,Province,CAR,%
+435,Poverty Incidence among Population (%),1991,Aurora,,,,%
+436,Poverty Incidence among Population (%),2006,Aurora,30.5,,,%
+437,Poverty Incidence among Population (%),2009,Aurora,18.2,,,%
+438,Poverty Incidence among Population (%),2012,Aurora,30.8,,,%
+439,Poverty Incidence among Population (%),2015,Aurora,26.3,,,%
+470,Poverty Incidence among Population (%),1991,Basilan,,Province,ARMM,%
+471,Poverty Incidence among Population (%),2006,Basilan,39,Province,ARMM,%
+472,Poverty Incidence among Population (%),2009,Basilan,36.6,Province,ARMM,%
+473,Poverty Incidence among Population (%),2012,Basilan,41.2,Province,ARMM,%
+474,Poverty Incidence among Population (%),2015,Basilan,37,Province,ARMM,%
+505,Poverty Incidence among Population (%),1991,Bataan,,Province,Region III,%
+506,Poverty Incidence among Population (%),2006,Bataan,9.7,Province,Region III,%
+507,Poverty Incidence among Population (%),2009,Bataan,7.7,Province,Region III,%
+508,Poverty Incidence among Population (%),2012,Bataan,7.1,Province,Region III,%
+509,Poverty Incidence among Population (%),2015,Bataan,2,Province,Region III,%
+540,Poverty Incidence among Population (%),1991,Batanes,,,,%
+541,Poverty Incidence among Population (%),2006,Batanes,16.6,,,%
+542,Poverty Incidence among Population (%),2009,Batanes,14.4,,,%
+543,Poverty Incidence among Population (%),2012,Batanes,33.3,,,%
+544,Poverty Incidence among Population (%),2015,Batanes,0,,,%
+575,Poverty Incidence among Population (%),1991,Batangas,,Province,Region VI-A,%
+576,Poverty Incidence among Population (%),2006,Batangas,14.4,Province,Region VI-A,%
+577,Poverty Incidence among Population (%),2009,Batangas,17.1,Province,Region VI-A,%
+578,Poverty Incidence among Population (%),2012,Batangas,19,Province,Region VI-A,%
+579,Poverty Incidence among Population (%),2015,Batangas,9.3,Province,Region VI-A,%
+610,Poverty Incidence among Population (%),1991,Benguet,,Province,CAR,%
+611,Poverty Incidence among Population (%),2006,Benguet,5.8,Province,CAR,%
+612,Poverty Incidence among Population (%),2009,Benguet,6.1,Province,CAR,%
+613,Poverty Incidence among Population (%),2012,Benguet,3.7,Province,CAR,%
+614,Poverty Incidence among Population (%),2015,Benguet,3.5,Province,CAR,%
+645,Poverty Incidence among Population (%),1991,Biliran,,Province,Region VIII,%
+646,Poverty Incidence among Population (%),2006,Biliran,29.8,Province,Region VIII,%
+647,Poverty Incidence among Population (%),2009,Biliran,39.2,Province,Region VIII,%
+648,Poverty Incidence among Population (%),2012,Biliran,27.5,Province,Region VIII,%
+649,Poverty Incidence among Population (%),2015,Biliran,21.3,Province,Region VIII,%
+680,Poverty Incidence among Population (%),1991,Bohol,,Province,Region VII,%
+681,Poverty Incidence among Population (%),2006,Bohol,48.2,Province,Region VII,%
+682,Poverty Incidence among Population (%),2009,Bohol,43.7,Province,Region VII,%
+683,Poverty Incidence among Population (%),2012,Bohol,36.8,Province,Region VII,%
+684,Poverty Incidence among Population (%),2015,Bohol,26,Province,Region VII,%
+715,Poverty Incidence among Population (%),1991,Bukidnon,,Province,Region X,%
+716,Poverty Incidence among Population (%),2006,Bukidnon,43.6,Province,Region X,%
+717,Poverty Incidence among Population (%),2009,Bukidnon,46,Province,Region X,%
+718,Poverty Incidence among Population (%),2012,Bukidnon,49,Province,Region X,%
+719,Poverty Incidence among Population (%),2015,Bukidnon,53.6,Province,Region X,%
+750,Poverty Incidence among Population (%),1991,Bulacan,,Province,Region III,%
+751,Poverty Incidence among Population (%),2006,Bulacan,7.3,Province,Region III,%
+752,Poverty Incidence among Population (%),2009,Bulacan,6.9,Province,Region III,%
+753,Poverty Incidence among Population (%),2012,Bulacan,7.3,Province,Region III,%
+754,Poverty Incidence among Population (%),2015,Bulacan,4.5,Province,Region III,%
+785,Poverty Incidence among Population (%),1991,CAR,42.7,Region,CAR,%
+786,Poverty Incidence among Population (%),2006,CAR,26,Region,CAR,%
+787,Poverty Incidence among Population (%),2009,CAR,25.1,Region,CAR,%
+788,Poverty Incidence among Population (%),2012,CAR,22.8,Region,CAR,%
+789,Poverty Incidence among Population (%),2015,CAR,19.7,Region,CAR,%
+820,Poverty Incidence among Population (%),1991,Cagayan,,Province,Region II,%
+821,Poverty Incidence among Population (%),2006,Cagayan,29.6,Province,Region II,%
+822,Poverty Incidence among Population (%),2009,Cagayan,27.8,Province,Region II,%
+823,Poverty Incidence among Population (%),2012,Cagayan,19.7,Province,Region II,%
+824,Poverty Incidence among Population (%),2015,Cagayan,15.9,Province,Region II,%
+855,Poverty Incidence among Population (%),1991,Camarines Norte,,Province,Region V,%
+856,Poverty Incidence among Population (%),2006,Camarines Norte,41.1,Province,Region V,%
+857,Poverty Incidence among Population (%),2009,Camarines Norte,41.8,Province,Region V,%
+858,Poverty Incidence among Population (%),2012,Camarines Norte,28.7,Province,Region V,%
+859,Poverty Incidence among Population (%),2015,Camarines Norte,36.4,Province,Region V,%
+890,Poverty Incidence among Population (%),1991,Camarines Sur,,Province,Region V,%
+891,Poverty Incidence among Population (%),2006,Camarines Sur,47.8,Province,Region V,%
+892,Poverty Incidence among Population (%),2009,Camarines Sur,47.9,Province,Region V,%
+893,Poverty Incidence among Population (%),2012,Camarines Sur,41.2,Province,Region V,%
+894,Poverty Incidence among Population (%),2015,Camarines Sur,35.2,Province,Region V,%
+925,Poverty Incidence among Population (%),1991,Camiguin,,,,%
+926,Poverty Incidence among Population (%),2006,Camiguin,34.6,,,%
+927,Poverty Incidence among Population (%),2009,Camiguin,25.5,,,%
+928,Poverty Incidence among Population (%),2012,Camiguin,53.6,,,%
+929,Poverty Incidence among Population (%),2015,Camiguin,34,,,%
+960,Poverty Incidence among Population (%),1991,Capiz,,Province,Region VI,%
+961,Poverty Incidence among Population (%),2006,Capiz,29.9,Province,Region VI,%
+962,Poverty Incidence among Population (%),2009,Capiz,29,Province,Region VI,%
+963,Poverty Incidence among Population (%),2012,Capiz,27.8,Province,Region VI,%
+964,Poverty Incidence among Population (%),2015,Capiz,12.9,Province,Region VI,%
+995,Poverty Incidence among Population (%),1991,Caraga,54.3,Region,CARAGA,%
+996,Poverty Incidence among Population (%),2006,Caraga,49.2,Region,CARAGA,%
+997,Poverty Incidence among Population (%),2009,Caraga,54.4,Region,CARAGA,%
+998,Poverty Incidence among Population (%),2012,Caraga,40.3,Region,CARAGA,%
+999,Poverty Incidence among Population (%),2015,Caraga,39.1,Region,CARAGA,%
+1030,Poverty Incidence among Population (%),1991,Catanduanes,,Province,Region V,%
+1031,Poverty Incidence among Population (%),2006,Catanduanes,41.4,Province,Region V,%
+1032,Poverty Incidence among Population (%),2009,Catanduanes,29.1,Province,Region V,%
+1033,Poverty Incidence among Population (%),2012,Catanduanes,33.8,Province,Region V,%
+1034,Poverty Incidence among Population (%),2015,Catanduanes,43.4,Province,Region V,%
+1065,Poverty Incidence among Population (%),1991,Cavite,,Province,Region VI-A,%
+1066,Poverty Incidence among Population (%),2006,Cavite,1.8,Province,Region VI-A,%
+1067,Poverty Incidence among Population (%),2009,Cavite,3.2,Province,Region VI-A,%
+1068,Poverty Incidence among Population (%),2012,Cavite,3.4,Province,Region VI-A,%
+1069,Poverty Incidence among Population (%),2015,Cavite,6.8,Province,Region VI-A,%
+1100,Poverty Incidence among Population (%),1991,Cebu,,Province,Region VII,%
+1101,Poverty Incidence among Population (%),2006,Cebu,30.4,Province,Region VII,%
+1102,Poverty Incidence among Population (%),2009,Cebu,26.8,Province,Region VII,%
+1103,Poverty Incidence among Population (%),2012,Cebu,22.7,Province,Region VII,%
+1104,Poverty Incidence among Population (%),2015,Cebu,21.4,Province,Region VII,%
+1135,Poverty Incidence among Population (%),1991,Compostela Valley,,Province,Region XI,%
+1136,Poverty Incidence among Population (%),2006,Compostela Valley,37.7,Province,Region XI,%
+1137,Poverty Incidence among Population (%),2009,Compostela Valley,36.6,Province,Region XI,%
+1138,Poverty Incidence among Population (%),2012,Compostela Valley,36.7,Province,Region XI,%
+1139,Poverty Incidence among Population (%),2015,Compostela Valley,28.1,Province,Region XI,%
+1170,Poverty Incidence among Population (%),1991,"Cotabato City,",,,,%
+1171,Poverty Incidence among Population (%),2006,"Cotabato City,",34.4,,,%
+1172,Poverty Incidence among Population (%),2009,"Cotabato City,",34,,,%
+1173,Poverty Incidence among Population (%),2012,"Cotabato City,",44.3,,,%
+1174,Poverty Incidence among Population (%),2015,"Cotabato City,",31.6,,,%
+1205,Poverty Incidence among Population (%),1991,Davao Oriental,,Province,Region XI,%
+1206,Poverty Incidence among Population (%),2006,Davao Oriental,50.5,Province,Region XI,%
+1207,Poverty Incidence among Population (%),2009,Davao Oriental,54.4,Province,Region XI,%
+1208,Poverty Incidence among Population (%),2012,Davao Oriental,45.8,Province,Region XI,%
+1209,Poverty Incidence among Population (%),2015,Davao Oriental,29.9,Province,Region XI,%
+1240,Poverty Incidence among Population (%),1991,Davao del Norte,,Province,Region XI,%
+1241,Poverty Incidence among Population (%),2006,Davao del Norte,31.7,Province,Region XI,%
+1242,Poverty Incidence among Population (%),2009,Davao del Norte,32,Province,Region XI,%
+1243,Poverty Incidence among Population (%),2012,Davao del Norte,33.4,Province,Region XI,%
+1244,Poverty Incidence among Population (%),2015,Davao del Norte,33.2,Province,Region XI,%
+1275,Poverty Incidence among Population (%),1991,Davao del Sur,,Province,Region XI,%
+1276,Poverty Incidence among Population (%),2006,Davao del Sur,23.7,Province,Region XI,%
+1277,Poverty Incidence among Population (%),2009,Davao del Sur,24.8,Province,Region XI,%
+1278,Poverty Incidence among Population (%),2012,Davao del Sur,24.4,Province,Region XI,%
+1279,Poverty Incidence among Population (%),2015,Davao del Sur,15.6,Province,Region XI,%
+1310,Poverty Incidence among Population (%),1991,Eastern Samar,,Province,Region VIII,%
+1311,Poverty Incidence among Population (%),2006,Eastern Samar,51.3,Province,Region VIII,%
+1312,Poverty Incidence among Population (%),2009,Eastern Samar,56.4,Province,Region VIII,%
+1313,Poverty Incidence among Population (%),2012,Eastern Samar,63.7,Province,Region VIII,%
+1314,Poverty Incidence among Population (%),2015,Eastern Samar,46.3,Province,Region VIII,%
+1345,Poverty Incidence among Population (%),1991,"Guimaras,",,,,%
+1346,Poverty Incidence among Population (%),2006,"Guimaras,",25.3,,,%
+1347,Poverty Incidence among Population (%),2009,"Guimaras,",20.7,,,%
+1348,Poverty Incidence among Population (%),2012,"Guimaras,",25.2,,,%
+1349,Poverty Incidence among Population (%),2015,"Guimaras,",5.2,,,%
+1380,Poverty Incidence among Population (%),1991,Ifugao,,Province,CAR,%
+1381,Poverty Incidence among Population (%),2006,Ifugao,28,Province,CAR,%
+1382,Poverty Incidence among Population (%),2009,Ifugao,32.1,Province,CAR,%
+1383,Poverty Incidence among Population (%),2012,Ifugao,42.4,Province,CAR,%
+1384,Poverty Incidence among Population (%),2015,Ifugao,32.5,Province,CAR,%
+1415,Poverty Incidence among Population (%),1991,Ilocos Norte,,Province,Region I,%
+1416,Poverty Incidence among Population (%),2006,Ilocos Norte,17.7,Province,Region I,%
+1417,Poverty Incidence among Population (%),2009,Ilocos Norte,14.7,Province,Region I,%
+1418,Poverty Incidence among Population (%),2012,Ilocos Norte,9.9,Province,Region I,%
+1419,Poverty Incidence among Population (%),2015,Ilocos Norte,5.3,Province,Region I,%
+1450,Poverty Incidence among Population (%),1991,Ilocos Sur,,Province,Region I,%
+1451,Poverty Incidence among Population (%),2006,Ilocos Sur,20.8,Province,Region I,%
+1452,Poverty Incidence among Population (%),2009,Ilocos Sur,18.1,Province,Region I,%
+1453,Poverty Incidence among Population (%),2012,Ilocos Sur,17.3,Province,Region I,%
+1454,Poverty Incidence among Population (%),2015,Ilocos Sur,12.1,Province,Region I,%
+1485,Poverty Incidence among Population (%),1991,Iloilo,,Province,Region VI,%
+1486,Poverty Incidence among Population (%),2006,Iloilo,21.8,Province,Region VI,%
+1487,Poverty Incidence among Population (%),2009,Iloilo,26.6,Province,Region VI,%
+1488,Poverty Incidence among Population (%),2012,Iloilo,26.2,Province,Region VI,%
+1489,Poverty Incidence among Population (%),2015,Iloilo,20,Province,Region VI,%
+1520,Poverty Incidence among Population (%),1991,Isabela,,Province,Region II,%
+1521,Poverty Incidence among Population (%),2006,Isabela,29.6,Province,Region II,%
+1522,Poverty Incidence among Population (%),2009,Isabela,28.9,Province,Region II,%
+1523,Poverty Incidence among Population (%),2012,Isabela,24.4,Province,Region II,%
+1524,Poverty Incidence among Population (%),2015,Isabela,15.2,Province,Region II,%
+1555,Poverty Incidence among Population (%),1991,"Isabela City,",,,,%
+1556,Poverty Incidence among Population (%),2006,"Isabela City,",41.9,,,%
+1557,Poverty Incidence among Population (%),2009,"Isabela City,",27.4,,,%
+1558,Poverty Incidence among Population (%),2012,"Isabela City,",22.1,,,%
+1559,Poverty Incidence among Population (%),2015,"Isabela City,",25.1,,,%
+1590,Poverty Incidence among Population (%),1991,Kalinga,,Province,CAR,%
+1591,Poverty Incidence among Population (%),2006,Kalinga,47.3,Province,CAR,%
+1592,Poverty Incidence among Population (%),2009,Kalinga,30.1,Province,CAR,%
+1593,Poverty Incidence among Population (%),2012,Kalinga,26.8,Province,CAR,%
+1594,Poverty Incidence among Population (%),2015,Kalinga,34.9,Province,CAR,%
+1625,Poverty Incidence among Population (%),1991,La Union,,Province,Region I,%
+1626,Poverty Incidence among Population (%),2006,La Union,26,Province,Region I,%
+1627,Poverty Incidence among Population (%),2009,La Union,29.3,Province,Region I,%
+1628,Poverty Incidence among Population (%),2012,La Union,18.5,Province,Region I,%
+1629,Poverty Incidence among Population (%),2015,La Union,12.2,Province,Region I,%
+1660,Poverty Incidence among Population (%),1991,Laguna,,Province,Region VI-A,%
+1661,Poverty Incidence among Population (%),2006,Laguna,5.5,Province,Region VI-A,%
+1662,Poverty Incidence among Population (%),2009,Laguna,8.4,Province,Region VI-A,%
+1663,Poverty Incidence among Population (%),2012,Laguna,6.4,Province,Region VI-A,%
+1664,Poverty Incidence among Population (%),2015,Laguna,5.4,Province,Region VI-A,%
+1695,Poverty Incidence among Population (%),1991,Lanao del Norte,,Province,Region X,%
+1696,Poverty Incidence among Population (%),2006,Lanao del Norte,40.7,Province,Region X,%
+1697,Poverty Incidence among Population (%),2009,Lanao del Norte,46.2,Province,Region X,%
+1698,Poverty Incidence among Population (%),2012,Lanao del Norte,49.1,Province,Region X,%
+1699,Poverty Incidence among Population (%),2015,Lanao del Norte,44.3,Province,Region X,%
+1730,Poverty Incidence among Population (%),1991,Lanao del Sur,,Province,ARMM,%
+1731,Poverty Incidence among Population (%),2006,Lanao del Sur,44.7,Province,ARMM,%
+1732,Poverty Incidence among Population (%),2009,Lanao del Sur,56.6,Province,ARMM,%
+1733,Poverty Incidence among Population (%),2012,Lanao del Sur,73.8,Province,ARMM,%
+1734,Poverty Incidence among Population (%),2015,Lanao del Sur,71.9,Province,ARMM,%
+1765,Poverty Incidence among Population (%),1991,Leyte,,Province,Region VIII,%
+1766,Poverty Incidence among Population (%),2006,Leyte,38.4,Province,Region VIII,%
+1767,Poverty Incidence among Population (%),2009,Leyte,36.3,Province,Region VIII,%
+1768,Poverty Incidence among Population (%),2012,Leyte,39.2,Province,Region VIII,%
+1769,Poverty Incidence among Population (%),2015,Leyte,31,Province,Region VIII,%
+1800,Poverty Incidence among Population (%),1991,Maguindanao,,Province,ARMM,%
+1801,Poverty Incidence among Population (%),2006,Maguindanao,54.6,Province,ARMM,%
+1802,Poverty Incidence among Population (%),2009,Maguindanao,52.2,Province,ARMM,%
+1803,Poverty Incidence among Population (%),2012,Maguindanao,63.7,Province,ARMM,%
+1804,Poverty Incidence among Population (%),2015,Maguindanao,57.2,Province,ARMM,%
+1835,Poverty Incidence among Population (%),1991,Marinduque,,Province,Region IV-B,%
+1836,Poverty Incidence among Population (%),2006,Marinduque,40.5,Province,Region IV-B,%
+1837,Poverty Incidence among Population (%),2009,Marinduque,33.6,Province,Region IV-B,%
+1838,Poverty Incidence among Population (%),2012,Marinduque,32.9,Province,Region IV-B,%
+1839,Poverty Incidence among Population (%),2015,Marinduque,16.2,Province,Region IV-B,%
+1870,Poverty Incidence among Population (%),1991,Masbate,,Province,Region V,%
+1871,Poverty Incidence among Population (%),2006,Masbate,53.6,Province,Region V,%
+1872,Poverty Incidence among Population (%),2009,Masbate,56.3,Province,Region V,%
+1873,Poverty Incidence among Population (%),2012,Masbate,51.3,Province,Region V,%
+1874,Poverty Incidence among Population (%),2015,Masbate,45.4,Province,Region V,%
+1905,Poverty Incidence among Population (%),1991,Misamis Occidental,,Province,Region X,%
+1906,Poverty Incidence among Population (%),2006,Misamis Occidental,44,Province,Region X,%
+1907,Poverty Incidence among Population (%),2009,Misamis Occidental,46.5,Province,Region X,%
+1908,Poverty Incidence among Population (%),2012,Misamis Occidental,42.8,Province,Region X,%
+1909,Poverty Incidence among Population (%),2015,Misamis Occidental,36.9,Province,Region X,%
+1940,Poverty Incidence among Population (%),1991,Misamis Oriental,,Province,Region X,%
+1941,Poverty Incidence among Population (%),2006,Misamis Oriental,32,Province,Region X,%
+1942,Poverty Incidence among Population (%),2009,Misamis Oriental,28.9,Province,Region X,%
+1943,Poverty Incidence among Population (%),2012,Misamis Oriental,23.4,Province,Region X,%
+1944,Poverty Incidence among Population (%),2015,Misamis Oriental,19.3,Province,Region X,%
+1975,Poverty Incidence among Population (%),1991,Mt. Province,,Province,CAR,%
+1976,Poverty Incidence among Population (%),2006,Mt. Province,44.1,Province,CAR,%
+1977,Poverty Incidence among Population (%),2009,Mt. Province,52.2,Province,CAR,%
+1978,Poverty Incidence among Population (%),2012,Mt. Province,37.6,Province,CAR,%
+1979,Poverty Incidence among Population (%),2015,Mt. Province,39,Province,CAR,%
+2010,Poverty Incidence among Population (%),1991,NCR,7.1,Region,NCR,%
+2011,Poverty Incidence among Population (%),2006,NCR,4.7,Region,NCR,%
+2012,Poverty Incidence among Population (%),2009,NCR,3.6,Region,NCR,%
+2013,Poverty Incidence among Population (%),2012,NCR,3.9,Region,NCR,%
+2014,Poverty Incidence among Population (%),2015,NCR,3.9,Region,NCR,%
+2045,Poverty Incidence among Population (%),1991,Negros Occidental,,Province,Region VI,%
+2046,Poverty Incidence among Population (%),2006,Negros Occidental,28.2,Province,Region VI,%
+2047,Poverty Incidence among Population (%),2009,Negros Occidental,30.4,Province,Region VI,%
+2048,Poverty Incidence among Population (%),2012,Negros Occidental,32.3,Province,Region VI,%
+2049,Poverty Incidence among Population (%),2015,Negros Occidental,29,Province,Region VI,%
+2080,Poverty Incidence among Population (%),1991,Negros Oriental,,Province,Region VII,%
+2081,Poverty Incidence among Population (%),2006,Negros Oriental,42.9,Province,Region VII,%
+2082,Poverty Incidence among Population (%),2009,Negros Oriental,33.2,Province,Region VII,%
+2083,Poverty Incidence among Population (%),2012,Negros Oriental,50.1,Province,Region VII,%
+2084,Poverty Incidence among Population (%),2015,Negros Oriental,45,Province,Region VII,%
+2115,Poverty Incidence among Population (%),1991,North Cotabato,,Province,Region XII,%
+2116,Poverty Incidence among Population (%),2006,North Cotabato,31.4,Province,Region XII,%
+2117,Poverty Incidence among Population (%),2009,North Cotabato,30.6,Province,Region XII,%
+2118,Poverty Incidence among Population (%),2012,North Cotabato,52.4,Province,Region XII,%
+2119,Poverty Incidence among Population (%),2015,North Cotabato,41.4,Province,Region XII,%
+2150,Poverty Incidence among Population (%),1991,Northern Samar,,Province,Region VIII,%
+2151,Poverty Incidence among Population (%),2006,Northern Samar,53.4,Province,Region VIII,%
+2152,Poverty Incidence among Population (%),2009,Northern Samar,52.1,Province,Region VIII,%
+2153,Poverty Incidence among Population (%),2012,Northern Samar,50.2,Province,Region VIII,%
+2154,Poverty Incidence among Population (%),2015,Northern Samar,56.2,Province,Region VIII,%
+2185,Poverty Incidence among Population (%),1991,Nueva Ecija,,Province,Region III,%
+2186,Poverty Incidence among Population (%),2006,Nueva Ecija,26.5,Province,Region III,%
+2187,Poverty Incidence among Population (%),2009,Nueva Ecija,29.9,Province,Region III,%
+2188,Poverty Incidence among Population (%),2012,Nueva Ecija,25.2,Province,Region III,%
+2189,Poverty Incidence among Population (%),2015,Nueva Ecija,22.6,Province,Region III,%
+2220,Poverty Incidence among Population (%),1991,Nueva Vizcaya,,Province,Region II,%
+2221,Poverty Incidence among Population (%),2006,Nueva Vizcaya,15,Province,Region II,%
+2222,Poverty Incidence among Population (%),2009,Nueva Vizcaya,13.3,Province,Region II,%
+2223,Poverty Incidence among Population (%),2012,Nueva Vizcaya,20.7,Province,Region II,%
+2224,Poverty Incidence among Population (%),2015,Nueva Vizcaya,13.6,Province,Region II,%
+2255,Poverty Incidence among Population (%),1991,Occidental Mindoro,,Province,Region IV-B,%
+2256,Poverty Incidence among Population (%),2006,Occidental Mindoro,43.2,Province,Region IV-B,%
+2257,Poverty Incidence among Population (%),2009,Occidental Mindoro,35.9,Province,Region IV-B,%
+2258,Poverty Incidence among Population (%),2012,Occidental Mindoro,38.1,Province,Region IV-B,%
+2259,Poverty Incidence among Population (%),2015,Occidental Mindoro,41.2,Province,Region IV-B,%
+2290,Poverty Incidence among Population (%),1991,Oriental Mindoro,,Province,Region IV-B,%
+2291,Poverty Incidence among Population (%),2006,Oriental Mindoro,43.7,Province,Region IV-B,%
+2292,Poverty Incidence among Population (%),2009,Oriental Mindoro,36.1,Province,Region IV-B,%
+2293,Poverty Incidence among Population (%),2012,Oriental Mindoro,29.3,Province,Region IV-B,%
+2294,Poverty Incidence among Population (%),2015,Oriental Mindoro,21.6,Province,Region IV-B,%
+2325,Poverty Incidence among Population (%),1991,PHILIPPINES,34.4,Country,Philippines,%
+2326,Poverty Incidence among Population (%),2006,PHILIPPINES,26.6,Country,Philippines,%
+2327,Poverty Incidence among Population (%),2009,PHILIPPINES,26.3,Country,Philippines,%
+2328,Poverty Incidence among Population (%),2012,PHILIPPINES,25.2,Country,Philippines,%
+2329,Poverty Incidence among Population (%),2015,PHILIPPINES,21.6,Country,Philippines,%
+2360,Poverty Incidence among Population (%),1991,Palawan,,Province,Region IV-B,%
+2361,Poverty Incidence among Population (%),2006,Palawan,35.2,Province,Region IV-B,%
+2362,Poverty Incidence among Population (%),2009,Palawan,30.9,Province,Region IV-B,%
+2363,Poverty Incidence among Population (%),2012,Palawan,26.4,Province,Region IV-B,%
+2364,Poverty Incidence among Population (%),2015,Palawan,17,Province,Region IV-B,%
+2395,Poverty Incidence among Population (%),1991,Pampanga,,Province,Region III,%
+2396,Poverty Incidence among Population (%),2006,Pampanga,2.7,Province,Region III,%
+2397,Poverty Incidence among Population (%),2009,Pampanga,6.9,Province,Region III,%
+2398,Poverty Incidence among Population (%),2012,Pampanga,7.6,Province,Region III,%
+2399,Poverty Incidence among Population (%),2015,Pampanga,4.9,Province,Region III,%
+2430,Poverty Incidence among Population (%),1991,Pangasinan,,Province,Region I,%
+2431,Poverty Incidence among Population (%),2006,Pangasinan,28.7,Province,Region I,%
+2432,Poverty Incidence among Population (%),2009,Pangasinan,22.3,Province,Region I,%
+2433,Poverty Incidence among Population (%),2012,Pangasinan,20.4,Province,Region I,%
+2434,Poverty Incidence among Population (%),2015,Pangasinan,15.3,Province,Region I,%
+2465,Poverty Incidence among Population (%),1991,Quezon,,Province,Region VI-A,%
+2466,Poverty Incidence among Population (%),2006,Quezon,33.5,Province,Region VI-A,%
+2467,Poverty Incidence among Population (%),2009,Quezon,29.8,Province,Region VI-A,%
+2468,Poverty Incidence among Population (%),2012,Quezon,27.5,Province,Region VI-A,%
+2469,Poverty Incidence among Population (%),2015,Quezon,22.7,Province,Region VI-A,%
+2500,Poverty Incidence among Population (%),1991,Quirino,,Province,Region II,%
+2501,Poverty Incidence among Population (%),2006,Quirino,14.6,Province,Region II,%
+2502,Poverty Incidence among Population (%),2009,Quirino,15.6,Province,Region II,%
+2503,Poverty Incidence among Population (%),2012,Quirino,21.2,Province,Region II,%
+2504,Poverty Incidence among Population (%),2015,Quirino,26.5,Province,Region II,%
+2535,Poverty Incidence among Population (%),1991,Region I,36.6,Region,Region I,%
+2536,Poverty Incidence among Population (%),2006,Region I,25.9,Region,Region I,%
+2537,Poverty Incidence among Population (%),2009,Region I,22,Region,Region I,%
+2538,Poverty Incidence among Population (%),2012,Region I,18.5,Region,Region I,%
+2539,Poverty Incidence among Population (%),2015,Region I,13.1,Region,Region I,%
+2570,Poverty Incidence among Population (%),1991,Region II,42.8,Province,Region II,%
+2571,Poverty Incidence among Population (%),2006,Region II,26.8,Province,Region II,%
+2572,Poverty Incidence among Population (%),2009,Region II,25.5,Province,Region II,%
+2573,Poverty Incidence among Population (%),2012,Region II,22.1,Province,Region II,%
+2574,Poverty Incidence among Population (%),2015,Region II,15.8,Province,Region II,%
+2605,Poverty Incidence among Population (%),1991,Region III,21.1,Region,Region III,%
+2606,Poverty Incidence among Population (%),2006,Region III,13.1,Region,Region III,%
+2607,Poverty Incidence among Population (%),2009,Region III,13.7,Region,Region III,%
+2608,Poverty Incidence among Population (%),2012,Region III,12.9,Region,Region III,%
+2609,Poverty Incidence among Population (%),2015,Region III,11.2,Region,Region III,%
+2640,Poverty Incidence among Population (%),1991,Region IV-A,22.7,Region,Region VI-A,%
+2641,Poverty Incidence among Population (%),2006,Region IV-A,10.3,Region,Region VI-A,%
+2642,Poverty Incidence among Population (%),2009,Region IV-A,11.9,Region,Region VI-A,%
+2643,Poverty Incidence among Population (%),2012,Region IV-A,10.9,Region,Region VI-A,%
+2644,Poverty Incidence among Population (%),2015,Region IV-A,9.1,Region,Region VI-A,%
+2675,Poverty Incidence among Population (%),1991,Region IV-B,44.4,Region,Region IV-B,%
+2676,Poverty Incidence among Population (%),2006,Region IV-B,40.6,Region,Region IV-B,%
+2677,Poverty Incidence among Population (%),2009,Region IV-B,34.5,Region,Region IV-B,%
+2678,Poverty Incidence among Population (%),2012,Region IV-B,31,Region,Region IV-B,%
+2679,Poverty Incidence among Population (%),2015,Region IV-B,24.4,Region,Region IV-B,%
+2710,Poverty Incidence among Population (%),1991,Region IX,40.3,Region,Region IX,%
+2711,Poverty Incidence among Population (%),2006,Region IX,45,Region,Region IX,%
+2712,Poverty Incidence among Population (%),2009,Region IX,45.8,Region,Region IX,%
+2713,Poverty Incidence among Population (%),2012,Region IX,40.1,Region,Region IX,%
+2714,Poverty Incidence among Population (%),2015,Region IX,33.9,Region,Region IX,%
+2745,Poverty Incidence among Population (%),1991,Region V,54.5,Region,Region V,%
+2746,Poverty Incidence among Population (%),2006,Region V,44.2,Region,Region V,%
+2747,Poverty Incidence among Population (%),2009,Region V,44.2,Region,Region V,%
+2748,Poverty Incidence among Population (%),2012,Region V,41.1,Region,Region V,%
+2749,Poverty Incidence among Population (%),2015,Region V,36,Region,Region V,%
+2780,Poverty Incidence among Population (%),1991,Region VI,39.6,Region,Region VI,%
+2781,Poverty Incidence among Population (%),2006,Region VI,29.1,Region,Region VI,%
+2782,Poverty Incidence among Population (%),2009,Region VI,30.8,Region,Region VI,%
+2783,Poverty Incidence among Population (%),2012,Region VI,29.1,Region,Region VI,%
+2784,Poverty Incidence among Population (%),2015,Region VI,22.4,Region,Region VI,%
+2815,Poverty Incidence among Population (%),1991,Region VII,43.6,Region,Region VII,%
+2816,Poverty Incidence among Population (%),2006,Region VII,35.9,Region,Region VII,%
+2817,Poverty Incidence among Population (%),2009,Region VII,31,Region,Region VII,%
+2818,Poverty Incidence among Population (%),2012,Region VII,30.2,Region,Region VII,%
+2819,Poverty Incidence among Population (%),2015,Region VII,27.6,Region,Region VII,%
+2850,Poverty Incidence among Population (%),1991,Region VIII,50,Region,Region VIII,%
+2851,Poverty Incidence among Population (%),2006,Region VIII,41.5,Region,Region VIII,%
+2852,Poverty Incidence among Population (%),2009,Region VIII,42.6,Region,Region VIII,%
+2853,Poverty Incidence among Population (%),2012,Region VIII,45.2,Region,Region VIII,%
+2854,Poverty Incidence among Population (%),2015,Region VIII,38.7,Region,Region VIII,%
+2885,Poverty Incidence among Population (%),1991,Region X,46.6,Region,Region X,%
+2886,Poverty Incidence among Population (%),2006,Region X,39,Region,Region X,%
+2887,Poverty Incidence among Population (%),2009,Region X,40.1,Region,Region X,%
+2888,Poverty Incidence among Population (%),2012,Region X,39.5,Region,Region X,%
+2889,Poverty Incidence among Population (%),2015,Region X,36.6,Region,Region X,%
+2920,Poverty Incidence among Population (%),1991,Region XI,39.6,Region,Region XI,%
+2921,Poverty Incidence among Population (%),2006,Region XI,30.6,Region,Region XI,%
+2922,Poverty Incidence among Population (%),2009,Region XI,31.4,Region,Region XI,%
+2923,Poverty Incidence among Population (%),2012,Region XI,30.7,Region,Region XI,%
+2924,Poverty Incidence among Population (%),2015,Region XI,22,Region,Region XI,%
+2955,Poverty Incidence among Population (%),1991,Region XII,53.3,Region,Region XII,%
+2956,Poverty Incidence among Population (%),2006,Region XII,37.9,Region,Region XII,%
+2957,Poverty Incidence among Population (%),2009,Region XII,38.3,Region,Region XII,%
+2958,Poverty Incidence among Population (%),2012,Region XII,44.7,Region,Region XII,%
+2959,Poverty Incidence among Population (%),2015,Region XII,37.3,Region,Region XII,%
+2990,Poverty Incidence among Population (%),1991,Rizal,,Province,Region VI-A,%
+2991,Poverty Incidence among Population (%),2006,Rizal,3.3,Province,Region VI-A,%
+2992,Poverty Incidence among Population (%),2009,Rizal,8.6,Province,Region VI-A,%
+2993,Poverty Incidence among Population (%),2012,Rizal,6.1,Province,Region VI-A,%
+2994,Poverty Incidence among Population (%),2015,Rizal,5.4,Province,Region VI-A,%
+3025,Poverty Incidence among Population (%),1991,Romblon,,Province,Region IV-B,%
+3026,Poverty Incidence among Population (%),2006,Romblon,46.1,Province,Region IV-B,%
+3027,Poverty Incidence among Population (%),2009,Romblon,41.9,Province,Region IV-B,%
+3028,Poverty Incidence among Population (%),2012,Romblon,40.5,Province,Region IV-B,%
+3029,Poverty Incidence among Population (%),2015,Romblon,36.6,Province,Region IV-B,%
+3060,Poverty Incidence among Population (%),1991,Saranggani,,Province,Region XII,%
+3061,Poverty Incidence among Population (%),2006,Saranggani,49,Province,Region XII,%
+3062,Poverty Incidence among Population (%),2009,Saranggani,57.7,Province,Region XII,%
+3063,Poverty Incidence among Population (%),2012,Saranggani,53.2,Province,Region XII,%
+3064,Poverty Incidence among Population (%),2015,Saranggani,55.2,Province,Region XII,%
+3095,Poverty Incidence among Population (%),1991,"Siquijor,",,,,%
+3096,Poverty Incidence among Population (%),2006,"Siquijor,",22.7,,,%
+3097,Poverty Incidence among Population (%),2009,"Siquijor,",31,,,%
+3098,Poverty Incidence among Population (%),2012,"Siquijor,",32.6,,,%
+3099,Poverty Incidence among Population (%),2015,"Siquijor,",52.9,,,%
+3130,Poverty Incidence among Population (%),1991,Sorsogon,,Province,Region V,%
+3131,Poverty Incidence among Population (%),2006,Sorsogon,41.2,Province,Region V,%
+3132,Poverty Incidence among Population (%),2009,Sorsogon,39.3,Province,Region V,%
+3133,Poverty Incidence among Population (%),2012,Sorsogon,40.7,Province,Region V,%
+3134,Poverty Incidence among Population (%),2015,Sorsogon,41.3,Province,Region V,%
+3165,Poverty Incidence among Population (%),1991,South Cotabato,,Province,Region XII,%
+3166,Poverty Incidence among Population (%),2006,South Cotabato,31.7,Province,Region XII,%
+3167,Poverty Incidence among Population (%),2009,South Cotabato,31.6,Province,Region XII,%
+3168,Poverty Incidence among Population (%),2012,South Cotabato,32,Province,Region XII,%
+3169,Poverty Incidence among Population (%),2015,South Cotabato,24.6,Province,Region XII,%
+3200,Poverty Incidence among Population (%),1991,Southern Leyte,,Province,Region VIII,%
+3201,Poverty Incidence among Population (%),2006,Southern Leyte,33.7,Province,Region VIII,%
+3202,Poverty Incidence among Population (%),2009,Southern Leyte,43.1,Province,Region VIII,%
+3203,Poverty Incidence among Population (%),2012,Southern Leyte,43.3,Province,Region VIII,%
+3204,Poverty Incidence among Population (%),2015,Southern Leyte,38,Province,Region VIII,%
+3235,Poverty Incidence among Population (%),1991,Sultan Kudarat,,Province,Region XII,%
+3236,Poverty Incidence among Population (%),2006,Sultan Kudarat,52,Province,Region XII,%
+3237,Poverty Incidence among Population (%),2009,Sultan Kudarat,51.5,Province,Region XII,%
+3238,Poverty Incidence among Population (%),2012,Sultan Kudarat,48.5,Province,Region XII,%
+3239,Poverty Incidence among Population (%),2015,Sultan Kudarat,48,Province,Region XII,%
+3270,Poverty Incidence among Population (%),1991,Sulu,,Province,ARMM,%
+3271,Poverty Incidence among Population (%),2006,Sulu,40.7,Province,ARMM,%
+3272,Poverty Incidence among Population (%),2009,Sulu,41.6,Province,ARMM,%
+3273,Poverty Incidence among Population (%),2012,Sulu,45.8,Province,ARMM,%
+3274,Poverty Incidence among Population (%),2015,Sulu,54.9,Province,ARMM,%
+3305,Poverty Incidence among Population (%),1991,Surigao Del Norte,,Province,CARAGA,%
+3306,Poverty Incidence among Population (%),2006,Surigao Del Norte,52.7,Province,CARAGA,%
+3307,Poverty Incidence among Population (%),2009,Surigao Del Norte,57.9,Province,CARAGA,%
+3308,Poverty Incidence among Population (%),2012,Surigao Del Norte,41.8,Province,CARAGA,%
+3309,Poverty Incidence among Population (%),2015,Surigao Del Norte,34.7,Province,CARAGA,%
+3340,Poverty Incidence among Population (%),1991,Surigao Del Sur,,Province,CARAGA,%
+3341,Poverty Incidence among Population (%),2006,Surigao Del Sur,46.5,Province,CARAGA,%
+3342,Poverty Incidence among Population (%),2009,Surigao Del Sur,53.7,Province,CARAGA,%
+3343,Poverty Incidence among Population (%),2012,Surigao Del Sur,36,Province,CARAGA,%
+3344,Poverty Incidence among Population (%),2015,Surigao Del Sur,40.1,Province,CARAGA,%
+3375,Poverty Incidence among Population (%),1991,Tarlac,,Province,Region III,%
+3376,Poverty Incidence among Population (%),2006,Tarlac,18.1,Province,Region III,%
+3377,Poverty Incidence among Population (%),2009,Tarlac,17.5,Province,Region III,%
+3378,Poverty Incidence among Population (%),2012,Tarlac,16.6,Province,Region III,%
+3379,Poverty Incidence among Population (%),2015,Tarlac,18.1,Province,Region III,%
+3410,Poverty Incidence among Population (%),1991,Tawi-tawi,,Province,ARMM,%
+3411,Poverty Incidence among Population (%),2006,Tawi-tawi,52.4,Province,ARMM,%
+3412,Poverty Incidence among Population (%),2009,Tawi-tawi,35.3,Province,ARMM,%
+3413,Poverty Incidence among Population (%),2012,Tawi-tawi,28.6,Province,ARMM,%
+3414,Poverty Incidence among Population (%),2015,Tawi-tawi,12.6,Province,ARMM,%
+3445,Poverty Incidence among Population (%),1991,Western Samar,,Province,Region VIII,%
+3446,Poverty Incidence among Population (%),2006,Western Samar,40.4,Province,Region VIII,%
+3447,Poverty Incidence among Population (%),2009,Western Samar,42.5,Province,Region VIII,%
+3448,Poverty Incidence among Population (%),2012,Western Samar,50,Province,Region VIII,%
+3449,Poverty Incidence among Population (%),2015,Western Samar,46.9,Province,Region VIII,%
+3480,Poverty Incidence among Population (%),1991,Zambales,,Province,Region III,%
+3481,Poverty Incidence among Population (%),2006,Zambales,23.6,Province,Region III,%
+3482,Poverty Incidence among Population (%),2009,Zambales,17.3,Province,Region III,%
+3483,Poverty Incidence among Population (%),2012,Zambales,16,Province,Region III,%
+3484,Poverty Incidence among Population (%),2015,Zambales,16.8,Province,Region III,%
+3515,Poverty Incidence among Population (%),1991,Zamboanga Sibugay,,Province,Region IX,%
+3516,Poverty Incidence among Population (%),2006,Zamboanga Sibugay,50.7,Province,Region IX,%
+3517,Poverty Incidence among Population (%),2009,Zamboanga Sibugay,52.7,Province,Region IX,%
+3518,Poverty Incidence among Population (%),2012,Zamboanga Sibugay,44.8,Province,Region IX,%
+3519,Poverty Incidence among Population (%),2015,Zamboanga Sibugay,31.7,Province,Region IX,%
+3550,Poverty Incidence among Population (%),1991,Zamboanga del Norte,,Province,Region IX,%
+3551,Poverty Incidence among Population (%),2006,Zamboanga del Norte,65.5,Province,Region IX,%
+3552,Poverty Incidence among Population (%),2009,Zamboanga del Norte,68.5,Province,Region IX,%
+3553,Poverty Incidence among Population (%),2012,Zamboanga del Norte,54.4,Province,Region IX,%
+3554,Poverty Incidence among Population (%),2015,Zamboanga del Norte,51.6,Province,Region IX,%
+3585,Poverty Incidence among Population (%),1991,Zamboanga del Sur,,Province,Region IX,%
+3586,Poverty Incidence among Population (%),2006,Zamboanga del Sur,31.7,Province,Region IX,%
+3587,Poverty Incidence among Population (%),2009,Zamboanga del Sur,31.6,Province,Region IX,%
+3588,Poverty Incidence among Population (%),2012,Zamboanga del Sur,32,Province,Region IX,%
+3589,Poverty Incidence among Population (%),2015,Zamboanga del Sur,24.8,Province,Region IX,%
